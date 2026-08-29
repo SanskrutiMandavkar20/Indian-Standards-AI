@@ -1,0 +1,23 @@
+[
+  {
+    "method": "POST",
+    "url": "https://standardsmodule.bis.gov.in/cms-service/api/ManageMenu/viewAll",
+    "status": 200,
+    "resource_type": "xhr",
+    "post_data": "[{\"secSlNo\":1,\"offSet\":0,\"noOfRecords\":0,\"viewParameters\":\"\"}]"
+  },
+  {
+    "method": "POST",
+    "url": "https://standardsmodule.bis.gov.in/cms-service/api/Address/viewAll",
+    "status": 200,
+    "resource_type": "xhr",
+    "post_data": "[{\"secSlNo\":1,\"offSet\":0,\"noOfRecords\":0,\"viewParameters\":\"\"}]"
+  },
+  {
+    "method": "POST",
+    "url": "https://standardsmodule.bis.gov.in/cms-service/api/ManageMenu/viewAll",
+    "status": 200,
+    "resource_type": "xhr",
+    "post_data": "[{\"secSlNo\":1,\"offSet\":0,\"noOfRecords\":0,\"viewParameters\":\"\"}]"
+  }
+]

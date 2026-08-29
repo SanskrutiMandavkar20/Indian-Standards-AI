@@ -1,0 +1,134 @@
+[
+  {
+    "method": "GET",
+    "url": "https://standards.bis.gov.in/website/published-standards",
+    "resource_type": "document",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://standards.bis.gov.in/assets/js/seo-head.js",
+    "resource_type": "script",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://standards.bis.gov.in/runtime.c5aca5c866ed0404.js",
+    "resource_type": "script",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://standards.bis.gov.in/polyfills.55d4c5f200113cc4.js",
+    "resource_type": "script",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://standards.bis.gov.in/scripts.e2bfe9b974b5a2a5.js",
+    "resource_type": "script",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://standards.bis.gov.in/main.67c3adb497a3c85f.js",
+    "resource_type": "script",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://standards.bis.gov.in/styles.3fb18572aef08517.css",
+    "resource_type": "stylesheet",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://standards.bis.gov.in/ClashGrotesk-Variable.2da0db5f5e8bd34c.woff2",
+    "resource_type": "font",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://standards.bis.gov.in/233.73bc37bb97c24ab7.js",
+    "resource_type": "script",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://standards.bis.gov.in/assets/img/loader.gif",
+    "resource_type": "image",
+    "post_data": null
+  },
+  {
+    "method": "POST",
+    "url": "https://standardsmodule.bis.gov.in/cms-service/api/ManageMenu/viewAll",
+    "resource_type": "xhr",
+    "post_data": "[{\"secSlNo\":1,\"offSet\":0,\"noOfRecords\":0,\"viewParameters\":\"\"}]"
+  },
+  {
+    "method": "POST",
+    "url": "https://standardsadmin.bis.gov.in/auth//logUniqueVisitor",
+    "resource_type": "xhr",
+    "post_data": "{\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/151.0.7922.34 Safari/537.36\",\"deviceId\":\"device-mtenhywg3qongc\",\"token\":null,\"refreshToken\":null,\"clientId\":null,\"clientSecret\":null,\"sub\":null}"
+  },
+  {
+    "method": "POST",
+    "url": "https://standardsmodule.bis.gov.in/cms-service/api/Address/viewAll",
+    "resource_type": "xhr",
+    "post_data": "[{\"secSlNo\":1,\"offSet\":0,\"noOfRecords\":0,\"viewParameters\":\"\"}]"
+  },
+  {
+    "method": "POST",
+    "url": "https://standardsmodule.bis.gov.in/cms-service/api/ManageMenu/viewAll",
+    "resource_type": "xhr",
+    "post_data": "[{\"secSlNo\":1,\"offSet\":0,\"noOfRecords\":0,\"viewParameters\":\"\"}]"
+  },
+  {
+    "method": "GET",
+    "url": "https://standards.bis.gov.in/assets/img/error.png",
+    "resource_type": "image",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://standards.bis.gov.in/assets/img/bis-logo.png",
+    "resource_type": "image",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://standards.bis.gov.in/assets/img/bis-logo-white.png",
+    "resource_type": "image",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://standards.bis.gov.in/bg-bredcrumb.d586fc43ae379566.jpg",
+    "resource_type": "image",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://standards.bis.gov.in/bootstrap-icons.154365acf3010d96.woff2",
+    "resource_type": "font",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://standards.bis.gov.in/bisweb-icon.5dfc3023f747d36b.ttf?w2q5ua",
+    "resource_type": "font",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://standards.bis.gov.in/bis-icon.429c66df18215b4f.ttf?uc7n3r",
+    "resource_type": "font",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://standards.bis.gov.in/assets/img/webp-file/bis-logo.webp",
+    "resource_type": "image",
+    "post_data": null
+  }
+]
