@@ -1,4 +1,3 @@
-
 import json
 import os
 import re
@@ -11,6 +10,9 @@ OUTPUT_FILE = os.path.join(OUTPUT_DIR, "bis_chunks.json")
 def clean_text(text):
     """Clean PDF extraction noise while preserving useful content."""
 
+    if not text:
+        return ""
+
     # Normalize whitespace
     text = text.replace("\r", "\n")
 
@@ -21,6 +23,107 @@ def clean_text(text):
     text = re.sub(r"\n\s*\n+", "\n\n", text)
 
     return text.strip()
+
+
+def extract_standard_metadata(text):
+    """
+    Extract BIS standard number and title from the beginning
+    of the extracted document text.
+    """
+
+    standard_number = ""
+    title = ""
+
+    # ---------------------------------------------------------
+    # Extract standard number
+    # ---------------------------------------------------------
+
+    number_match = re.match(
+        r"(IS\s+\d+(?::\s*\d{4})?)\s+",
+        text,
+        re.IGNORECASE
+    )
+
+    if not number_match:
+        return standard_number, title
+
+    standard_number = number_match.group(1).strip()
+
+    # ---------------------------------------------------------
+    # Remove standard number
+    # ---------------------------------------------------------
+
+    remaining_text = text[number_match.end():].strip()
+
+    # ---------------------------------------------------------
+    # Find description start
+    # ---------------------------------------------------------
+
+    description_markers = [
+        " Wet land cultivation,",
+        " The ",
+        " This standard ",
+        " This Indian Standard ",
+        " This document ",
+        " This specification ",
+        " This code "
+    ]
+
+    positions = []
+
+    for marker in description_markers:
+
+        position = remaining_text.lower().find(
+            marker.lower()
+        )
+
+        if position > 0:
+            positions.append(position)
+
+    # ---------------------------------------------------------
+    # Extract title
+    # ---------------------------------------------------------
+
+    if positions:
+
+        title_end = min(positions)
+
+        title = remaining_text[:title_end].strip()
+
+    else:
+
+        # Fallback: first sentence
+        sentence_match = re.search(
+            r"\.",
+            remaining_text
+        )
+
+        if sentence_match:
+            title = remaining_text[
+                :sentence_match.start()
+            ].strip()
+
+    # ---------------------------------------------------------
+    # Clean title formatting
+    # ---------------------------------------------------------
+
+    title = re.sub(
+        r"\s+",
+        " ",
+        title
+    ).strip()
+
+    # Remove accidental description text after the title
+    revision_match = re.search(
+        r"(.+?\(First Revision\))",
+        title,
+        re.IGNORECASE
+    )
+
+    if revision_match:
+        title = revision_match.group(1).strip()
+
+    return standard_number, title
 
 
 def split_into_chunks(text, chunk_size=1200, overlap=200):
@@ -90,6 +193,9 @@ def main():
         source_file = document["source_file"]
         text = clean_text(document["text"])
 
+        # Extract metadata from document text
+        standard_number, title = extract_standard_metadata(text)
+
         chunks = split_into_chunks(text)
 
         print(
@@ -104,14 +210,8 @@ def main():
 
             all_chunks.append({
                 "chunk_id": f"bis_{chunk_id}",
-                "standard_number": document.get(
-                    "standard_number",
-                    ""
-                ),
-                "title": document.get(
-                    "title",
-                    ""
-                ),
+                "standard_number": standard_number,
+                "title": title,
                 "source_file": source_file,
                 "chunk_index": i,
                 "text": chunk

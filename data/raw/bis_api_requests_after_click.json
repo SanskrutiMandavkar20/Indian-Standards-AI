@@ -1,0 +1,58 @@
+[
+  {
+    "method": "POST",
+    "url": "https://standardsadmin.bis.gov.in/project-service/getWebsiteTechnicalDepartments",
+    "status": 200,
+    "resource_type": "xhr",
+    "post_data": "{\"token\":null,\"refreshToken\":null,\"clientId\":null,\"clientSecret\":null,\"sub\":null}"
+  },
+  {
+    "method": "POST",
+    "url": "https://standardsadmin.bis.gov.in/auth//logUniqueVisitor",
+    "status": 200,
+    "resource_type": "xhr",
+    "post_data": "{\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/151.0.7922.34 Safari/537.36\",\"deviceId\":\"device-mtfrdysnhfsfrw\",\"token\":null,\"refreshToken\":null,\"clientId\":null,\"clientSecret\":null,\"sub\":null}"
+  },
+  {
+    "method": "POST",
+    "url": "https://standardsmodule.bis.gov.in/cms-service/api/Address/viewAll",
+    "status": 200,
+    "resource_type": "xhr",
+    "post_data": "[{\"secSlNo\":1,\"offSet\":0,\"noOfRecords\":0,\"viewParameters\":\"\"}]"
+  },
+  {
+    "method": "POST",
+    "url": "https://standardsmodule.bis.gov.in/cms-service/api/ManageMenu/viewAll",
+    "status": 200,
+    "resource_type": "xhr",
+    "post_data": "[{\"secSlNo\":1,\"offSet\":0,\"noOfRecords\":0,\"viewParameters\":\"\"}]"
+  },
+  {
+    "method": "POST",
+    "url": "https://standardsmodule.bis.gov.in/cms-service/api/ManageMenu/viewAll",
+    "status": 200,
+    "resource_type": "xhr",
+    "post_data": "[{\"secSlNo\":1,\"offSet\":0,\"noOfRecords\":0,\"viewParameters\":\"\"}]"
+  },
+  {
+    "method": "POST",
+    "url": "https://standardsadmin.bis.gov.in/review-service//getWebitePSCountDepartmentwise",
+    "status": 200,
+    "resource_type": "xhr",
+    "post_data": "{\"departmentIds\":[109,62,63,66,65,110,61,21,68,64,70,69,74,107,71,67,72],\"token\":null,\"refreshToken\":null,\"clientId\":null,\"clientSecret\":null,\"sub\":null}"
+  },
+  {
+    "method": "POST",
+    "url": "https://standardsadmin.bis.gov.in/review-service//getRevisedStandardsCount",
+    "status": 200,
+    "resource_type": "xhr",
+    "post_data": "{\"list\":[{\"departmentId\":109},{\"departmentId\":62},{\"departmentId\":63},{\"departmentId\":66},{\"departmentId\":65},{\"departmentId\":110},{\"departmentId\":61},{\"departmentId\":21},{\"departmentId\":68},{\"departmentId\":64},{\"departmentId\":70},{\"departmentId\":69},{\"departmentId\":74},{\"departmentId\":107},{\"departmentId\":71},{\"departmentId\":67},{\"departmentId\":72}],\"token\":null,\"refreshToken\":null,\"clientId\":null,\"clientSecret\":null,\"sub\":null}"
+  },
+  {
+    "method": "POST",
+    "url": "https://standardsadmin.bis.gov.in/review-service//getAspectAndDegreeOfEquivalenceFilters",
+    "status": 200,
+    "resource_type": "xhr",
+    "post_data": "{\"token\":null,\"refreshToken\":null,\"clientId\":null,\"clientSecret\":null,\"sub\":null}"
+  }
+]

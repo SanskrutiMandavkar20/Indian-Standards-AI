@@ -1,0 +1,1069 @@
+{
+  "success": true,
+  "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+  "document_type": "standard",
+  "document_title": "COMPENDIUM ON",
+  "chunk_count": 69,
+  "chunks": [
+    {
+      "chunk_id": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+      "document_title": "COMPENDIUM ON",
+      "page_number": null,
+      "chunk_index": 1,
+      "text": "COMPENDIUM ON\nCOMPENDIUM ON\nSAFETY IN CONSTRUCTION,\nSAFETY IN CONSTRUCTION,\nOPERATION, AND MAINTENANCE OF\nOPERATION, AND MAINTENANCE OF\nRIVER VALLEY PROJECT\nRIVER VALLEY PROJECT\nBureau of Indian Standards\nBureau of Indian Standards",
+      "character_count": 231,
+      "standard_numbers": [],
+      "evidence": {
+        "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+      "document_title": "COMPENDIUM ON",
+      "page_number": null,
+      "chunk_index": 2,
+      "text": "नदी घाटी परियोजनाओं के निर्माण, संचालन\nऔर रखरखाव में सुरक्षाा पर सार-संग्रह\nSAFETY IN CONSTRUCTION, OPERATION, AND\nMAINTENANCE\nOF RIVER VALLEY PROJECTS\nCOMPENDIUM\nON",
+      "character_count": 165,
+      "standard_numbers": [],
+      "evidence": {
+        "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+      "document_title": "COMPENDIUM ON",
+      "page_number": null,
+      "chunk_index": 3,
+      "text": "From\nWater Resources Department,\nBureau of Indian Standards,\n9, Bahadur Shah Zafar Marg, New Delhi - 110002\nContact Details:\nWater Resources Department, BIS\nEmail - wrd@bis.gov.in\nTelephone No.: 011-23231906\nAll rights reserved. The standards given in the handout are for BIS\nTraining use only.\nNOT TO BE USED FOR COMMERCIAL PURPOSES.",
+      "character_count": 334,
+      "standard_numbers": [],
+      "evidence": {
+        "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+      "document_title": "COMPENDIUM ON",
+      "page_number": null,
+      "chunk_index": 4,
+      "text": "INTRODUCTION\nIndia, with its vast river systems and varied topography, has long relied\non river valley projects for irrigation, hydropower generation, flood\nmanagement, and water supply. These projects — comprising dams,\nbarrages, canals, tunnels, and hydropower stations — play a pivotal\nrole in the country's economic development, agricultural productivity,\nand energy security.\nGiven the critical nature of such infrastructure, safety in the\nconstruction, operation, and maintenance of river valley projects is of\nparamount importance. Incidents such as dam failures, embankment\nbreaches, equipment malfunctions, and natural disasters like floods\nand earthquakes can pose serious threats to human life, ecosystems,\nand national infrastructure.\nComplementing these efforts, the Bureau of Indian Standards (BIS), as\nthe National Standards Body of India, has developed a suite of\nstandards under its Sectional Committee WRD 21 – Safety in\nConstruction, Operation, and Maintenance of River Valley Projects.\nThe IS 10386 series of standards cover various aspects of safety\nincluding general safety practices, personal protective equipment,\nmachinery handling, electrical systems, fire safety, excavation\nprotocols, and maintenance procedures.\nThis Compendium brings together all the standards published by\nWRD 21, along with other relevant Indian Standards, government\nguidelines, and international best practices such as those from ISO etc.\nIt is designed to serve as a comprehensive reference tool for engineers,\ncontractors, regulatory authorities, and project managers engaged in\nplanning, executing, and overseeing river valley projects.",
+      "character_count": 1640,
+      "standard_numbers": [],
+      "evidence": {
+        "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+      "document_title": "COMPENDIUM ON",
+      "page_number": null,
+      "chunk_index": 5,
+      "text": "T A B L E O F C O N T E N T S\n📚 Section 1: Terminology\n⚙️ Section 2: General Safety & Health Management\n🛡️ Section 3: Hazard Identification & Risk Assessment\n⚖️ Section 4: Occupational Health and Safety (OHS)\n⛏️ Section 5: Excavation\n📦 Section 6: Material Handling\n🏗️ Section 7: Construction Works\n🔌 Section 8: Electrical Aspects\n🔥 Section 9: Fire Safety\n⚠️ Section 10: Common Hazards\n🔧 Section 11: Special Works\n🎨 Section 12: Safety-Related Colors and Graphical Symbols",
+      "character_count": 470,
+      "standard_numbers": [],
+      "evidence": {
+        "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+      "document_title": "COMPENDIUM ON",
+      "page_number": null,
+      "chunk_index": 6,
+      "text": "SAFETY IN CONSTRUCTION, OPERATION, AND\nMAINTENANCE OF RIVER VALLEY PROJECTS\nCompendium on\n1 SCOPE\n\n1.1 This handbook is based on the guidelines provided in the Indian\nStandard IS 10386 (Parts 1 to 13) of 2013, IS/ISO 45001 and various\nother Indian Standards and manuals which covers the safety aspects\nrelated to the construction, operation, and maintenance of river valley\nprojects.\n\n1.2 These safety codes provide guidelines for various aspects such as\ngeneral safety practices, safety in construction, excavation, Material\nand explosives handling, electrical safety, fire safety, excavation safety,\ncanal safety, special works, Tunneling, and Common hazards. The\nimplementation of these standards ensures that workers are equipped\nwith the proper training, tools, and infrastructure to safely carry out\ntasks and minimize risks associated with such massive projects.\nNote: Users are encouraged to refer to the Indian Standard for details\nand final interpretation",
+      "character_count": 965,
+      "standard_numbers": [],
+      "evidence": {
+        "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+      "document_title": "COMPENDIUM ON",
+      "page_number": null,
+      "chunk_index": 7,
+      "text": "📚 SECTION 1\nThe terms and definitions used in this handbook shall be interpreted as\nper the definitions provided in the following standards, unless\notherwise specified:\nIS 10386 (Parts 1 to 11) – Safety Code for River Valley Projects\nIS 4410 (All Parts) – Glossary of Terms Relating to Water\nResources\nIS/ISO 45001 – Occupational Health and Safety Management\nSystems – Requirements with Guidance for Use\n1 TERMINOLOGY",
+      "character_count": 417,
+      "standard_numbers": [],
+      "evidence": {
+        "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+      "document_title": "COMPENDIUM ON",
+      "page_number": null,
+      "chunk_index": 8,
+      "text": "⚙️ SECTION 2\n(Recommendation of IS 10386 (Part 1) : 2013 and IS 15883 (Part 5) :\n2013)\n2 GENERAL\n\n2.1 Health and Safety Management System\n\nOrganizational structure depends on the project delivery model, a\ntypical organizational chart for health and safety management is given\nin Fig.1 for reference.\nFIG. 1 TYPICAL PART STRUCTURE FOR HEALTH AND SAFETY MANAGEMENT IN A ORGANIZATION",
+      "character_count": 380,
+      "standard_numbers": [
+        "IS 10386 (Part 1):2013",
+        "IS 15883 (Part 5):2013"
+      ],
+      "evidence": {
+        "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+      "document_title": "COMPENDIUM ON",
+      "page_number": null,
+      "chunk_index": 9,
+      "text": "A\nstructured\nHealth\nand\nSafety\nManagement System, aligned with\nIS/ISO 45001, provides a framework\nfor\nidentifying\nand\nmitigating\nworkplace hazards during the lifecycle\nof river valley projects. Key elements\ninclude:\nSafety Policy\nRisk and Hazard Management\nSafety Procedures and Controls\nTraining and Competency Development\nIncident Reporting and Investigation\nMonitoring and Evaluation\nContinuous Improvement\nRefer to IS/ISO 45001 and IS 15883 (Part 5) for detailed system\nframework and implementation guidelines.\n2.2 Organizational Structure for Health and Safety at Various Project\nStages\nHealth and safety considerations span all project stages—pre-\nconstruction, construction, and commissioning. Each stage should\nhave defined responsibilities, as per organizational structure suited to\nthe delivery model. The safety team should report directly to the\nProject Manager. Refer IS 15882 (Part 5) for detailed guidance.\n2.2.1 Pre-construction — Health and safety management during this\nstage may be carried out in-house and/or through a consultant.",
+      "character_count": 1050,
+      "standard_numbers": [],
+      "evidence": {
+        "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+      "document_title": "COMPENDIUM ON",
+      "page_number": null,
+      "chunk_index": 10,
+      "text": "2.2.2 Construction — This is carried out generally through one or more\ncontractors. Each contractor may engage sub-contractors, although the\nmain contractor remains responsible for the overallperformance of the\ncontract. Typical health and safety organizational structure of a\nconstruction agency is given in Fig. 2.\nFIG. 2 TYPICAL DESIGN-BID-BUILD MODEL\n2.2.3 Commissioning and handing over — While the construction\nagency or agencies may hand over the project or the concerned\ncomponent, owner may also be involved in commissioning and\nsubsequent operation of the project.\nNote: The organizational structure for health and safety management process may vary from project to project\ndepending on size of the project, delivery model and construction methodologies. On large and medium value\nprojects, it may be necessary to have a separate health and safety team for each sub-contractor who in turn shall\nreport to health and safety team of the main construction agency. In small value projects, this role may be\nmerged with some other functions.",
+      "character_count": 1046,
+      "standard_numbers": [],
+      "evidence": {
+        "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+      "document_title": "COMPENDIUM ON",
+      "page_number": null,
+      "chunk_index": 11,
+      "text": "2.3 Requirements for Health and Safety Management\n\nA documented Health and Safety Plan must align with the\norganization’s safety policy. It should include site-specific objectives,\nrisk control measures, emergency preparedness, training, compliance to\nstatutory requirements, and subcontractor management. Refer IS\n15883 (Part 5) for recommended plan components.\n2.4 Safety Programme\nEach contractor, private or government agency, shall have facilities for\nconducting a safety programme, commensurate with the magnitude of\nwork under contract. Details of safety programme to be adopted by\nthe contractor shall be given by the contracting Officer/Engineer-in-\nCharge, prior to the start of construction operation. The programme\nshall give details of the provisions proposed by the contractor, to\nprovide for safety of the employees and for elimination of health\nhazards. In case the work is undertaken by a government agency itself,\nthe chief executive or the chief authority shall constitute a unit/cell to\nprepare a detailed safety programme to be approved by the Chief\nExecutive.\n2.5 Safety Laws and Regulations\nAll health and safety measures must comply with applicable central\nand state laws including:\na.) The Building and Other Construction Workers (Regulation of Employment and\nConditions of Service) Act, 1996;\nb.) Environment Protection Act, 1986; and\nc.) Relevant BIS standards (indicative list at Annexure C).",
+      "character_count": 1420,
+      "standard_numbers": [],
+      "evidence": {
+        "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+      "document_title": "COMPENDIUM ON",
+      "page_number": null,
+      "chunk_index": 12,
+      "text": "2.6 Safety Personnel and Safety Meetings\n\nContractors and executing agencies shall designate competent safety\nsupervisors and establish safety cells. Regular safety meetings must be\nconducted:\na) Pre-construction meetings with stakeholders;\nb) Bi-monthly joint safety policy meetings; and\nc) Monthly tool-box meetings at worksites.\n2.7 Employee Qualification and Training\n\nOnly medically fit and qualified personnel shall be employed.\nCertification of physical fitness is mandatory for operators of heavy\nequipment. Periodic safety training shall be imparted to all workers\nand supervisors. Refer IS 10386 (Part 3) and IS 15883 for detailed\nguidance.\n\n2.8 Special Responsibility\n\nThe project leadership must empower the safety officer with necessary\nauthority and resources. Safety principles should be integrated at the\nplanning stage. Emphasis should be on both physical controls and\nbehavioural safety.\n\n2.9 Reporting Mechanism\n\nA structured reporting system shall be maintained to document all\nincidents, injuries, near-misses, and unsafe conditions. Standard\nformats (Annex B) must be used. Immediate reporting of major\nincidents to project authorities is mandatory.",
+      "character_count": 1171,
+      "standard_numbers": [],
+      "evidence": {
+        "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+      "document_title": "COMPENDIUM ON",
+      "page_number": null,
+      "chunk_index": 13,
+      "text": "🛡️ SECTION 3\n(Recommendation of IS 15656 and IS 3786, IS 45001)\n3 Hazard Identification and Risk Assessment\n\n3.1 Hazard identification and risk assessment (HIRA) is a systematic\nprocess to recognize potential hazards, evaluate associated risks, and\nprioritize appropriate mitigation measures. When applied diligently, it\nsupports safer design, operation, and maintenance of River Valley\nProjects by preventing accidents and minimizing consequences.\nRefer: IS 15656, IS/ISO 45001, IS 14489, IS 3786, IS 8756, and\ninternational practices such as ISO 31000 (Risk Management) and IEC\n61882 (HAZOP).\n\n3.2 A typical HIRA or Quantitative Risk Assessment (QRA) process\nincludes:\nHazard Identification: Recognition of potential sources of harm or\nprocess failures.\nConsequence Analysis: Estimation of potential effects (e.g., fire,\nexplosion, toxic exposure).\nFrequency Estimation: Evaluation of the probability of occurrence\nusing techniques such as fault tree and event tree analysis.\nRisk\nEstimation\nand\nEvaluation:\nRisk\n=\nLikelihood\n×\nConsequence. Comparison against acceptable risk thresholds.\nRisk Mitigation and Prioritization: Implementation of control\nmeasures and prioritization based on risk level.",
+      "character_count": 1200,
+      "standard_numbers": [],
+      "evidence": {
+        "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+      "document_title": "COMPENDIUM ON",
+      "page_number": null,
+      "chunk_index": 14,
+      "text": "3.3 Techniques such as HAZOP (Hazard and Operability Study) are\nrecommended for complex systems. A multidisciplinary team\nsystematically examines process deviations from design intent using\nguidewords to identify potential causes and consequences.\n\n3.4 Risk assessments should be conducted across all stages of project\nlifecycle—design,\nconstruction,\ncommissioning,\noperation,\nand\ndecommissioning—as each stage introduces unique hazards. Refer Fig.\n4: Stages of Process Project and Risk Analysis.\nFIG. 4 STAGES OF PROCESS PROJECT AND RISK ANALYSIS",
+      "character_count": 547,
+      "standard_numbers": [],
+      "evidence": {
+        "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+      "document_title": "COMPENDIUM ON",
+      "page_number": null,
+      "chunk_index": 15,
+      "text": "a) Frequency Rate — The frequency rate shall be\ncalculated both for lost time injury and reportable lost time injury as\nfollows:\nFA = Number of lost time injury ×1 000 000 Man-hours\nworked\nFB = Number of reportable lost time injury ×1 000 000\nMan-hours worked\n\nb) Severity Rate- The severity rate shall be calculated from man-days\nlost both of lost time injury and reportable lost time injury as\nfollows:\nSA = Man-days lost due to lost time injury ×1 000 000\nMan-hours worked\nSB= Man-days lost due to reportable lost time injury\n\nc) Incidence Rate — The incidence rate is the ratio of the number of\ninjuries to the number of persons during the period under review. It\nis expressed as the number of injuries per 1 000 persons employed.\nThe incidence rate may be calculated both for lost time injuries and\nreportable lost-time injuries as follows:\n3.5 Safety Performance Indicators\nTo monitor ongoing safety performance, the following metrics are\nrecommended in accordance with IS 3786:",
+      "character_count": 984,
+      "standard_numbers": [],
+      "evidence": {
+        "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+      "document_title": "COMPENDIUM ON",
+      "page_number": null,
+      "chunk_index": 16,
+      "text": "⚖️ SECTION 4\n[Recommendation of IS 10386 (Part 2) : 2013]\n4 OCCUPATIONAL HEALTH AND SAFETY (OHS)\n\nOccupational health and safety is a core responsibility of the employer\nand must be integrated into the management system, aligned with\nnational regulations and international frameworks such as IS/ISO\n45001 and IS 3786. The employer must demonstrate commitment\nthrough\neffective\nimplementation,\nresource\nprovision,\nand\nenforcement.\n\n4.1 Personal Protection Equipment\n\nPPE should be considered only after all other risk reduction measures\nhave been exhausted. Employers are responsible for:\nSupplying appropriate PPE as per identified risk.\nEnsuring proper training, maintenance, and use.\nEnforcing compliance through regular monitoring.\nRefer IS 2925 (Helmets), IS 15298 (Safety footwear), IS 9167\n(Respirators), and relevant IS codes for gloves, goggles, and protective\nclothing.\nKey Provisions:\n\nWorkers in tunnels with flammable/toxic gas must use breathing\napparatus;\nMinimum two-person rule for entry into hazardous zones;",
+      "character_count": 1025,
+      "standard_numbers": [
+        "IS 10386 (Part 2):2013"
+      ],
+      "evidence": {
+        "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+      "document_title": "COMPENDIUM ON",
+      "page_number": null,
+      "chunk_index": 17,
+      "text": "Mandatory eye/ear/face protection during welding or noisy\noperations;\nSpecial protection for cement handlers, steel erectors, and\nworkers exposed to sharp edges or chemicals; and\nSafety Data Sheets (SDS) must be available for all hazardous\nsubstances, providing clear instructions on handling, PPE, first\naid, and emergency measures.\n4.2 Frist Aid\n\nFirst aid arrangements must be readily available at all worksites.\n\nEmployer's Responsibilities:\n\nEnsure prompt, accessible first aid kits (minimum one per 25\nworkers);\nDisplay emergency contacts and provide trained personnel; and\nEnable emergency transport and maintain proper signage.\n\nRefer: IS 3786 and National Factory Rules for first aid standards.\n\nThe Objectives of Frist Aid are:\na) Preserve life and prevent further injury;\nb) Minimize deterioration of condition (e.g., control bleeding,\nimmobilize fractures); and\nc) Promote recovery using available resources and techniques (e.g.,\nCPR, wound dressing).\n4.3 Ventilation and Lighting\na) Adequate forced ventilation systems (with backup power) must be\ninstalled in tunnel areas to ensure air quality;",
+      "character_count": 1108,
+      "standard_numbers": [],
+      "evidence": {
+        "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+      "document_title": "COMPENDIUM ON",
+      "page_number": null,
+      "chunk_index": 18,
+      "text": "b) Entry is prohibited in spaces with oxygen levels less than 19.5\npercent or where dangerous gases are present unless certified safe;\nand\nc) Gaseous conditions must be tested every 2 hours during\noperations, especially after rockfalls or disturbances.\n4.4 Water Supply, Drainage and Sanitation\na) Potable drinking water must meet central/state/local health\nstandards, with periodic testing every two months;\nb) Clearly marked drinking water outlets should be installed at\nworksites;\nc) Proper sanitation and drainage systems are mandatory, with\nprovision of toilets and washing facilities in accordance with local\nregulations; and\nd) Debris and waste must be cleared promptly and disposed of as per\nenvironmental guidelines.\n4.5 Dust and Noise Control\na) Cement handling areas and batching plants must provide nose\nmasks and dust suppression systems;\nb) Exhaust systems (fans, shafts, etc.) are required in tunnels to\nmanage airborne particles;\nc) Where noise exceeds permissible limits, engineering controls must\nbe implemented, and hearing protection provided; and\nd) Tunneling sites using compressed air must provide rest shelters\nwith adequate amenities.",
+      "character_count": 1159,
+      "standard_numbers": [],
+      "evidence": {
+        "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+      "document_title": "COMPENDIUM ON",
+      "page_number": null,
+      "chunk_index": 19,
+      "text": "⛏️ SECTION 5\n(Recommendation of IS 10386 (Part 8) : 2024and IS 10386 (Part 11) :\n2012, IS 3764: 1992)\n5 EXCAVATION\nExcavation is one of the most hazardous construction activities,\nessential for foundations, utility lines, and water/sewer systems. It\nincludes any man-made cut, trench, or depression in the earth formed\nby removal of soil. The major risks include cave-ins, contact with\nutility lines, and hazardous atmospheres. Awareness, planning, and\nsafety management are critical.\n5.1 Open Excavation\n5.1.1 General Safety Requirement\nSafety is a shared responsibility at the worksite. Awareness and\nadherence to safety rules are vital. Safety requirements vary based on\nstructure type, soil strata, and machinery. A safety manager should\noversee hazard identification, worker education, and maintenance of\nsafety equipment. Excavation slopes must remain safe throughout\nconstruction. Warning signs should be displayed prominently\n5.1.2 Investigation Data\nBefore excavation begins, data on subsurface strata must be collected.\nThis includes overburden, rock type, faults, joints, and water tables. For\ndepths above 10 m, physical and engineering properties of overburden\nmust be assessed.",
+      "character_count": 1191,
+      "standard_numbers": [
+        "IS 10386 (Part 11):2012",
+        "IS 3764:1992"
+      ],
+      "evidence": {
+        "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+      "document_title": "COMPENDIUM ON",
+      "page_number": null,
+      "chunk_index": 20,
+      "text": "5.1.3 Excavation Slope\n\nExcavation slopes adopted in the field should be safe against sliding or\nslip during the entire period of construction so they do not endanger\nthe safety of men and machinery, as also the structure under\nconstruction, adjacent to the area of excavation. This is essential as the\nconstruction of river valley projects continues over years, during which\ntime many normal and abnormal monsoons and other hazardous field\nconditions may be encountered.\nFor general guidance, the following slopes may be adopted for open\nexcavation work up to 10m depth.\na) Soil over burden/boulder strata- 2 horizontal to 1 vertical to 1\nhorizontal to 1 vertical;\nb) Soft/weathered rock- 0.5 horizontal to 1 vertical; and\nc) Hard rock - 0.25 horizontal to 1 vertical.\n5.1.4 Tool Plant Machinery\n\nTools and Machinery Tools must be kept away from trench edges.\nHeavy machinery should be at least 6 m away from excavation edges\nwhen idle. Vehicle movement near excavation should be supervised,\nand paths should avoid trench edges. Vigilance is required during\nloading to prevent slides or rockfall.\n\n5.1.5 Access or Escape Way\n\nAccess and Escape Pathways should be non-slippery, wide, and strong.\nGangways must be clear of obstructions. Ladders shall extend at least\n1 m above the cut and comply with IS 3696.",
+      "character_count": 1308,
+      "standard_numbers": [],
+      "evidence": {
+        "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+      "document_title": "COMPENDIUM ON",
+      "page_number": null,
+      "chunk_index": 21,
+      "text": "5.2 Deep Excavation\n\nDeep excavation poses even greater risks. Safety varies with structure\ntype, excavation method, and soil conditions. Safety engineers must\noversee all operations, and workmen must be trained.\n\n5.2.1 General Safety Requirements\n\nAll personnel must remain alert to hazards. Safety managers must\noversee the implementation of safety rules, education, and installation\nof safeguards. Underground excavation is inherently risky and must be\napproached with maximum caution.\n\n5.2.2 Investigation, Data and Survey\n\nSufficient geological and geotechnical data are essential before\nexcavation. Mapping, drilling, and seismic data collection help\nanticipate and mitigate geological surprises. IS 4967 and related codes\nshould guide the planning of underground structures.\n\n5.2.3 Drilling and Blasting Operations\n\nBlasting must comply with legal norms for explosives. Warning signs\nand signals are mandatory. Explosives shall be stored in a safe place at\na sufficient distance from the work site and under the special care of a\nwatchman (As per 10386). Personnel must maintain safe distances.\nUnused or unblasted detonators must be removed. Only electrical\nblasting should be used in underground works.",
+      "character_count": 1211,
+      "standard_numbers": [],
+      "evidence": {
+        "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+      "document_title": "COMPENDIUM ON",
+      "page_number": null,
+      "chunk_index": 22,
+      "text": "5.2.4 Blast Vibration Monitoring\n\nBlast-induced vibrations can cause structural damage. Surveys and\nmodern instruments should be used to monitor vibrations. Extra\nprecautions must be taken in soft strata or during rainy seasons.\nTunnel entry points with minimal rock cover require careful design and\nsafety consideration.\n\n5.2.5 Instrumentation\n\nUnderground excavations alter stress patterns, potentially causing\ndisplacements and cracks. Instrumentation helps assess rock quality,\nmonitor deformation, and evaluate support system performance.\nProper support must be designed based on monitoring data.\n5.3 Dewatering\n\nExcavated areas must be dewatered to prevent slips and slope failures.\nDrainage systems should divert surface/storm water away from the\nexcavation. Both temporary and permanent drainage should be\nconstructed to ensure safety and stability.",
+      "character_count": 857,
+      "standard_numbers": [],
+      "evidence": {
+        "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+      "document_title": "COMPENDIUM ON",
+      "page_number": null,
+      "chunk_index": 23,
+      "text": "📦 SECTION 6\nRecommendation of IS 7293 : 1974 and IS 10386 (Part 4) : 2013)\n6 MATERIAL HANDLING\n\n6.1 Transport\n\nAll motor trucks, tractors, and dumpers used at construction sites\nshall comply with IS 13367 for safety requirements:\na) Provide protective cabins/canopies for drivers;\nb) Driver seats shall be vibration-absorbing and ergonomically\ndesigned;\nc) Brakes must be capable of holding the vehicle under maximum\nload;\nd) Use of draw gear shall prevent worker exposure during coupling;\ne) Drivers must vacate cabins during loading;\nf) Avoid loading under overhead materials (e.g., bucket lines);\ng) Maintain minimum 0.6 m clearance from rotating machinery like\nexcavators;\nh) Use standardized hand signals per IS 7969 when vision is\nobstructed;\ni) Ensure load is secure and evenly distributed before transport; and\nj) Stop blocks must be placed at every tipping point per IS 13367.\n6.2 Storage\n\n6.2.1 Cement Lime Pozzolana Handling\n\nRefer to IS 4082 for stacking and storage:\na) Workers must wear PPE including respirators and goggles;",
+      "character_count": 1039,
+      "standard_numbers": [
+        "IS 7293:1974",
+        "IS 10386 (Part 4):2013"
+      ],
+      "evidence": {
+        "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+      "document_title": "COMPENDIUM ON",
+      "page_number": null,
+      "chunk_index": 24,
+      "text": "b) Stacks shall not exceed 15 bags; use interlocking (header/stretcher)\nmethod if over 8;\nc) Remove bags from the top uniformly;\nd) Lockout/tagout ejection systems before silo entry; and\ne) Use lifelines and a standby supervisor during confined space entry.\n6.2.2 Reinforcing and Structural Steel\na) Stacking Reinforcing Steel — Reinforcing steel shall be stored\naccording to length, size and shape, and shall be piled in such a\nmanner as to prevent tipping or falling.\nb) Lagging — Steel shall be stored on a solid foundation, utilizing\nlagging as necessary to ensure stable piles.\na) Safe Access — Adequate spacing shall be maintained between piles\nto ensure safe access.\nb) Gloves — Workmen handling deformed steel bars, barbed wire,\nexpanded metal and the like shall be required to wear gloves.\nc) Manual Handling — Heavy steel sections and bundles shall be\nlifted and carried with the help of slings and tackles and shall not be\ncarried on the shoulders of the workman.\n6.2.3 Sand Gravel and Crushed Stone\na) Location of Stockpiles — Stockpiles of these materials shall be so\nlocated as to provide easy access for withdrawing. In stacking these\nmaterials minimum safety distances as mentioned under 3.5.5 shall be\nensured between the material and the overhead power lines.\nb) Overhanging Prohibited — When withdrawals are made from\nstockpiles, no overhang shall be permitted.\nc) Superimposed Loading — Materials shall not be piled against\nwalls that will be endangered by thrust, nor along the sides of any\nexcavation or on the top of an embankment so as to cause slips.",
+      "character_count": 1575,
+      "standard_numbers": [],
+      "evidence": {
+        "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+      "document_title": "COMPENDIUM ON",
+      "page_number": null,
+      "chunk_index": 25,
+      "text": "d) Hoppers — Employees required to enter hoppers shall be\nequipped with safety belts and lifelines, attended by another person.\ndriven hoppers, feeders, and loaders shall be locked in the off\nposition prior to entry.\n6.2.4 Flammable Materials\na) Regulations — Flammable materials shall be stored in accordance\nwith the relevant regulations and rules so as to ensure the desired\nsafety during storage. Explosives like detonators shall be stored in\naccordance with the existing regulations of Indian Explosives Act.\nb) Personnel — Operations in connection with handling, storage and\nissuance of flammable liquids shall be under the supervision of\nqualified and experienced persons.\nc) Clothing — Workmen shall be required to guard carefully against\nany part of their clothing becoming contaminated with flammable\nfluids. They shall not be allowed to continue work when their\nclothing becomes so contaminated.\nd) Handling — Petroleum products delivered to the job site and\nstored there in drums shall be protected during handling to prevent\nloss of identification through damage to drum markings, tags, etc.\nUnidentifiable petroleum products may result in improper use, with\npossible fire hazard, damage to equipment, or operating failure. Bulk\ndelivery and storage of petroleum products requires the same cart in\nidentification, and particular attention to fire hazards during\nhandling.\ne) Storage — Outdoor storage of drums requires some care to avoid\ncontaminations. Moisture and dirt in hydraulic brake and\ntransmission fluid, gasoline, or lubricants may easily cause\nmalfunction or failure of equipment, with possible danger to\npersonnel. The storage area should be free of accumulations of\nspilled products, debris and other hazards. Compressed gases and\npetroleum products shall not be stored the",
+      "character_count": 1800,
+      "standard_numbers": [],
+      "evidence": {
+        "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects_pNone_c2",
+      "document_type": "standard",
+      "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+      "document_title": "COMPENDIUM ON",
+      "page_number": null,
+      "chunk_index": 26,
+      "text": "s may easily cause\nmalfunction or failure of equipment, with possible danger to\npersonnel. The storage area should be free of accumulations of\nspilled products, debris and other hazards. Compressed gases and\npetroleum products shall not be stored the same building or close to",
+      "character_count": 276,
+      "standard_numbers": [],
+      "evidence": {
+        "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+      "document_title": "COMPENDIUM ON",
+      "page_number": null,
+      "chunk_index": 27,
+      "text": "each other.\nf) Bulk Storage — For bulk storage of petroleum, kerosene oil and\nthe like, the storage shall comply strictly with the specifications given\nin the Petroleum rules.\n6.2.5 Explosives\n\nExplosives are vital for tunneling, shaft sinking, and excavation in river\nvalley projects. Their selection, handling, and use must comply with the\nIndian Explosives Act, 1884 and relevant rules.\n\nProper storage ensures safety and preserves effectiveness. Explosives\nare sensitive to temperature and humidity—gelatin, for instance, may\nharden in cold and should be gently warmed (not near fire) before use.\nBoth overly moist and dry environments degrade explosive quality.\nStocks must be used in manufacture-date sequence, and once opened,\ncases should be resealed and used promptly.\n\n6.2.5.1 Storage of different class of explosives\n\nUnder the Explosives Rules, the various explosives and accessories are\nclassified under separate headings as below:\na) Class 1 — Gunpowder\nb) Class 2 — Nitrate mixtures (GN/L, Power flow 1, Power flow 2,\nand Power flow 3)\nc) Class 3 — Nitro compounds\n\nDiv. 1 — Blasting gelatin, special gelatins, opencast gelignite,\npermitted explosives, etc.\n\nDiv. 2 — Seismex, seismex primers, gun cotton, PETN, TNT,\nprimex, etc.",
+      "character_count": 1244,
+      "standard_numbers": [],
+      "evidence": {
+        "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+      "document_title": "COMPENDIUM ON",
+      "page_number": null,
+      "chunk_index": 28,
+      "text": "d) Class 4 — Chlorate mixtures\ne) Class 5 — Fulminates\nf) Class 6 — Ammunition\nDiv. 3 — Safety fuse, fog signals, igniter cord connectors,\nelectric lighters, safety electric fuses, percussion caps, safety\ncartridges for small arms.\nDiv. 4 — Plastic igniter cord, detonation fuse, electric fuse,\nfuse igniters etc.\nDiv. 5 — Detonators, detonating relays, etc.\ng) Class 7 — Fireworks Under the Explosives Rules the following can\nbe stored together in the same magazine:\n1) Gunpowder: Class 1\n2) Nitrate mixture: Class 2\n3) Nitro compounds: Class 3\n4) Chlorate mixtures: Class 4\n5) Safety fuse: Class 6 Div. 1\n6) Plastic igniter cord: Class 6 Div. 2\n7) Detonating fuse: Class 6 Div. 2\nClasses 1–4 and specific items from Class 6 may be stored together.\nDetonators must be stored separately, at least 15.24 m from explosives,\nunless fewer than 44,000, in which case a properly constructed annex is\npermitted.\n6.2.5.2 Handling and transportation of explosives\n\nExplosives must be transported in licensed explosive vans as per\nExplosives Rules, 2008. Vans should have non-sparking (copper/brass)\nor wooden flooring, adequate side barriers, and clearly marked with\n‘EXPLOSIVE VAN’. Cargo must be secured before movement.",
+      "character_count": 1213,
+      "standard_numbers": [],
+      "evidence": {
+        "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+      "document_title": "COMPENDIUM ON",
+      "page_number": null,
+      "chunk_index": 29,
+      "text": "Metal tools, matches, oils, batteries, acids, etc shall be prohibited in the\nvan. Vans must carry fire extinguishers and have earth chains touching\nthe ground to prevent ignition from static or lightning.\n\nFor loads more than 5 kg, use insulated containers made of:\n\nWood (not less than 50 mm)\nPlastic (not less than 6 mm)\nFiberboard (not less than 10 mm)\n\nOnly approved, locked vehicles can transport explosives. Transfer on-\nsite should use spark-proof canisters, and removal should occur only\nimmediately before use.\n\nNo explosive should be transported in a mechanically propelled vehicle\nunless such a vehicle is locked and is of a type approved in writing by\nthe Chief Inspector of Explosives.\n6.2.6 Machinery\n\n6.2.6.1 Operators and repair staff must be trained on new equipment\nwith support from manufacturer’s personnel, including safety aspects\n(e.g., through films/documentaries).\n\n6.2.6.2 ‘Out of Service’ tags must be securely fixed on faulty equipment\nand removed only by authorized personnel after ensuring safety.\n\n6.2.6.3 On-the-job training should involve both safety officers and\nmanufacturer’s representatives.",
+      "character_count": 1128,
+      "standard_numbers": [],
+      "evidence": {
+        "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+      "document_title": "COMPENDIUM ON",
+      "page_number": null,
+      "chunk_index": 30,
+      "text": "6.2.7 Electrical\n\nAll exposed electrical installations either because of location or\notherwise should be so guarded that dangerous contact by persons\nshall not be possible. Step bolts on structural steel tower columns\nshould be placed such that their use shall not bring a person into the\nvicinity of electrical conductors, transformers or switch boxes that may\nbe installed on the face of a tower, adjacent to the step bolts. Sufficient\nclearance should be provided in the design of substations, switchyards\nand transformer yards so that vehicles moving around and about high\nvoltage equipment will not come in contact with equipment and\ndamage it, or endanger themselves. Necessary provisions should also\nbe made for stopping stray animals and cattle from coming into the\nvicinity of electrical installations.\n6.2.7.1 Grounding\na) All non-current-carrying parts and static charge-prone equipment\nmust be effectively grounded.\nb) Grounding must comply with Indian Standards to ensure safe\ntouch and step voltages.\nc) Spark/explosion-proof enclosures should be used in hazardous\nareas (e.g., oil rooms).\n6.2.7.2 Substations\na) Maintain clearances as per IS 3716;\nb) Provide barriers and locked enclosures for high-voltage\ncomponents; and\nc) Only authorized personnel may access live conductor areas.",
+      "character_count": 1299,
+      "standard_numbers": [],
+      "evidence": {
+        "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+      "document_title": "COMPENDIUM ON",
+      "page_number": null,
+      "chunk_index": 31,
+      "text": "6.2.7.3 Generators\na) Use fire-retardant insulation materials;\nb) Avoid CO₂ systems underground; prefer water spray;\nc) Follow permit-to-work protocols;\nd) Lockout controls and fire protection systems before maintenance;\nand\ne) Do not bring metal near live parts.\n6.2.7.4 Transformer\na) Must be fenced or installed in secure cubicles with firewalls and ducts;\nb) Prefer dry-type transformers in underground stations;\nc) Oil containment pits are required; and\nd) Follow CEA Safety Regulations, 2010 for clearances and permits.\n6.2.7.5 Gas Insulated Switchgear\na) Permit required for all work;\nb) Personnel must be trained in SF₆ gas handling; and\nc) Gas insulated switchgear systems offer high safety but must not\nlead to complacency.\n6.2.7.6 Cables\na) Obtain permit-to-work;\nb) Expose and identify cables before cutting;\nc) Ensure cables are dead and earthed, then spike before cutting; and\nd) Tag cables post-work and avoid stepping/resting materials on them.\n6.2.7.7 Lighting Arrestors\na) Work only when arrestors are disconnected and earthed;\nb) Avoid contact with tanks/shields when energized; and\nc) Fence accessible HV/EHV arrestors; gates must be locked.",
+      "character_count": 1161,
+      "standard_numbers": [],
+      "evidence": {
+        "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+      "document_title": "COMPENDIUM ON",
+      "page_number": null,
+      "chunk_index": 32,
+      "text": "6.2.7.8 Power Driven Machinery\na) Includes wood/metal working tools like saws, lathes, grinders.\nb) Equip all machines with grounded, waterproof, insulated 3-wire\nconnections.\nc) Use lower voltage (110V/24V) tools where necessary.\n6.2.7.9 Crane and Hoist\na) Minimum safety factor: 5;\nb) Must not exceed rated capacity and should include proper brakes;\nc) Control switches should be lockable and accessible;\nd) Include limit switches, safety shutoffs, escape hatches, and clearly\nmarked controls; and\ne) Elevators and hoists must have anti-drop mechanisms and auto-\nlocking doors.",
+      "character_count": 579,
+      "standard_numbers": [],
+      "evidence": {
+        "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+      "document_title": "COMPENDIUM ON",
+      "page_number": null,
+      "chunk_index": 33,
+      "text": "🏗️ SECTION 7\n(Recommendation of IS 10386 (Part 6) : 2020)\n\n7 CONSTRUCTION\n\n7.1 False Work /Scaffolds\na) Provide suitable scaffolds for jobs not safely done from ground or\npermanent structures;\nb) Scaffolds above 3.25 m shall have guardrails (min. 1 m height),\nproperly secured and extending along all sides with necessary\nopenings; and\nc) Must be secured to prevent swaying or designed to be self-\nsupporting under live loads.\n7.2 Platforms, Gangways and Runs\n\nConstructed to prevent sagging; if above 3.25 m, shall be closely\nboarded, adequately wide, and conform to IS 3696 (Part 1) for slopes\nand dimensions.\n7.3 Ladders\na) Made of steel/wood per relevant IS; rope ladders shall comply with\nIS 1084/1410;\nb)\nSecure\nbottom\nto\nprevent\nslipping;\nnon-skid\nmaterials\nrecommended;\nc) Inclination not steeper than 1:4 (H:V); width between rails not less\nthan 30 cm (increased with length); and\nd) Extend at least 1 m above platform for safe access.",
+      "character_count": 944,
+      "standard_numbers": [
+        "IS 10386 (Part 6):2020"
+      ],
+      "evidence": {
+        "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+      "document_title": "COMPENDIUM ON",
+      "page_number": null,
+      "chunk_index": 34,
+      "text": "7.4 Ramps\na) Evenly supported with adequate strength and railings;\nb) Must be non-slippery and obstruction-free; cleats required on\nsteep ramps; and\nc) Material ramps must have skirt boards.\n7.5 Openings\na) Floor/platform openings shall have 1 m high fencing/railings; and\nb) Excavations must be fenced with toe boards and marked with\nnight danger signals.\n7.6 Dangerous Corners\na) Install danger/warning signs at exits and corners;\nb) Protect with fencing/railings (min. 1 m); toe boards if necessary;\nand\nc) Ensure proper lighting at night.\n7.7 Forms of Concrete\na) Formwork must consider span, load, temperature, and safety\nfactors;\nb) Inspect timber and steel components; avoid defective materials;\nc) Vertical supports must be braced and placed on firm soil with\nproper drainage;\nd) Regular inspections during concreting; use safety gear during\nformwork removal; and\ne) Dismantling must be supervised by a competent engineer and\nfollow specific procedures.\n7.8 Structural Steel Erection\na) Steel must be securely bolted/braced before permanent fixing;\nb) Use certified equipment; mark safe working loads;",
+      "character_count": 1109,
+      "standard_numbers": [],
+      "evidence": {
+        "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+      "document_title": "COMPENDIUM ON",
+      "page_number": null,
+      "chunk_index": 35,
+      "text": "c) Only qualified operators at least 18 years old permitted; and\nd) Ensure safety gear for all involved; restrict unauthorized access\nwith signs and red flags.\n7.9 Welding, Riveting and Cutting\nWelding and cutting operations shall be done by workmen thoroughly\ntrained for the job or by trainees who are under competent\nsupervision. Workers engaged in welding, riveting and cutting shall be\nprovided with protective clothing, hand gloves, sleeves and boots as\nper relevant Indian Standards. Workers engaged in welding and\ncutting shall be provided with protective goggles conforming to IS\n1179.\n7.10 Painting\na) Prohibit paints with lead or lead products;\nb) Provide face masks during spray application or scraping; and\nc) Store flammable materials in tightly closed containers away from\nheat or ignition sources.",
+      "character_count": 813,
+      "standard_numbers": [],
+      "evidence": {
+        "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+      "document_title": "COMPENDIUM ON",
+      "page_number": null,
+      "chunk_index": 36,
+      "text": "🔌 SECTION 8\n(Recommendation of IS 10386 (Part 5) : 2014)\n\n8 ELECTRICAL ASPECT\n\nAll exposed electrical installations either because of location or\notherwise should be so guarded that dangerous contact by persons\nshall not be possible. Step bolts on structural steel tower columns\nshould be placed such that their use shall not bring a person into the\nvicinity of electrical conductors, transformers or switch boxes that may\nbe installed on the face of a tower, adjacent to the step bolts. Necessary\nprovisions should also be made for stopping stray animals and cattle\nfrom coming into the vicinity of electrical installations.\n8.1 Grounding\na) Ground all non-current-carrying parts (tools, equipment,\nenclosures, etc.);\nb) Ground structures prone to static charges, especially in oil/gas\nenvironments;\nc) Use spark-proof enclosures in explosive zones;\nd) Avoid simultaneous contact with energized parts and grounded\nobjects; and\ne) Follow IS standards for grounding; ensure step/touch potentials\nare within safe limits.\n8.2 DE-Energizing Power Lines\na) Ensure proper de-energization and grounding before maintenance;\nb) Keep interlock and chamber keys with authorized personnel; and\nc) Follow clearance procedures per Central Electrical Board’s model\ncode.",
+      "character_count": 1255,
+      "standard_numbers": [
+        "IS 10386 (Part 5):2014"
+      ],
+      "evidence": {
+        "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+      "document_title": "COMPENDIUM ON",
+      "page_number": null,
+      "chunk_index": 37,
+      "text": "8.3 Generators\na) Use non-combustible, flame-retardant insulation materials;\nb) Avoid CO₂ fire systems in underground setups;\nc) Obtain permit-to-work for maintenance;\nd) Open all disconnect switches before starting work;\ne) Disable fire protection and remote controls before maintenance;\nand\nf) Keep metal tools away from live electromagnets.\n8.4 Transformer\na) Ensure fencing to prevent contact with terminals;\nb) Prefer separate transformer caverns or cubicles with fire\nprotection;\nc) Provide ducts for smoke/fume removal and oil soaking pits;\nd) Use dry-type transformers in tunnels to reduce fire risks; and\ne) Maintain clearances as per Indian Electricity Rules.\n8.5 Cables\na) Obtain permit-to-work before cable maintenance;\nb) De-energize, identify, and expose cables before cutting;\nc) Spike cables only after confirming they’re dead and earthed;\nd) Tag cables post-repair and update records; and\ne) Do not step on live cables or rest tools on them.\n8.6 Caution\na) No smoking, flames, or spark-generating tools near battery cells\nduring gassing; and\nb) Avoid static electricity discharge near cell vents during\novercharging.",
+      "character_count": 1133,
+      "standard_numbers": [],
+      "evidence": {
+        "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+      "document_title": "COMPENDIUM ON",
+      "page_number": null,
+      "chunk_index": 38,
+      "text": "🔥 SECTION 9\n(Recommendation of IS 10386 (Part 7) : 2020)\n9 FIRE SAFETY\n9.1 General\nFire is a major hazard in construction, especially in hydroelectric and\nriver valley projects, due to:\na) Proximity of key components (dams, powerhouses, transformers,\nstorage, camps);\nb) Presence of temporary residential and non-residential structures;\nand\nc) Use of flammable materials, heavy machinery, and electrical\nsystems.\n9.1.1 High-Risk Fire Areas\na) Turbo generators and oil systems;\nb) Oil-fueled generators, transformers, coolers, conservators;\nc) Diesel engines/pumps and fuel storage;\nd) Hydro generators, unit/auxiliary transformers, power/control\ncables;\ne) Cable galleries in and between power house and switchyard;\nf) Oil storage rooms (for transformer oil dehydration); and\ng) Load dispatch centers and substations with oil-filled equipment.\n9.1.2 Fire Protection Planning\na) Must begin at the design stage of the plant;\nb) Incorporate active and passive fire safety measures throughout\nconstruction;",
+      "character_count": 1002,
+      "standard_numbers": [
+        "IS 10386 (Part 7):2020"
+      ],
+      "evidence": {
+        "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+      "document_title": "COMPENDIUM ON",
+      "page_number": null,
+      "chunk_index": 39,
+      "text": "a) Account for smoke logging and toxic gases in protection design;\nand\nb) Ensure adequate escape routes for life safety.\n9.1.3 Fire Emergency Preparedness\na) Each installation must have a Fire Emergency Procedures Manual;\nand\nb) Manual should include response actions and plans for:\n1. Process area fires;\n2. Storage tank fires;\n3. Electrical fires; and\n4. Building fires.\n9.2 Communications\na) A reliable communication system is critical for fast firefighting\nresponse, especially in remote project areas;\nb) Install fire alarms (manual & automatic), sirens, and loud phone\nalerts across key locations;\nc) Emergency contact numbers (Fire, Ambulance, Plant In-charge,\netc.) must be clearly displayed; and\nd) CCTV systems should cover remote areas with displays at the\ncontrol room for real-time monitoring.\nForest fires often begin small and unnoticed but escalate quickly. While\nhydro project structures are generally not majorly affected, early\ndetection and prevention are vital.\n9.3 Forest Fire\n9.4 Prevention\na) Warning boards should caution visitors and trespassers about fire\nrisks;\nObservation towers should be closely spaced near hydro project sites;",
+      "character_count": 1159,
+      "standard_numbers": [],
+      "evidence": {
+        "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+      "document_title": "COMPENDIUM ON",
+      "page_number": null,
+      "chunk_index": 40,
+      "text": "c) Maintain strong coordination with forest authorities for fire-\nrelated alerts; and\nd) Compensatory afforestation or plantation should be at least 30 m\naway from project components\n9.5 Fire Extinguishment\na) Fires in early stages can be extinguished by trained personnel using\nbeating methods;\nb) Create fire barriers to contain spread;\nc) Ensure adequate water supply near forest edges of project areas;\nd) Train staff in efficient water use for fire control; and\ne) Immediately alert local fire stations upon fire detection to deploy\ntrained personnel and equipment.\n9.6 Building Construction and Related Requirements\n\nThe\nstructural\nelements\nof\nall\nbuildings\nof\nan\nelectrical\ngenerating/distributing station should be of Type 1 construction,\ncomplying with the requirements of IS 1642.\na) Install automatic smoke and toxic gas ventilation systems,\nespecially above generator floors; ensure air change rate of 12–30 per\nhour based on fire load and room size;\nb) Include smoke vents in cable tunnels, turbine halls, switchboard\nrooms, etc., and provisions for portable extraction units;\nc) Ensure compartmentation using 2-hour fire-resistant walls in key\nareas to limit fire spread, such as:\n1) Between generator units, control rooms, switchgear rooms, cable\ngalleries, staircases/lifts.\n2) Around flammable liquid storage, transformer yards, battery\nrooms.",
+      "character_count": 1360,
+      "standard_numbers": [],
+      "evidence": {
+        "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+      "document_title": "COMPENDIUM ON",
+      "page_number": null,
+      "chunk_index": 41,
+      "text": "d) Fire-rated glass/windows (minimum 45 min) or water curtains\nrequired in separation walls;\ne) Avoid plastic foam insulation; use only non-combustible, Class I\nflame-spread materials;\nf) Control rooms should have pressurized air conditioning to prevent\nsmoke entry; and\ng) Plastic ducts not allowed in ventilation; provide liquid drainage\nfrom fire-affected areas to safe zones.\n9.7 Power Station Facility\n9.7.1 Generator Units\na) Main fire risks are from leakage of lubricating/hydraulic/jacking\noil;\nb) Install bund walls around oil systems to contain leaks; and\nUse concrete or protected steel for support structures; if steel is\nexposed, protect with automatic sprinkler systems.\n9.7.2 Oil Risks\na) Prevent fire by separating lubricating and control oil circuits; and\nb) Collect leaking oil via:\n1) Concrete/steel-lined trenches for oil lines, or\n2) Double-pipe systems, with inner pressure pipe inside a larger\nouter pipe that also functions as a return.\n9.8 Electrical Installations and Equipment\n9.8.1 General Requirements\na) All electrical systems shall follow IS 1646;\nb) Do not use flammable cleaning fluids (e.g., gasoline, alcohol) on\nenergized equipment. On de-energized equipment, allow 30 minutes\nbefore re-energizing;",
+      "character_count": 1234,
+      "standard_numbers": [],
+      "evidence": {
+        "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+      "document_title": "COMPENDIUM ON",
+      "page_number": null,
+      "chunk_index": 42,
+      "text": "c) Keep equipment free from oil, dust, and grease, and ensure\neffective earthing at two points; and\nd) Conduct regular inspections and testing as per standards and\nOEM guidelines.\n9.8.2 Cables and Cable Galleries\na) Follow IS 12459 for cable fire protection;\nb) Use fire-resistant cables, segregated runs, and sealed wall/floor\npenetrations;\nc) Clamp cables above and below floor level, protect with heat-\nresistant covers (450 mm high, sand-filled);\nd) Separate cable groups with barriers (brick/tile/concrete) and fill\ntrenches with pebbles;\ne) Maintain 75 mm spacing between cable groups; run power and\ncontrol cables separately; and\nf) Provide emergency lighting and fire stops at substation entry\npoints.\n9.8.3 Transformers\nAll transformer installations should comply with the provisions of IS\n1646 in addition to the following:\na) As a protection against excessive damage due to occurrence of\nfaults, transformers fitted with conservators should be protected with\nBucholz relay;\nb) All other transformers should be equipped with oil temperature\nalarms or excess current relay protection.\nc) The level and dielectric strength of the transformer oil should be\nchecked at periodic intervals and in the event of presence of a large\nquantity of sludge, the oil shall be reconditioned/ replaced.\nd) Diagnostic devices like PD monitoring system etc. shall be\nprovided to read the health of transformers with capacity 20 MVA\nand above.",
+      "character_count": 1433,
+      "standard_numbers": [],
+      "evidence": {
+        "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+      "document_title": "COMPENDIUM ON",
+      "page_number": null,
+      "chunk_index": 43,
+      "text": "e) Differential protection should be provided for transformers rated 5\nMVA and above.\nf) Transformers connected to Grid supply should have ‘ON LOAD\nTAP CHANGERS’ for control of secondary voltage.\n9.8.4 Battery Room\na) Separate MG sets/rectifiers from batteries; place all in dust-free,\nventilated areas;\nb) Mount batteries on non-conductive, fire-resistant benches\ninsulated from the ground;\nc) Arrange batteries to avoid more than 12 V difference between\nadjacent cells; avoid circular arrangements for more than 20 V;\nd) Protect surrounding areas (up to 60 cm horizontal, 2 m vertical)\nwith asbestos sheets;\ne) Use MCBs, double/triple pole switches, and fuses not more than 7\nA for charging circuits;\nf) Control panels should be of non-ignitable, acid-resistant material;\ng) Keep charging resistors/lamps 60 cm away unless enclosed;\nh) Use non-combustible insulated wiring, protect terminals, and\ninsulate conductors;\nj) Ensure flameproof fittings, no switching inside battery room, and\nswitches located externally; and\nk) Line floors/walls (up to 1 m) with acid-resistant materials.\nm) Provide eye washer/shower for safety.\n9.9 Fire Protection Measures\n9.9.1 General\n\nPower stations must have adequate fire protection and exits, regardless\nof size, as per IS 1641. Stations in remote areas (e.g., hydropower)\nshould maintain an independent firefighting service for response\nwithin 5 minutes.",
+      "character_count": 1394,
+      "standard_numbers": [],
+      "evidence": {
+        "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+      "document_title": "COMPENDIUM ON",
+      "page_number": null,
+      "chunk_index": 44,
+      "text": "9.9.2 Turbo Generators and Supporting Structures\na) Underground stations: Provide fixed water spray system;\nb) Surface stations: Use CO₂ or water spray systems, backed by\nhydrants;\nc) Protect turbo-generator oil systems and bearings with high-\nvelocity water spray (10 lpm), divided into zones with detectors per\nIS 2175;\nd) Prefer automatic extinguishing system with manual override;\ne) Place zone control valves safely and enable isolation for\nmaintenance;\nf) Provide internal hydrants, foam capabilities, and adequate\nventilation; and\ng) Auto shutdown system to be in place during fire.\n9.9.3 Transformer\na) No fixed system needed for less than 10 MVA oil-filled\ntransformers with at most 2000 L oil;\nb) Others require high-velocity water spray systems, installed outside\nfire zone, with automatic/manual operation;\nc) Install fire barrier walls if transformers are less than 15 m apart or\noil more than 2000 L;\nd) Ensure oil spill containment and flame arrestors per IS 11006;\ne) Use simultaneous deluge protection for generator transformer,\nconservator, and cooler batteries;\nf) Seal trench gaps and cable entries to prevent fire spread due to\nexplosion or ‘stack effect’;\ng) Provide extinguishers and firefighting systems per CEA/OISD-\nSTD-173; and\nh) Use stone layers or oil pits based on oil capacity near buildings.",
+      "character_count": 1324,
+      "standard_numbers": [],
+      "evidence": {
+        "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+      "document_title": "COMPENDIUM ON",
+      "page_number": null,
+      "chunk_index": 45,
+      "text": "9.9.4 Switch Gear\na) SF₆ and vacuum breakers are preferred for lower fire risk.\nb) Use hydrants nearby; install CO₂ flooding systems for unmanned\nrooms.\nc) Seal all cable entries and keep rooms clean.\nd) House switchboards in separate rooms:\ne) 6.6 kV unit/station, 415 V unit/station boards.\nf) Provide pressurized ventilation and interlocks to shut it off before\ngas system activation.\ng) Install multi-sensor smoke detectors (cross-zoned) and intelligent\nfire detection systems.\nh) Use fixed gaseous local extinguishing systems.\nj) Provide ISI insulating mats (IS 15752).\n9.9.5 Control Room\na) Seal cable entries, keep clean, and switch off AC system before\nextinguisher activation.\nb) Use multi-sensor smoke detectors with intelligent fire systems.\nc) Cable entries through fire-resistant MCTs; provide double door\nentry and air curtain.\nd) Include communication systems:\ne) PA system, emergency, radio, intrinsically safe phones.\nf) Clearly mark exit doors.\n9.9.6 Cable Galleries\na) Cable fires can affect multiple units. Use ventilation to control\nsmoke/toxic gas.\nb) Install compartmentation using fire barriers (IS 12459).\nc) Provide exits every 60 m, sized for personnel with breathing\napparatus.\nd) Use automatic firefighting systems (preferred: water sprinklers).",
+      "character_count": 1274,
+      "standard_numbers": [],
+      "evidence": {
+        "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+      "document_title": "COMPENDIUM ON",
+      "page_number": null,
+      "chunk_index": 46,
+      "text": "e) Ensure complete coverage; install LHS cables and multi-sensor\ndetectors.\nf) Delay system activation until evacuation when using foam/gas.\ng) Place breathing apparatus near entry points.\nh) Keep areas clean and clear with controlled access.\ni) Use LHS cables for EHV fire detection.\n9.10 Water Supplies for Fire Fighting (External and Internal Hydrant\nSystems)\na) Water supply should conform to IS 9668, IS 3844 (internal\nhydrants), and IS 13039 (external hydrants).\nb) System should meet peak demand of largest fixed extinguishing\nsystem plus 1,800 lpm for 2 hours.\nc) Automatic-start, manual-stop pumps required; reservoir refill\nwithin 8 hours (preferably automated).\nd) Looped water mains around main block with provision for future\nexpansion.\ne) Internal risers to be extensions of yard main, with dual valve\nconnections.\nf) Underground hydrant pipes preferred; hose cabinets to have IS\n2871 universal spray nozzles.\n9.11 Manual Fire Alarm System\na) Manual alarm system as per IS 2189 to be provided throughout\nplant.\nb) Fire alarm panels located in control room and fire station control\nroom.\n9.12 Emergency Power\na) Emergency power needed for essential services (e.g., oil pumps,\nlighting, firefighting pumps).\nb) Separate station battery banks for each unit and diesel generators",
+      "character_count": 1289,
+      "standard_numbers": [],
+      "evidence": {
+        "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+      "document_title": "COMPENDIUM ON",
+      "page_number": null,
+      "chunk_index": 47,
+      "text": "with auto-dead start capability.\nc) Emergency lamps with auto-on at failure points like control rooms.\n9.13 Additional Fire Protection Measures\na) Oil storage rooms: Sprinklers, HV water spray, or foam/CO₂\nextinguishers.\nb) Turbines: Auto shutoff devices for water flow and abnormal\nconditions.\nc) Air-cooled generators not less than 100 MW: Must have\nprotection.\nd) Waterproof lighting mandatory in sprinkler zones.\n9.14 Fire Protection for Power Plants During Construction\na) Higher fire risk during construction; early installation of\npermanent fire systems is ideal.\nb) At least 2-hour firefighting water supply required on site.\nc) Temporary 1.25 lakh litre tanks with replenishment if permanent\nsystem not ready.\nd) Fire safety for material storage, welding/cutting operations\nessential.\ne) Fire-trained supervisor and first aid firefighting equipment (as per\nIS 2190) mandatory.\n9.15 Requirements of Major Fire Fighting Appliances/Equipment\nand Manpower\nOn account of the reason that hydra power stations are generally\nlocated in relatively remote areas with hardly any other assisting fire\nservice within a reasonable distance, it is necessary for the power\nstations to be provided with an independent full-fledged and well",
+      "character_count": 1231,
+      "standard_numbers": [],
+      "evidence": {
+        "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+      "document_title": "COMPENDIUM ON",
+      "page_number": null,
+      "chunk_index": 48,
+      "text": "maintained fire service of their own. Quick response to a fire outbreak\nby firefighting service is vital as it makes a difference between a small\nfire or a major fire with catastrophic loss. In other words, power\nstation fire brigades should be in a position to tackle a fire, control and\nextinguish it before any damage is done.\n9.15.1 Major Fire Fighting/Appliances /Equipment\nScales of Major Appliances/Equipment for Power Stations Installed\nCapacity Less than 50 MW (Class IV Power Stations). There may not\nbe any need for any major firefighting appliances for generating\nstations of this category, provided the station is located within 8 km\nfrom the nearest municipal/local fire brigade possessing adequate\nfirefighting appliances. In case it is located at a further distance, or if\nthe municipal fire appliances are not available, a trailer fire pump\nconforming to IS 944, or a higher capacity portable pump conforming\nto IS 12717, should be provided with a skeleton fire staff.\n\nThe power stations should have a hydrant system, and also at least\nthree static water tanks of minimum 1.25 lakh litres capacity deployed\nat strategic locations.\n\nThe under mentioned equipment should also be provided:\na) A minimum of 25 lengths of 63 mm diameter firefighting hose of\n20 m length each (15 lengths of Type ‘A’ of IS 636, and 10 lengths\nconforming to IS 4927);\nb) Universal branch pipes conforming to IS 2871 - 4 No;\nc) Foam-making branches FB 5X (see IS 2097) - 2 No;\nd) Foam-making branches FB 10X (see IS 2097) - 2 No;\ne) Mechanical foam compound (see IS 4989) - As required;\nf) B.A. sets (positive pressure type) - 4 No;",
+      "character_count": 1625,
+      "standard_numbers": [],
+      "evidence": {
+        "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+      "document_title": "COMPENDIUM ON",
+      "page_number": null,
+      "chunk_index": 49,
+      "text": "g) Blower and exhauster for fire-fighting as per IS 941 - 2 No;\nh) Water jel blankets (fire blankets) 2 X 1.75 m - 2 No;\ni) Water jel blankets (for burns) 1 X 0.75 m - 4 No; and\nj) Water jel container - 1 No.\nThe above equipment should be equally applicable to load dispatch\ncentres in major distribution stations (220 kV sub-stations and above).\nTable 1\nFor Generating Stations of Installed Capacity from 50 MW to less\nthan 200 MW (Class III)",
+      "character_count": 443,
+      "standard_numbers": [],
+      "evidence": {
+        "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+      "document_title": "COMPENDIUM ON",
+      "page_number": null,
+      "chunk_index": 50,
+      "text": "Table 2\nFor Generation Stations of Installed Capacity from 200 MW to less\nthan 1000 MW (Class II)",
+      "character_count": 97,
+      "standard_numbers": [],
+      "evidence": {
+        "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+      "document_title": "COMPENDIUM ON",
+      "page_number": null,
+      "chunk_index": 51,
+      "text": "Table 3\nFor Generating Stations of Installed Capacity 1000MW and above\n(Class I)",
+      "character_count": 80,
+      "standard_numbers": [],
+      "evidence": {
+        "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+      "document_title": "COMPENDIUM ON",
+      "page_number": null,
+      "chunk_index": 52,
+      "text": "9.16 Fire Stations\n\nPower stations authorized for full time fire brigades with major\nfirefighting appliances should have well designed fire stations for\nhousing of appliances and firefighting staff. They should be so located\nthat the response time is kept to a minimum, not to exceed 5 min. The\ndesign of the Fire Stations should conform to the standard Fire\nStation requirements as prescribed by the Standing Fire Advisory\nCouncil.\n\n9.17 First Aid Fire Fighting Equipment\n\nIn the entire power station area, first aid firefighting equipment’s like\nfire extinguishers should be deployed as per the scales prescribed in IS\n2190. It is essential that these extinguishers are periodically inspected\nand maintained in accordance with the provisions contained in IS\n2190.\n\n9.18 Fire Emergency Orders\na) Every power station must have a documented fire emergency plan.\nb) Should define staff actions during day and night, fire prevention\nprotocols, and fire response organization.\nc) Must include mutual aid schemes for support from nearby units.\nd) Mock drills/training to be conducted regularly to assess\npreparedness, with records maintained.",
+      "character_count": 1137,
+      "standard_numbers": [],
+      "evidence": {
+        "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+      "document_title": "COMPENDIUM ON",
+      "page_number": null,
+      "chunk_index": 53,
+      "text": "⚠️ SECTION 10\nCanals are categorized based on proximity and public access:\nClass A: Near schools/playgrounds – high child presence.\nClass B: Near public recreational areas.\nClass C: Near farms/highways – possible child recreation.\nClass D: Remote, infrequent personnel visits.\nClass E: Hazard to domestic animals.\nClass F: Extreme hazard to large wildlife.\n10.2 Toxic Fumes\na) Workers must not enter confined spaces (tanks, pits, chambers,\netc.) unless air is tested and safe.\nb) Ventilation must bring hazardous substances within permissible\nlimits.\nc) A permit to enter must be issued after:\nIsolation and purging of equipment.\n1.\nAir testing for toxicity, flammability, and oxygen sufficiency.\n2.\nElectrical/power disconnections.\n3.\nPersonnel training and use of safety gear (e.g., breathing\napparatus, 24 V lighting).\n4.\nRescue team kept on standby.\n5.\n10.3 Noise Hazards\na) Noise surveys to be done annually by safety department.\nb) Areas >85 dBA classified as high noise zones.\n(Recommendation of NEEPCO Manual)\n\n10 COMMON HAZARDS\n\n10.1 Hazard Classification (Canals)",
+      "character_count": 1073,
+      "standard_numbers": [],
+      "evidence": {
+        "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+      "document_title": "COMPENDIUM ON",
+      "page_number": null,
+      "chunk_index": 54,
+      "text": "c) Audiometry tests required: Pre-employment and annually for\nexposed workers.\nd) Noise control measures:\nEngineering and administrative controls to maintain levels less\nthan 85 dBA.\n1.\nNo exposure allowed more than 115 dBA.\n2.\nPPE (earplugs/earmuffs) must be provided and used.\n3.\nAwareness boards to promote PPE usage.\n4.\ne) Equipment enclosures and acoustic doors must remain sealed\nduring operation.\nf) Regular inspection of PPE and replacement if defective.\n10.4 Vibrations\nOverhead conductors are affected by vibrations due to wind, corona\neffect, and snow, which may cause resonance, leading to conductor\nfailure or flashover. Key influencing factors include span tension,\nbundle and spacer configurations, conductor type, wind velocity,\nterrain, and nearby trees.\nMitigation:\nVibration dampers (e.g., Stockbridge dampers) are installed to reduce\nAeolian vibrations by absorbing wave energy. For distribution lines,\ntwisted wire dampers are used; for EHVAC/HVDC lines, Stockbridge\ndampers with hollow weights are preferred. Spacers in bundled\nconductors also enhance damping.\n10.5 Lighting, Warning and Signal\nFor excavation and night work:\na) Ensure adequate lighting and warning signals at pathways,\nroadways, and all site approaches.",
+      "character_count": 1243,
+      "standard_numbers": [],
+      "evidence": {
+        "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+      "document_title": "COMPENDIUM ON",
+      "page_number": null,
+      "chunk_index": 55,
+      "text": "b) Post danger signs and use a flagman with a red flag in hazardous\nareas.\nc) Display directional signs at bends and crossings.\nd) Workers climbing slopes must use safety ropes and belts.\nLone work in excavation zones is prohibited.\n10.6 Maintenance\n\n10.6.1 General provisions relating to maintenance\na) Maintenance starts only with written work permit/line clearance\nand adherence to LOTO procedures.\nb) LOTO must be standardized (by colour, shape, or size), securely\nfixed, and include clear hazard tags (e.g., DO NOT START).\n10.6.1.1 Maintenance audit\n\nEntities may form an internal audit committee to ensure compliance\nwith maintenance policies. Observations are submitted to management\nfor action.\n\n10.6.1.2 Maintenance records\n\nAll maintenance activities must be logged in both soft and hard\nformats with clear next due dates.\n10.6.2 Fire Hydrant System\na) Weekly inspections mandatory; monthly tasks include valve\nchecks, water flow tests, paint and brass cleaning.\nb) Quarterly pressure/output tests should ensure at least 125 lpm at\n5.25 kgf/cm².\nc) Isolating valves must be operated monthly and overhauled\nannually.",
+      "character_count": 1125,
+      "standard_numbers": [],
+      "evidence": {
+        "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+      "document_title": "COMPENDIUM ON",
+      "page_number": null,
+      "chunk_index": 56,
+      "text": "10.6.3 Working in confined spaces\n\nEntry into boilers shall be permitted only after cooling, draining,\ncleaning, and purging. Permit to work (PTW) must be issued post\nthese activities.\n\n10.6.4 Skin Burns\n\nMaintenance near hot surfaces may cause burns. Workers must wear\ncoveralls/boiler suits during cooling and draining.\n\n10.6.5 Electrical Shock\n\nWelding and tool usage can lead to shocks. Ensure proper earthing,\nELCB protection, and adherence to LOTO to mitigate risk.\n\n10.6.6 Electric Equipment\n\nEquipment must be inspected before use and checked each shift. Before\nwork:\na) Switch off current\nb) Prevent re-energization\nc) Test that equipment is de-energized\n10.6.7 Maintenance of Towers and Structures\na) Stained structures must be prioritized for coating to prevent\ncorrosion.\nb) Corroded structures require costlier and extensive maintenance.\nc) Proactive maintenance helps avoid higher costs by intervening\nbefore corrosion sets in.",
+      "character_count": 941,
+      "standard_numbers": [],
+      "evidence": {
+        "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+      "document_title": "COMPENDIUM ON",
+      "page_number": null,
+      "chunk_index": 57,
+      "text": "🔧 Section 11\n(Recommendation of IS 10386 (Part 9) : 1998 and IS 4756 : 1978)\n\n11 SPECIAL WORKS\n\n11.1 Guardrails\nGuardrails serve to protect both vehicles and pedestrians:\na) Vehicle guardrails (e.g., along canal bank roads): typically made of\nsteel cables or deflectors on short heavy posts. Reflectors are\nrecommended for visibility at night.\nb) Pedestrian guardrails: made of wood or pipe rails; wire mesh is\nadvised to prevent children from passing through.\nc) Required on both sides of bridges, open sides of ramps/stairways,\nand edges with a height of 1.0 m or more.\nd) Must be installed around openings in floors, platforms, and low\nwall openings.\n11.2 Bridges\na) All foot and vehicle bridges shall have appropriate guardrails based\non the hazard.\nb) Mixed-use bridges in populated areas shall include splash-proof\nbarriers between lanes.\nc) Operational bridges shall have railings and restricted public access.\n11.3 Trash rack and Stilling Basin\na) Operating decks should have nonslip surfaces and guardrails.\nb) Stilling basins pose fall hazards:\nUse fencing (e.g., chain-link) where wall height is low.\n1.\nWhere walls are 1.2 m or higher, design them to prevent standing\nor walking.\n2.",
+      "character_count": 1194,
+      "standard_numbers": [
+        "IS 10386 (Part 9):1998",
+        "IS 4756:1978"
+      ],
+      "evidence": {
+        "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+      "document_title": "COMPENDIUM ON",
+      "page_number": null,
+      "chunk_index": 58,
+      "text": "3. Spillway wing walls require similar protection.\n11.4 Canal Safety Devices\na) Sharp turns on canal roads: Guardrails and warning signs.\nb) Deep water warnings for potential swimmers.\nc) Lined canals of 0.9 m or more vertical height: Install escape\nladders every 500 m on both sides and before hazards (e.g., siphons,\nfalls).\nd) Fencing is required where hazard risk justifies.\nFor additional safety in canals, escape devices are provided:\na) Devices include suspended cables with drop lines, floats/booms,\nescape nets, and modified trash racks to aid self-rescue.\nb) Must be positioned above hazardous structures and reach the\nminimum operating water level to help individuals self-rescue.\nc) Floats must support a person’s weight.\nd) Trash racks may double as escape aids if flattened in slope and\npaired with escape ladders.\n11.6 Falls and Chutes\na) Rectangular falls/chutes 1.5 m or deeper in Class A, B, or C hazard\nzones must have fencing or guardrails on both sides.\nb) For water depths greater than 1.2 m entering such structures,\nconsider installing safety nets or cables with drop lines upstream to\naid escape.\n11.7 Stop Logs and Bulkhead Gates\na) Bulkheads are preferred over stop logs for temporarily closing\npenstock inlets or draft-tube outlets, provided suitable hoisting\nequipment (e.g., truck-mounted cranes) is available.",
+      "character_count": 1340,
+      "standard_numbers": [],
+      "evidence": {
+        "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+      "document_title": "COMPENDIUM ON",
+      "page_number": null,
+      "chunk_index": 59,
+      "text": "b) Benefits of bulkheads:\nSimpler, faster, and safer operation.\n1.\nTighter seals and better protection for workers.\n2.\nc) Stop-log grooves should be designed to accommodate bulkhead\nuse.\n11.8 Tunneling\na) Notification Requirement: Written details (layout, methods,\nschedule) of tunneling work must be submitted to the Director\nGeneral or Chief Inspector of Inspection at least 30 days before work\nbegins.\nb) Registers:\nMaintain a log of entries/exits at the tunnel site.\n1.\nMaintain a register of employed workers, available on request.\n2.\nc) Compressed Air Use: Submit technical drawings and personnel\ndetails for man-locks, medical-locks, and appointed medical officers.\nd) Safety Oversight:\nAppoint a Project Engineer for overall safety.\n1.\nDesignate a Responsible Person to:\n2.\ni) Oversee operations.\nii) Inspect and fix hazards.\niii) Prevent unsafe conditions.\ne) Safety Signage: Post warning signs in Hindi and local language,\ncovering:\nDangers of compressed air.\n1.\nFire/explosion risks.\n2.\nEmergency rescue procedures.\n3.",
+      "character_count": 1029,
+      "standard_numbers": [],
+      "evidence": {
+        "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+      "document_title": "COMPENDIUM ON",
+      "page_number": null,
+      "chunk_index": 60,
+      "text": "🎨 Section 12\n(Recommendation of IS 16451: 2018 and IS 9457 : 2005)\n\n12 SAFETY COLOURS AND GRAPHICAL SYMBOLS\n\n12.1 Purpose and Use\n\nTo quickly attract attention to safety-related objects/situations and\nconvey clear safety messages. Safety signs must be used only for\nhealth and safety instructions.\n\n12.2 Design and Reproduction\n\n12.2.1 Borders: Optional, but helpful for visibility; signs must be\nreproduced accurately.\n\n12.2.2 Modifications: Minor graphical adjustments allowed for\ncultural relevance or application needs, as long as meaning remains\nclear.\n\n12.2.3 Mirroring: Permitted when orientation is non-essential, except\nfor prohibition signs, where the red bar must not block key symbol\nelements.\n\n12.3 New or Custom Signs\nIf no standard sign exists, develop one using ISO 3864-1 & 3864-3\nprinciples, or use ISO 7010 general signs with additional information.",
+      "character_count": 868,
+      "standard_numbers": [
+        "IS 16451:2018",
+        "IS 9457:2005"
+      ],
+      "evidence": {
+        "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+      "document_title": "COMPENDIUM ON",
+      "page_number": null,
+      "chunk_index": 61,
+      "text": "12.4 Reference Standard\nFor detailed specifications on colour, size, and examples, refer to IS\n9457:2005. For illustration, few common signs used in a project are\ngiven below.",
+      "character_count": 175,
+      "standard_numbers": [
+        "IS 9457:2005"
+      ],
+      "evidence": {
+        "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+      "document_title": "COMPENDIUM ON",
+      "page_number": null,
+      "chunk_index": 62,
+      "text": "Annex A\nList of Referred Standards",
+      "character_count": 34,
+      "standard_numbers": [],
+      "evidence": {
+        "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+      "document_title": "COMPENDIUM ON",
+      "page_number": null,
+      "chunk_index": 63,
+      "text": "Annex B\nREPORTING FORMATS\nB-1 INCIDENT REPORT FORM",
+      "character_count": 50,
+      "standard_numbers": [],
+      "evidence": {
+        "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+      "document_title": "COMPENDIUM ON",
+      "page_number": null,
+      "chunk_index": 64,
+      "text": "Medical Officer\n\n10.Nature and extent of injuries\n\n11. Period of estimated disablement\n\nName & Signature of Medical Officer:\n\nPost Injury/ Incident Counselling Provided (if applicable):\n\nName & Signature of Counsellor\n\nDistribution:\n\nHead of Project/ Plant/ Occupier/ Factory Manager.\n1.\nHead of Department\n2.\nHead of Personal & Administration Department\n3.\nHead of Safety Department.\n4.\nPREPARED\nREVIEWED BY\nAPPROVED BY",
+      "character_count": 420,
+      "standard_numbers": [],
+      "evidence": {
+        "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+      "document_title": "COMPENDIUM ON",
+      "page_number": null,
+      "chunk_index": 65,
+      "text": "B-2 INCIDENT INVESTIGATION REPORT",
+      "character_count": 33,
+      "standard_numbers": [],
+      "evidence": {
+        "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+      "document_title": "COMPENDIUM ON",
+      "page_number": null,
+      "chunk_index": 66,
+      "text": "B-3 PERMIT TO WORK AT HEIGHT",
+      "character_count": 28,
+      "standard_numbers": [],
+      "evidence": {
+        "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+      "document_title": "COMPENDIUM ON",
+      "page_number": null,
+      "chunk_index": 67,
+      "text": "ANNEX C\nRELEVANT INDIAN LEGISLATION ON OS&H AND THE\nENVIRONMENT\n(IT IS ONLY ILLUSTRATIVE AND NOT EXHAUSTIVE)",
+      "character_count": 108,
+      "standard_numbers": [],
+      "evidence": {
+        "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+      "document_title": "COMPENDIUM ON",
+      "page_number": null,
+      "chunk_index": 68,
+      "text": "ANNEX D\nTYPICAL FORMAT OF LEGAL REGISTER",
+      "character_count": 40,
+      "standard_numbers": [],
+      "evidence": {
+        "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+      "document_title": "COMPENDIUM ON",
+      "page_number": null,
+      "chunk_index": 69,
+      "text": "ANNEX E\n(Clause 4.6.1)\nTYPICAL RECORD OF GOOD PRACTICES RELATED TO\nENVIRONMENT, OCCUPATIONAL HEALTH AND SAFETY\n\nD-1 Records under the good practices for compliance with the legal\nrequirements related to environment, occupational health and\nsafety can include, among others:",
+      "character_count": 273,
+      "standard_numbers": [],
+      "evidence": {
+        "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+        "page_number": null
+      }
+    }
+  ]
+}

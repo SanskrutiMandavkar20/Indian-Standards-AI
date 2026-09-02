@@ -1,0 +1,34 @@
+[
+  {
+    "url": "https://standardsadmin.bis.gov.in/auth//logUniqueVisitor",
+    "method": "POST",
+    "status": 200,
+    "resource_type": "xhr",
+    "body_preview": "{\"status\":\"SUCCESS\",\"statusCode\":200,\"msg\":\"Unique visitor logged successfully.\",\"finalVCountId\":\"47,66,513\"}"
+  },
+  {
+    "url": "https://standardsmodule.bis.gov.in/cms-service/api/ManageMenu/viewAll",
+    "method": "POST",
+    "status": 200,
+    "resource_type": "xhr"
+  },
+  {
+    "url": "https://standardsmodule.bis.gov.in/cms-service/api/Address/viewAll",
+    "method": "POST",
+    "status": 200,
+    "resource_type": "xhr"
+  },
+  {
+    "url": "https://standardsmodule.bis.gov.in/cms-service/api/ManageMenu/viewAll",
+    "method": "POST",
+    "status": 200,
+    "resource_type": "xhr"
+  },
+  {
+    "url": "https://standardsadmin.bis.gov.in/proposal-service//getSectorsWithSubSectorsAndCounts",
+    "method": "POST",
+    "status": 200,
+    "resource_type": "xhr",
+    "body_preview": "{\"status\":\"SUCCESS\",\"statusCode\":200,\"msg\":\"Sectors with subsectors and counts retrieved successfully.\",\"data\":{\"sectorWise\":[{\"slNo\":\"01\",\"sectorId\":\"eyJpdiI6IlFoMVRZeVpXa2F1bDczcXY3TC9nTkE9PSIsInZhbHVlIjoiV1o4Ujc1MkJaZFdxVk0zditZaVFKUT09IiwibWFjIjoiNzA5MWUyMTk3NTZhMDk0YmRhNDZmZGI4ZmM3ZmRjNmIyMDIwYjUzMjI0NzFkZWRmMjZkNzNjYjc1MGIzMzFmMCIsInRhZyI6IiJ9\",\"sectorName\":\"Abrasives\",\"icon\":null,\"totalProjects\":6},{\"slNo\":\"02\",\"sectorId\":\"eyJpdiI6Iko5UlUwMzM3RVhKaGZIdEZSS0hXZEE9PSIsInZhbHVlIjoiRUhJc2pnaG"
+  }
+]

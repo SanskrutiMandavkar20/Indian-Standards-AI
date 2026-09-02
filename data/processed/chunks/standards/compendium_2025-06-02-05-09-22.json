@@ -1,0 +1,694 @@
+{
+  "success": true,
+  "source_pdf": "compendium_2025-06-02-05-09-22.pdf",
+  "document_type": "standard",
+  "document_title": "COMPENDIUM",
+  "chunk_count": 33,
+  "chunks": [
+    {
+      "chunk_id": "compendium_2025-06-02-05-09-22_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "compendium_2025-06-02-05-09-22.pdf",
+      "document_title": "COMPENDIUM",
+      "page_number": null,
+      "chunk_index": 1,
+      "text": "COMPENDIUM\nOF INDIAN\nSTANDARDS ON\n\nPOWER CABLES AND\nACCESSORIES\n\nPREPARED BY:\nELECTROTECHNICAL DEPARTMENT\n\nBUREAU OF INDIAN\nSTANDARDS",
+      "character_count": 133,
+      "standard_numbers": [],
+      "evidence": {
+        "source_pdf": "compendium_2025-06-02-05-09-22.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "compendium_2025-06-02-05-09-22_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "compendium_2025-06-02-05-09-22.pdf",
+      "document_title": "COMPENDIUM",
+      "page_number": null,
+      "chunk_index": 2,
+      "text": "Table of Contents\nSl. No\nTitle\nPage No.\n1\nIntroduction\n1\n2\nProduct Standards\n2-7\n3\nCable Accessories Standards\n8-10\n4\nTest Method Standards\n11-16\n5\nCode of Practice Standards\n17-18",
+      "character_count": 180,
+      "standard_numbers": [],
+      "evidence": {
+        "source_pdf": "compendium_2025-06-02-05-09-22.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "compendium_2025-06-02-05-09-22_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "compendium_2025-06-02-05-09-22.pdf",
+      "document_title": "COMPENDIUM",
+      "page_number": null,
+      "chunk_index": 3,
+      "text": "1\n\nINTRODUCTION\nPower cables are essential components of electrical power systems, designed\nto transmit and distribute electrical energy from generation sources to end\nusers across various distances and voltage levels. These cables typically\nconsist of one or more conductors, insulated with dielectric materials and\nprotected by layers such as sheaths, armouring, and jackets to ensure\nreliability, durability, and safety under diverse environmental and operational\nconditions.\nThe Power Cables Sectional Committee, ETD 09, of the Bureau of Indian\nStandards (BIS) is responsible for formulating Indian Standards related to\npower cables, their accessories, test methods, and associated codes of\npractice.\nThis compendium presents a consolidated overview of key Indian Standards\ndeveloped by BIS in the domain of power cables. It categorizes the standards\ninto product specifications, test methods, accessories, and codes of practice,\noffering users a quick reference to the scope and main provisions of each\nstandard. By doing so, it aims to promote consistency, standardization, and\nthe adoption of best practices across the cable industry.",
+      "character_count": 1141,
+      "standard_numbers": [],
+      "evidence": {
+        "source_pdf": "compendium_2025-06-02-05-09-22.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "compendium_2025-06-02-05-09-22_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "compendium_2025-06-02-05-09-22.pdf",
+      "document_title": "COMPENDIUM",
+      "page_number": null,
+      "chunk_index": 4,
+      "text": "2\n\nProduct Standards\nIS 1554 (Part 1): 1988\n\nIS 1554 (Part 1): 1988 covers the requirements for PVC insulated, heavy-duty,\nsingle-core and multi-core, armoured and unarmoured, electric cables with\naluminium or copper conductors, suitable for fixed installations. These cables are\nintended for operation at voltages up to and including 1100 volts (rms) between\nconductors and to earth, for use in power supply, lighting, and internal wiring\nsystems.\nIS 1554 (Part 2): 1988\n\nIS 1554 (Part 2): 1988 specifies the requirements for PVC insulated, heavy-duty,\narmoured electric cables with aluminium or copper conductors, suitable for fixed\ninstallations at voltages from 3.3 kV up to and including 11 kV (phase to phase).\nThese cables are intended for use in power distribution networks and industrial\ninstallations where medium voltage power transmission is required.\nIS 694: 2010\n\nThis standard specifies general requirements for single and multicore cables or cords\nwith rigid or flexible annealed bare/tinned copper or aluminium conductors, insulated\nand optionally sheathed with PVC, for rated voltages up to 1100V AC (50 Hz) and\n1125V DC to earth. It covers cables used for electric power and lighting, including\noutdoor and low-temperature applications. The standard also includes fire\nperformance categories FR (Flame Retardant) and FR-LSH (Flame Retardant Low\nSmoke and Halogen), with conductor temperature limits of 70°C or 85°C, requiring\ncompliance with specified category-wise tests.\nIS 7098 (Part 1): 1988",
+      "character_count": 1514,
+      "standard_numbers": [
+        "IS 1554 (Part 1):1988",
+        "IS 1554 (Part 2):1988",
+        "IS 7098 (Part 1):1988"
+      ],
+      "evidence": {
+        "source_pdf": "compendium_2025-06-02-05-09-22.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "compendium_2025-06-02-05-09-22_pNone_c2",
+      "document_type": "standard",
+      "source_pdf": "compendium_2025-06-02-05-09-22.pdf",
+      "document_title": "COMPENDIUM",
+      "page_number": null,
+      "chunk_index": 5,
+      "text": "IS 7098 (Part 1):1988 specifies the requirements for cross-linked polyethylene\n(XLPE) insulated, PVC sheathed, armoured and unarmoured electric cables with\naluminium or copper conductors, intended for use in electric supply and industrial\nsystems operating at voltages up to and including 1100 V (rms). These cables are\nsuitable for fixed installations, both indoor and outdoor, including in ducts, trenches\nand underground.\nIS 7098 (Part 2): 2011\n\nIS 7098 (Part 2):2011 covers the requirements for cross-linked polyethylene (XLPE)\ninsulated, thermoplastic sheathed, armoured power cables with aluminium or copper\nconductors, intended for use in electric supply systems operating at voltages from\n3.3 kV up to and including 33 kV. These cables are designed for fixed installations\nin both indoor and outdoor environments, including underground and ducts, where\nenhanced thermal and dielectric performance is needed.\nIS 7098 (Part 3): 1993\n\nThis standard (Part 3) specifies the requirements for single-core, cross-linked\npolyethylene (XLPE) insulated, unarmoured or armoured cables, with or without a\nlead alloy sheath, and thermoplastic outer sheathing. These cables are intended for",
+      "character_count": 1183,
+      "standard_numbers": [
+        "IS 7098 (Part 1):1988",
+        "IS 7098 (Part 2):2011",
+        "IS 7098 (Part 3):1993"
+      ],
+      "evidence": {
+        "source_pdf": "compendium_2025-06-02-05-09-22.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "compendium_2025-06-02-05-09-22_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "compendium_2025-06-02-05-09-22.pdf",
+      "document_title": "COMPENDIUM",
+      "page_number": null,
+      "chunk_index": 6,
+      "text": "3\n\nuse in three-phase AC earthed systems for electric supply at voltages ranging from\n66 kV up to and including 220 kV.\nIS 8130: 2013\n\nThis standard specifies the constructional requirements and properties of copper and\naluminium conductors used in insulated electric cables and flexible cords. It does not\napply to Conductors used in coils of machines or apparatus, Bare conductors for\naerial lines, Conductors intended for telecommunication purposes and specially\ndesigned conductors, such as hollow-core conductors.\nIS 9857: 1990\n\nThis standard specifies the requirements and test methods for single-core flexible\ncables used in welding circuits.\nThe cables covered are suitable for applications where the combined ambient\ntemperature and load-induced heating result in a steady conductor temperature not\nexceeding:\n•\n60°C for general service normal duty elastomeric compound, and\n•\n90°C for heat-resisting, oil-resisting, flame-retardant (HOFR) normal duty\nelastomeric compound.\nIS 9968 (Part 1): 1988\n\nThis standard specifies the requirements for elastomer, rubber, or silicone insulated\ncables intended for fixed wiring, as well as flexible cables and cords used in electric\npower and lighting applications. These cables are suitable for use in single-phase or\nthree-phase systems, whether earthed or unearthed, with rated voltages up to 1100\nvolts. Additionally, they are applicable for use in DC systems with rated voltages up\nto and including 1500 volts to earth.\n\nIS 9968 (Part 2): 1988",
+      "character_count": 1496,
+      "standard_numbers": [
+        "IS 8130:2013",
+        "IS 9857:1990",
+        "IS 9968 (Part 1):1988",
+        "IS 9968 (Part 2):1988"
+      ],
+      "evidence": {
+        "source_pdf": "compendium_2025-06-02-05-09-22.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "compendium_2025-06-02-05-09-22_pNone_c2",
+      "document_type": "standard",
+      "source_pdf": "compendium_2025-06-02-05-09-22.pdf",
+      "document_title": "COMPENDIUM",
+      "page_number": null,
+      "chunk_index": 7,
+      "text": "This standard covers the requirements for heat-resisting elastomer insulated cables\nintended for fixed installations and flexible cables used in single-phase or three-\nphase systems. The cables are suitable for electricity supply applications at rated\nvoltages (Uo/U) of 1.9/3.3 kV, 3.8/6.6 kV, 6.35/11 kV, 12.7/22 kV, and 19/33 kV.\nThese cables are designed for environments where the combined effect of ambient\ntemperature and load-induced heating results in a conductor temperature not\nexceeding:\n•\n90°C under normal operating conditions, and\n•\n250°C under short-circuit conditions.\nIS 5831: 1984\n\nThis standard specifies the physical and electrical requirements for polyvinyl chloride\n(PVC) insulation and sheath materials used in electric cables.\nThe standard classifies PVC compounds into the following types:\n•\nType A: General-purpose insulation for cables rated up to and including\n3.3/3.3 kV with a maximum conductor temperature of 70°C.\n•\nType B: General-purpose insulation for cables rated above 3.3/3.3 kV with a\nmaximum conductor temperature of 70°C.",
+      "character_count": 1063,
+      "standard_numbers": [
+        "IS 5831:1984"
+      ],
+      "evidence": {
+        "source_pdf": "compendium_2025-06-02-05-09-22.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "compendium_2025-06-02-05-09-22_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "compendium_2025-06-02-05-09-22.pdf",
+      "document_title": "COMPENDIUM",
+      "page_number": null,
+      "chunk_index": 8,
+      "text": "4\n\n•\nType C: Heat-resisting insulation for cables rated up to and including 1100 V,\nwith a maximum conductor temperature of 85°C.\n•\nType D: General-purpose insulation for flexible cables rated up to and\nincluding 3.3/3.3 kV, with a maximum conductor temperature of 70°C.\n•\nType ST1: General-purpose sheath for use with cables operating at a\nmaximum conductor temperature of 70°C.\n•\nType ST2: Heat-resisting sheath for use with cables operating at a maximum\nconductor temperature of 90°C.\n•\nType ST3: General-purpose sheath for flexible cables operating at a maximum\nconductor temperature of 70°C.\nIS 5950: 2024\n\nThis standard specifies the requirements for “shot firing cables” used in mining and\nother similar applications other than in shafts. These cables are designed to\nwithstand the harsh conditions typically found in such environments.\nIS 6380: 2024\n\nThis standard specifies the physical and electrical requirements for elastomeric\ninsulation and sheath materials used in electric cables. It covers a range of\ncompound types suitable for different service conditions.\nThe types of elastomeric materials included are:\n•\nInsulation Types:\no\nGeneral service elastomeric insulation\no\nHeat-resisting elastomeric insulation\no\nSilicon rubber insulation\n•\nSheath Types:\no\nGeneral service elastomeric sheath\no\nHeat-resisting, oil-resisting, and flame-retardant (HOFR) elastomeric\nsheath\no\nSilicon rubber sheath\nIS 17505 (Part 1): 2021",
+      "character_count": 1433,
+      "standard_numbers": [
+        "IS 5950:2024",
+        "IS 6380:2024",
+        "IS 17505 (Part 1):2021"
+      ],
+      "evidence": {
+        "source_pdf": "compendium_2025-06-02-05-09-22.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "compendium_2025-06-02-05-09-22_pNone_c2",
+      "document_type": "standard",
+      "source_pdf": "compendium_2025-06-02-05-09-22.pdf",
+      "document_title": "COMPENDIUM",
+      "page_number": null,
+      "chunk_index": 9,
+      "text": "This standard specifies the requirements for armoured, thermosetting insulated fire\nsurvival cables designed for fixed installations. These cables are intended for use in\nenvironments where circuit integrity is critical during fire conditions.\nThe standard applies to cables that:\n•\nAre suitable for working voltages up to and including 1100 V A.C. and 1500 V\nD.C.\n•\nProvide fire survival performance, maintaining circuit integrity under fire\nexposure\n•\nExhibit low emission of smoke and reduced emission of corrosive gases when\naffected by fire\nThese cables are intended for installations where continued cable operation during\nfire is essential, such as emergency lighting, alarms and critical control circuits.\nIS 18833: 2024/ IEC 62895: 2017\n\nHigh Voltage Direct Current (HVDC) Power Transmission – Cables with Extruded\nInsulation and Their Accessories for Rated Voltages up to 320 kV for Land\nApplications – Test Methods and Requirements. This standard specifies the test",
+      "character_count": 976,
+      "standard_numbers": [
+        "IS 18833:2024"
+      ],
+      "evidence": {
+        "source_pdf": "compendium_2025-06-02-05-09-22.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "compendium_2025-06-02-05-09-22_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "compendium_2025-06-02-05-09-22.pdf",
+      "document_title": "COMPENDIUM",
+      "page_number": null,
+      "chunk_index": 10,
+      "text": "5\n\nmethods and performance requirements for HVDC power cables with extruded\ninsulation and their accessories, intended for use in land-based applications\noperating at rated voltages up to 320 kV.\nIt covers:\n1. Cables with extruded insulation used for high voltage DC transmission\n2. Cable accessories, including joints and terminations\n3. Electrical, mechanical, and environmental tests required to verify the cable\nsystem’s suitability for HVDC applications\n4. Type testing and routine testing to ensure product reliability and compliance\nThe standard ensures that HVDC cable systems deliver reliable performance under\nnormal and fault conditions, supporting the growing demand for efficient long-\ndistance electric power transmission.\nIS 2465: 1984\n\nThis standard specifies the requirements and test methods for various types of cables\nused in motor vehicles. It covers:\n1. Ignition cables of the following types:\n•\nElastomer insulated\n•\nPVC insulated\n2. General wiring cables for circuits where voltage does not exceed 100 V,\nincluding:\n•\nSingle-core PVC insulated cables\n•\nCircular twin, three, and four-core PVC insulated and PVC sheathed cables\n3. Earthing cables such as round and flat tinned copper braids without further\ncovering\nThe standard ensures that the cables meet mechanical, thermal, and electrical\nperformance\ncriteria\nsuited\nto\nthe\ndemanding\nconditions\nin\nautomotive\nenvironments.\nIS 2593: 2023",
+      "character_count": 1414,
+      "standard_numbers": [
+        "IS 2465:1984",
+        "IS 2593:2023"
+      ],
+      "evidence": {
+        "source_pdf": "compendium_2025-06-02-05-09-22.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "compendium_2025-06-02-05-09-22_pNone_c2",
+      "document_type": "standard",
+      "source_pdf": "compendium_2025-06-02-05-09-22.pdf",
+      "document_title": "COMPENDIUM",
+      "page_number": null,
+      "chunk_index": 11,
+      "text": "Flexible cables used in Miner’s cap lamps require special features which are required\nto meet the environmental challenges in the gaseous and corrosive atmosphere\npresent in the mines. To meet the performance and safety requirements the Indian\nStandard IS 2593, Flexible Cables Used in Miners' Cap Lamps, provides specifications\nfor the flexible cables used in cap lamps designed for mining environments. Miners’\ncap lamps require specialized cables to ensure safety, durability, and flexibility in\nhazardous conditions.\nIS 4289 (Part 1): 1984\nThis standard (Part 1) specifies the requirements and tests for circular lift cables that\nare elastomer insulated, with either an overall braid or elastomer sheath, and rated\nfor voltages up to and including 1100 V.\nKey features and limitations:\n•\nSuitable for installations where the conductor temperature does not exceed\n60°C under combined ambient and load-induced conditions.\n•\nIntended for freely-suspended lengths up to 35 meters and speeds up to 1.6\nm/s.\n•\nApplications beyond these limits require mutual agreement between\npurchaser and manufacturer.\n•\nMay also be used in other applications requiring flexible cable connections.",
+      "character_count": 1180,
+      "standard_numbers": [
+        "IS 4289 (Part 1):1984"
+      ],
+      "evidence": {
+        "source_pdf": "compendium_2025-06-02-05-09-22.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "compendium_2025-06-02-05-09-22_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "compendium_2025-06-02-05-09-22.pdf",
+      "document_title": "COMPENDIUM",
+      "page_number": null,
+      "chunk_index": 12,
+      "text": "6\n\nIS 4289 (Part 2): 2000\n\nThis standard (Part 2) specifies the requirements and tests for circular lift cables that\nare PVC insulated, with an overall braid and PVC sheath, and rated for voltages up\nto and including 1100 V.\nKey features and limitations:\n•\nDesigned for freely-suspended installations up to 35 meters.\n•\nApplicable to lift systems where the speed of travel complies with limits\nspecified in relevant Indian Standards on lifts.\n•\nSuitable for environments where the conductor temperature does not exceed\n70°C under combined ambient and load conditions.\nIS 14255: 1995\n\nThis standard specifies the requirements for aerial bunched cables (ABC) consisting\nof polyethylene or cross-linked polyethylene (XLPE) insulated aluminium conductors,\ntwisted around a bare or insulated aluminium alloy messenger wire, intended for\noverhead distribution systems.\nKey details:\n•\nApplicable for single-phase and three-phase AC systems, earthed or\nunearthed, with rated voltage up to and including 1100 V.\n•\nCable configurations covered include:\no\nSingle insulated phase conductor, optionally with an insulated neutral\nand/or insulated street light conductor.\no\nThree insulated phase conductors, optionally with an insulated neutral\nand/or insulated street light conductor.\nThese cables are primarily used as overhead feeders in power distribution networks.\nIS 14494: 2019\n\nThe standard specifies requirements for elastomer insulated flexible cables used in\nmines. These cables are designed for various voltage grades, including 1.1, 3.3,\n3.8/6.6, and 6.35/11 kV. These cables are used in coal mines, quarries, and other\nmiscellaneous mines. They are designed to withstand high temperatures and harsh\nconditions, ensuring reliable performance in demanding environments.\nIS 17048: 2018",
+      "character_count": 1781,
+      "standard_numbers": [
+        "IS 4289 (Part 2):2000",
+        "IS 14255:1995",
+        "IS 14494:2019",
+        "IS 17048:2018"
+      ],
+      "evidence": {
+        "source_pdf": "compendium_2025-06-02-05-09-22.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "compendium_2025-06-02-05-09-22_pNone_c2",
+      "document_type": "standard",
+      "source_pdf": "compendium_2025-06-02-05-09-22.pdf",
+      "document_title": "COMPENDIUM",
+      "page_number": null,
+      "chunk_index": 13,
+      "text": "This standard specifies the general requirements for single-core and multicore\ncables/cords with rigid or flexible annealed bare/tinned copper or aluminium\nconductors, insulated and optionally sheathed with Thermoplastic or Crosslinked\nHalogen Free Flame Retardant (HFFR) material.\nKey points:\n•\nRated for voltages up to and including 1100 V AC (50 Hz).\n•\nAlso suitable for DC systems up to and including 1500 V to earth.\n•\nApplicable to power and lighting installations, including low temperature\napplications.\n•\nMaximum permissible conductor temperatures:\no\n70°C for thermoplastic HFFR.\no\n90°C for crosslinked HFFR.\nThese cables are designed to offer enhanced fire safety through low smoke emission\nand non-corrosive gases in the event of fire.",
+      "character_count": 746,
+      "standard_numbers": [
+        "IS 4289 (Part 2):2000",
+        "IS 14255:1995",
+        "IS 14494:2019",
+        "IS 17048:2018"
+      ],
+      "evidence": {
+        "source_pdf": "compendium_2025-06-02-05-09-22.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "compendium_2025-06-02-05-09-22_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "compendium_2025-06-02-05-09-22.pdf",
+      "document_title": "COMPENDIUM",
+      "page_number": null,
+      "chunk_index": 14,
+      "text": "7\n\nIS 17293: 2020\n\nThis standard specifies the requirements for single-core cables used in photovoltaic\n(PV) systems, specifically for the direct current (DC) side of the installation. These\ncables are designed for long-term outdoor use, where they are directly exposed to\nsolar radiation, air humidity and other environmental factors.\nKey features:\n•\nSuitable for DC applications in PV systems.\n•\nDesigned for UV and weather resistance.\n•\nRated for a normal continuous conductor temperature of 90°C.\n•\nMay be used at up to 120°C for a maximum of 20,000 hours.\nThese cables ensure durability and performance under harsh environmental\nconditions typically encountered in solar power installations.\nIS 10418: 2024\n\nThis standard specifies the requirements for wooden drums used for winding,\ntransporting and storing electric cables. Recognizing the critical role drums play in\nmaintaining cable integrity during handling and logistics, the standard aims to\nrationalize drum sizes currently in use.\nKey features:\n•\nApplies to wooden cable drums.\n•\nStandardizes drum dimensions using a four-digit code:\no\nFirst two digits: Diameter of disc (in decimetres).\no\nLast two digits: Diameter of barrel (in decimetres).\nIS 16246: 2015\n\nThis standard specifies requirements for Elastomer Insulated Cables designed to\nmaintain circuit integrity during fire conditions, essential for applications like\nemergency lighting, fire detection systems and alarm circuits. These fire-resistant\ncables are critical for consumers looking for dependable, high-quality cables that\nensure the uninterrupted flow of electricity during emergencies.",
+      "character_count": 1618,
+      "standard_numbers": [
+        "IS 17293:2020",
+        "IS 10418:2024",
+        "IS 16246:2015"
+      ],
+      "evidence": {
+        "source_pdf": "compendium_2025-06-02-05-09-22.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "compendium_2025-06-02-05-09-22_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "compendium_2025-06-02-05-09-22.pdf",
+      "document_title": "COMPENDIUM",
+      "page_number": null,
+      "chunk_index": 15,
+      "text": "8\n\nCable Accessories Standards\nIS 10877: 1984\n\nThis standard specifies the dimensions and requirements for moulds used in cast\nresin-based indoor terminations for medium voltage power cables, specifically:\n•\nPVC insulated, unscreened cables with voltage grades from 3.3 kV to 6.6 kV.\n•\nPaper insulated, belted type cables with voltage grades from 3.3 kV to 11 kV.\nIt also includes:\n•\nMarking requirements for moulds.\n•\nReference to materials to be used in mould construction.\n•\nTwo mould types are defined based on the earthing configuration:\n•\nType A: For PVC cables, with earthing connection inside the mould.\n•\nType B: For paper insulated cables, with earthing connection outside the\nmould.\nIS 11979: 1987\n\nThis standard specifies the dimensions and requirements for moulds used in cast\nresin-based straight-through joints for the following medium voltage cables:\n•\nPVC insulated, unscreened cables, voltage grades from 3.3 kV to 6.6 kV.\n•\nPaper insulated, belted type (PILC) cables, voltage grades from 3.3 kV to 11\nkV.\nAdditionally, the standard outlines:\n•\nMarking requirements for identification.\n•\nMaterial references for mould manufacturing.\nIS 12909: 1990",
+      "character_count": 1165,
+      "standard_numbers": [
+        "IS 10877:1984",
+        "IS 11979:1987",
+        "IS 12909:1990"
+      ],
+      "evidence": {
+        "source_pdf": "compendium_2025-06-02-05-09-22.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "compendium_2025-06-02-05-09-22_pNone_c2",
+      "document_type": "standard",
+      "source_pdf": "compendium_2025-06-02-05-09-22.pdf",
+      "document_title": "COMPENDIUM",
+      "page_number": null,
+      "chunk_index": 16,
+      "text": "This standard specifies the dimensions and requirements for moulds used in cast\nresin-based outdoor terminations for the following medium voltage cables:\n•\nPVC insulated, unscreened cables, voltage grade above 1.1 kV up to 6.6 kV.\n•\nPaper insulated, belted type (PILC) cables, voltage grade above 1.1 kV up to\n11 kV.\nIt also covers two mould types based on cable type:\n•\nType A: For PVC cables with earthing connection inside the mould; cores are\nterminated with insulator discs.\n•\nType B: For PILC cables, using precast bushings with at least one petticoat;\nearthing is arranged inside the mould, and the remaining core portions are\nresin cast in the bushing.\nThe standard also specifies marking and material references for the moulds.\nIS 12943: 1990\n\nThis standard covers the requirements and dimensions for single compression brass\nglands used with PVC cables of voltage grade up to and including 3.3 kV. These\nglands are intended for general-purpose indoor applications. For other applications\n(e.g., corrosive or outdoor environments), the brass glands may be used if provided\nwith suitable coatings such as cadmium plating.",
+      "character_count": 1129,
+      "standard_numbers": [
+        "IS 12943:1990"
+      ],
+      "evidence": {
+        "source_pdf": "compendium_2025-06-02-05-09-22.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "compendium_2025-06-02-05-09-22_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "compendium_2025-06-02-05-09-22.pdf",
+      "document_title": "COMPENDIUM",
+      "page_number": null,
+      "chunk_index": 17,
+      "text": "9\n\nIS 13573 (Part 1): 2011\n\nThis standard specifies the test methods and test requirements for cable accessories\nused with extruded (typically XLPE or EPR) insulated power cables for rated voltages\nfrom 1.1 kV up to and including 3.3 kV (E). It covers accessories such as straight-\nthrough joints, terminations and separable connectors, applicable for indoor and\noutdoor installations in power distribution networks. The aim is to ensure that\naccessories perform reliably under electrical, thermal and environmental stress.\nIS 13573 (Part 2): 2011\n\nThe standard specifies the test requirements for cable accessories including joints,\nterminations, and separable connectors used with extruded insulated power cables\n(such as XLPE and EPR) rated for voltages from 3.3 kV (Ue) up to and including 33\nkV (E).\nIS 13573 (Part 3): 2011\n\nThe standard specifies the test methods for cable accessories such as joints,\nterminations and separable connectors used with extruded insulated power cables\n(eg. XLPE or EPR) designed for rated voltages from 3.3 kV (Ue) up to and including\n33 kV (E). The standard ensures that these accessories meet stringent electrical,\nmechanical and environmental performance criteria for medium voltage power\ndistribution and industrial applications.\nIS 13705: 1993\n\nIS 13705:1993 specifies the performance requirements and type test procedures for\ntransition joints used to connect power cables operating at voltages from 11 kV up\nto and including 33 kV. These joints are designed to connect cables with different\ninsulation materials or constructions, ensuring electrical continuity, mechanical\nstrength and environmental protection in medium voltage power systems.\nIS 7093: 1973",
+      "character_count": 1700,
+      "standard_numbers": [
+        "IS 13573 (Part 1):2011",
+        "IS 13573 (Part 2):2011",
+        "IS 13573 (Part 3):2011",
+        "IS 13705:1993",
+        "IS 7093:1973"
+      ],
+      "evidence": {
+        "source_pdf": "compendium_2025-06-02-05-09-22.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "compendium_2025-06-02-05-09-22_pNone_c2",
+      "document_type": "standard",
+      "source_pdf": "compendium_2025-06-02-05-09-22.pdf",
+      "document_title": "COMPENDIUM",
+      "page_number": null,
+      "chunk_index": 18,
+      "text": "IS 7093:1973 specifies the requirements for straight-through joint boxes and lead\nsleeves used for jointing paper insulated, lead sheathed power cables for working\nvoltages up to and including 11 kV. These joints are designed for use in underground\ninstallations, providing mechanical protection, environmental sealing and electrical\ncontinuity.\nIS 8308: 1993\n\nThis standard prescribes the material and dimensional requirements for aluminium\ncompression type tubular in-line connectors, intended for use with aluminium\nconductors of insulated cables for rated voltages up to and including 11 kV.\nIS 8309: 1993\n\nThis standard prescribes the material and dimensional requirements for aluminium\ncompression type tubular terminal ends, intended for use with aluminium conductors\nof insulated cables for rated voltages up to and including 11 kV.",
+      "character_count": 840,
+      "standard_numbers": [
+        "IS 7093:1973",
+        "IS 8308:1993",
+        "IS 8309:1993"
+      ],
+      "evidence": {
+        "source_pdf": "compendium_2025-06-02-05-09-22.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "compendium_2025-06-02-05-09-22_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "compendium_2025-06-02-05-09-22.pdf",
+      "document_title": "COMPENDIUM",
+      "page_number": null,
+      "chunk_index": 19,
+      "text": "10\n\nIS 8337: 1976\n\nThis standard specifies the performance requirements and methods of tests for\ncompression joints used with aluminium conductors in insulated cables for rated\nvoltages up to and including 11 kV.\nIS 8394: 1977\n\nThis standard specifies the material and dimensional requirements of copper, brass,\nand aluminium terminal ends - both soldering and welding types - for use with\ncopper and aluminium conductors of insulated cables for rated voltages up to and\nincluding 11 kV.\nIS 8438: 1987\n\nThis standard covers the requirements and dimensions of moulds used for cast resin\nbased straight through joints for cables for voltages up to and including 1100 volts.\nIS 9553: 1987\n\nThis standard covers the requirements and dimensions for moulds of cast resin-\nbased terminations for:\n•\nPower cables manufactured for voltages up to and including 1100 V.\n•\nControl cables having up to 61 cores.\nIS 9646: 1992\n\nThis standard specifies the dimensions for moulds of cast resin-based tee-joints for\ncables manufactured for voltages up to and including 1100 volts. The standard also\nspecifies the markings to be given on the moulds and provides references to the\nmaterials used for their construction.",
+      "character_count": 1200,
+      "standard_numbers": [
+        "IS 8337:1976",
+        "IS 8394:1977",
+        "IS 8438:1987",
+        "IS 9553:1987",
+        "IS 9646:1992"
+      ],
+      "evidence": {
+        "source_pdf": "compendium_2025-06-02-05-09-22.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "compendium_2025-06-02-05-09-22_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "compendium_2025-06-02-05-09-22.pdf",
+      "document_title": "COMPENDIUM",
+      "page_number": null,
+      "chunk_index": 20,
+      "text": "11\n\nTest Method Standards\nIS 10810 (Part 0): 1984\n\nThis standard, issued in different parts, prescribes methods of tests for electric\ncables, wires and cords in finished stage as well as their components, such as\nconductor insulation, sheath and armour.\nIS 10810 (Part 1): 1984\n\nThe standard covers methods for determining the elongation properties of annealed\ncopper wires, aluminium wires for welding cables and solidal conductors used in\nelectric cables.\nIS 10810 (Part 2): 1984\n\nThe standard covers method to determine tensile strength of aluminium wires used\nfor conductor of electric cables.\nIS 10810 (Part 3): 1984\n\nThe standard covers method to determine the ductility of aluminium wire used as\nconductors for electric cables.\nIS 10810 (Part 4): 1984\n\nThe standard covers two methods for determination of exposed copper in case of\ntinned copper wire for conductors used in electrical cables.\nIS 10810 (Part 5): 1984\n\nThe standard covers method to determine the dc resistance of copper and aluminium\nconductors.\nIS 10810 (Part 6): 1984\n\nThe standard covers a method for verification of thickness of thermoplastic and\nelastomeric insulation and sheath of electric cables.\nIS 10810 (Part 7): 1984\n\nThe standard covers the method to determine the tensile strength and elongation at\nbreak of thermoplastic and elastomeric insulation and sheath of electric cables.\nIS 10810 (Part 8): 1984\n\nThe standard covers the method for determining breaking strength and elongation\nat break of impregnated paper insulation taken from a completed electric cable.\nIS 10810 (Part 9): 1984\n\nThe standard covers the method for determining the force required to tear a\nspecimen of cable insulating paper.\nIS 10810 (Part 10): 1984",
+      "character_count": 1713,
+      "standard_numbers": [
+        "IS 10810 (Part 0):1984",
+        "IS 10810 (Part 1):1984",
+        "IS 10810 (Part 2):1984",
+        "IS 10810 (Part 3):1984",
+        "IS 10810 (Part 4):1984",
+        "IS 10810 (Part 5):1984",
+        "IS 10810 (Part 6):1984",
+        "IS 10810 (Part 7):1984",
+        "IS 10810 (Part 8):1984",
+        "IS 10810 (Part 9):1984",
+        "IS 10810 (Part 10):1984"
+      ],
+      "evidence": {
+        "source_pdf": "compendium_2025-06-02-05-09-22.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "compendium_2025-06-02-05-09-22_pNone_c2",
+      "document_type": "standard",
+      "source_pdf": "compendium_2025-06-02-05-09-22.pdf",
+      "document_title": "COMPENDIUM",
+      "page_number": null,
+      "chunk_index": 21,
+      "text": "The standard covers method to determine the thermal effect on the mass of\nthermoplastic insulation and sheath.",
+      "character_count": 110,
+      "standard_numbers": [
+        "IS 10810 (Part 0):1984",
+        "IS 10810 (Part 1):1984",
+        "IS 10810 (Part 2):1984",
+        "IS 10810 (Part 3):1984",
+        "IS 10810 (Part 4):1984",
+        "IS 10810 (Part 5):1984",
+        "IS 10810 (Part 6):1984",
+        "IS 10810 (Part 7):1984",
+        "IS 10810 (Part 8):1984",
+        "IS 10810 (Part 9):1984",
+        "IS 10810 (Part 10):1984"
+      ],
+      "evidence": {
+        "source_pdf": "compendium_2025-06-02-05-09-22.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "compendium_2025-06-02-05-09-22_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "compendium_2025-06-02-05-09-22.pdf",
+      "document_title": "COMPENDIUM",
+      "page_number": null,
+      "chunk_index": 22,
+      "text": "12\n\nIS 10810 (Part 11): 1984\n\nThe standard covers method for thermal ageing test in air of insulation and sheath\nof electric cables.\nIS 10810 (Part 12): 1984\n\nThe standard covers determination of shrinkage characteristics of thermoplastic\ninsulation and sheath of electric cables after exposure to specified elevated\ntemperature.\nIS 10810 (Part 13): 1984\n\nThe standard covers method for estimating the resistance of elastomeric material\nof electric cable to ozone attack.\nIS 10810 (Part 14): 1984\n\nThe standard covers method for finding out cracking of the thermoplastic insulation\nand sheath of electric cables taking place on overheating.\nIS 10810 (Part 15): 1984\n\nThe standard covers method to determine the resistance of thermoplastic insulation\nand sheath of electric cables to deformation when subjected to mechanical pressure\nat high temperature.\nIS 10810 (Part 16): 1984\n\nThe standard covers method of heat ageing test under oxygen pressure for insulation\nand sheath of electric cables.\nIS 10810 (Part 17): 1984\n\nThe standard covers method for determination of tear resistance of elastomeric\nheavy duty sheath.\nIS 10810 (Part 19): 1984\n\nThe Standard method to determine the migration or oozing characteristics of\npigment added to the thermoplastic insulation or sheath of electric cable when in\ncontact with permeable medium.\nIS 10810 (Part 20): 1984\n\nThe standard covers method to determine resistance to bend of thermoplastic or\nelastomeric insulation or sheath of electric cables at low temperatures and frost.\nThis test is applicable to specimen of diameter up to and including 12.5 mm, above\nwhich this test is considered impracticable.\nIS 10810 (Part 21): 1984",
+      "character_count": 1674,
+      "standard_numbers": [
+        "IS 10810 (Part 11):1984",
+        "IS 10810 (Part 12):1984",
+        "IS 10810 (Part 13):1984",
+        "IS 10810 (Part 14):1984",
+        "IS 10810 (Part 15):1984",
+        "IS 10810 (Part 16):1984",
+        "IS 10810 (Part 17):1984",
+        "IS 10810 (Part 19):1984",
+        "IS 10810 (Part 20):1984",
+        "IS 10810 (Part 21):1984"
+      ],
+      "evidence": {
+        "source_pdf": "compendium_2025-06-02-05-09-22.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "compendium_2025-06-02-05-09-22_pNone_c2",
+      "document_type": "standard",
+      "source_pdf": "compendium_2025-06-02-05-09-22.pdf",
+      "document_title": "COMPENDIUM",
+      "page_number": null,
+      "chunk_index": 23,
+      "text": "The standard covers method to determine the resistance to impact or shock of\nthermoplastic and elastomeric insulation or sheath at low temperature and frost.\nThis test is an alternative to cold bend test which is considered impracticable for\ninsulation or sheath whose diameter is larger than 12.5 mm.",
+      "character_count": 301,
+      "standard_numbers": [
+        "IS 10810 (Part 11):1984",
+        "IS 10810 (Part 12):1984",
+        "IS 10810 (Part 13):1984",
+        "IS 10810 (Part 14):1984",
+        "IS 10810 (Part 15):1984",
+        "IS 10810 (Part 16):1984",
+        "IS 10810 (Part 17):1984",
+        "IS 10810 (Part 19):1984",
+        "IS 10810 (Part 20):1984",
+        "IS 10810 (Part 21):1984"
+      ],
+      "evidence": {
+        "source_pdf": "compendium_2025-06-02-05-09-22.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "compendium_2025-06-02-05-09-22_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "compendium_2025-06-02-05-09-22.pdf",
+      "document_title": "COMPENDIUM",
+      "page_number": null,
+      "chunk_index": 24,
+      "text": "13\n\nIS 10810 (Part 22): 1984\n\nThe standard covers the procedure for measuring vicat softening point of\npolyethylene insulation and sheath of electrical cables.\nIS 10810 (Part 23): 1984\n\nThe standard covers method for finding melt-flow index of polyethylene insulation\nand sheath of electrical cables by measuring the rate of extrusion of polyethylene\nthrough an orifice of a specified length and diameter, under prescribed conditions of\ntemperature and pressure.\nIS 10810 (Part 24): 1984\n\nThe standard covers the procedure of determining water soluble impurities (if any)\npresent in the insulating -paper for electric cables.\nIS 10810 (Part 25): 1984\n\nThe standard covers method to detect the presence of electrolytic impurities in the\nwater extract of insulating paper for electric cables.\nIS 10810 (Part 26): 1984\n\nThe standard covers method is designed to indicate the active and the total acidity\nor alkalinity of an aqueous extract of insulating papers for electric cables. Since the\naqueous extracts of most untreated papers used for electrical insulation are normally\nunbuffered and are readily affected by atmospheric conditions, this method\nembodies features to minimize errors from this source.\nIS 10810 (Part 27): 1984\n\nThe standard covers method for determination of the ash content in insulating\npaper for electric cables.\nIS 10810 (Part 28): 1984\n\nThe standard covers methods of measurement of water absorption by elastomeric\ninsulation of electric cables.\nIS 10810 (Part 29): 1984\n\nThe standard covers the procedure of test for cracking due to environmental stresses\non electric polyethylene insulation or sheath of cables.\nIS 10810 (Part 30): 1984",
+      "character_count": 1663,
+      "standard_numbers": [
+        "IS 10810 (Part 22):1984",
+        "IS 10810 (Part 23):1984",
+        "IS 10810 (Part 24):1984",
+        "IS 10810 (Part 25):1984",
+        "IS 10810 (Part 26):1984",
+        "IS 10810 (Part 27):1984",
+        "IS 10810 (Part 28):1984",
+        "IS 10810 (Part 29):1984",
+        "IS 10810 (Part 30):1984"
+      ],
+      "evidence": {
+        "source_pdf": "compendium_2025-06-02-05-09-22.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "compendium_2025-06-02-05-09-22_pNone_c2",
+      "document_type": "standard",
+      "source_pdf": "compendium_2025-06-02-05-09-22.pdf",
+      "document_title": "COMPENDIUM",
+      "page_number": null,
+      "chunk_index": 25,
+      "text": "The standard covers method for determination of elongation and permanent set\nunder load at specified temperature of insulation of electric cables.\nIS 10810 (Part 31): 1984\n\nThe standard covers method the procedure of oil resistance test applicable to\ninsulation/nonmetallic sheathing materials of electric cable.",
+      "character_count": 312,
+      "standard_numbers": [
+        "IS 10810 (Part 31):1984"
+      ],
+      "evidence": {
+        "source_pdf": "compendium_2025-06-02-05-09-22.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "compendium_2025-06-02-05-09-22_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "compendium_2025-06-02-05-09-22.pdf",
+      "document_title": "COMPENDIUM",
+      "page_number": null,
+      "chunk_index": 26,
+      "text": "14\n\nIS 10810 (Part 32): 1984\n\nThe standard covers the method for determination of carbon black content in\npolyethylene insulation sheath of electric cable.\nIS 10810 (Part 33): 1984\n\nThe standard covers the test procedure for determination of water absorbed by\ninsulation or sheath of electric cables.\nIS 10810 (Part 34): 1984\n\nThe standard covers method for measurement of thickness of metallic sheath of\nelectric cable.\nIS 10810 (Part 35): 1984\n\nThe standard covers the method for the quantitative determination of tin in lead\nalloy for sheathing electric cables.\nIS 10810 (Part 36): 1984\n\nThe standard covers method for measurement of dimensions of materials used for\narmouring of electric cables, as purchased or as taken out from the finished cable,\nwithout removing the zinc coating in the case of galvanized materials.\nIS 10810 (Part 37): 1984\n\nThe standard covers method for determination of tensile strength and elongation at\nbreak of armouring materials for electric cables.\nIS 10810 (Part 38): 1984\n\nThe standard covers method for torsion test on galvanized steel wires for armouring\nof electric cables.\nIS 10810 (Part 39): 1984\n\nThe standard covers method for the winding test on galvanized steel strips for\narmouring of cables.\nIS 10810 (Part 40): 1984\n\nThe standard covers the method for checking uniformity of zinc coating on galvanized\nmild steel wires, strips and tapes of armour for electric cables.\nIS 10810 (Part 41): 1984\n\nThe standard covers method for determination of mass of zinc coating on galvanized\nmild steel wires, strips and tapes of armour for electric cables.\nIS 10810 (Part 42): 1984\n\nThe standard covers method for determination of the resistivity of the armour wires\nand strips used in electric cables and the conductance of the armour of electric\ncables.",
+      "character_count": 1790,
+      "standard_numbers": [
+        "IS 10810 (Part 32):1984",
+        "IS 10810 (Part 33):1984",
+        "IS 10810 (Part 34):1984",
+        "IS 10810 (Part 35):1984",
+        "IS 10810 (Part 36):1984",
+        "IS 10810 (Part 37):1984",
+        "IS 10810 (Part 38):1984",
+        "IS 10810 (Part 39):1984",
+        "IS 10810 (Part 40):1984",
+        "IS 10810 (Part 41):1984",
+        "IS 10810 (Part 42):1984"
+      ],
+      "evidence": {
+        "source_pdf": "compendium_2025-06-02-05-09-22.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "compendium_2025-06-02-05-09-22_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "compendium_2025-06-02-05-09-22.pdf",
+      "document_title": "COMPENDIUM",
+      "page_number": null,
+      "chunk_index": 27,
+      "text": "15\n\nIS 10810 (Part 43): 1984\n\nThe standard covers method of determinations of insulation resistance, calculation\nof volume resistivity and insulation resistance constant of the dielectric material of\nelectric cable by direct current method.\nIS 10810 (Part 44): 1984\n\nThe standard covers the method for ac spark testing of insulation and non-metallic\nsheath of electric cables.\nIS 10810 (Part 45): 1984\n\nThe standard covers the method for high voltage test on electric cables.\nIS 10810 (Part 46): 1984\n\nThe standard covers detection and measurement of partial discharge occurring in\nscreened electric cables.\nIS 10810 (Part 47): 1984\n\nThe standard covers the method of impulse testing (simulated lightning impulse) of\nelectric cables.\nIS 10810 (Part 48): 1984\n\nThe standard covers the determination of dielectric power factor of the dielectric\nmaterial of electric cable as a function of either voltage or temperature or both.\nIS 10810 (Part 49): 1984\n\nThe standard covers the method of heating cycle test of electric cables.\nIS 10810 (Part 50): 1984\n\nThe standard prescribes the method for carrying out bending test on cables.\nIS 10810 (Part 51): 1984\n\nThe standard covers the method to determine the non-dripping properties of the\ncompound used in lapped bedding and serving of paper insulated electric cables.\nIS 10810 (Part 53): 1984\n\nThe standard prescribes method of test on electric cables under fire conditions.\nIS 10810 (Part 54): 1984\n\nThe standard covers method to determine the static flexibility of cables.\nIS 10810 (Part 55): 1984\n\nThe standard covers test method for assessing the resistance of extruded outer\nsheath of armoured cables to abrasive wear.\nIS 10810 (Part 56): 1984",
+      "character_count": 1692,
+      "standard_numbers": [
+        "IS 10810 (Part 43):1984",
+        "IS 10810 (Part 44):1984",
+        "IS 10810 (Part 45):1984",
+        "IS 10810 (Part 46):1984",
+        "IS 10810 (Part 47):1984",
+        "IS 10810 (Part 48):1984",
+        "IS 10810 (Part 49):1984",
+        "IS 10810 (Part 50):1984",
+        "IS 10810 (Part 51):1984",
+        "IS 10810 (Part 53):1984",
+        "IS 10810 (Part 54):1984",
+        "IS 10810 (Part 55):1984",
+        "IS 10810 (Part 56):1984"
+      ],
+      "evidence": {
+        "source_pdf": "compendium_2025-06-02-05-09-22.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "compendium_2025-06-02-05-09-22_pNone_c2",
+      "document_type": "standard",
+      "source_pdf": "compendium_2025-06-02-05-09-22.pdf",
+      "document_title": "COMPENDIUM",
+      "page_number": null,
+      "chunk_index": 28,
+      "text": "The standard covers method of heat ageing test under air pressure for insulation\nand sheath of electric cables.",
+      "character_count": 111,
+      "standard_numbers": [
+        "IS 10810 (Part 43):1984",
+        "IS 10810 (Part 44):1984",
+        "IS 10810 (Part 45):1984",
+        "IS 10810 (Part 46):1984",
+        "IS 10810 (Part 47):1984",
+        "IS 10810 (Part 48):1984",
+        "IS 10810 (Part 49):1984",
+        "IS 10810 (Part 50):1984",
+        "IS 10810 (Part 51):1984",
+        "IS 10810 (Part 53):1984",
+        "IS 10810 (Part 54):1984",
+        "IS 10810 (Part 55):1984",
+        "IS 10810 (Part 56):1984"
+      ],
+      "evidence": {
+        "source_pdf": "compendium_2025-06-02-05-09-22.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "compendium_2025-06-02-05-09-22_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "compendium_2025-06-02-05-09-22.pdf",
+      "document_title": "COMPENDIUM",
+      "page_number": null,
+      "chunk_index": 29,
+      "text": "16\n\nIS 10810 (Part 57): 1984\n\nThe standard covers the test procedure to determine the flexibility of flexible cable.\nFlexible cables having conductors with nominal cross-sectional area exceeding 4\nmm2 and all single core cables are not subjected to this test.\nIS 10810 (Part 58): 1984\n\nThe standard covers method describes a procedure for determining the relative\nflammability of materials used in electric cables by measuring the minimum\nconcentration of oxygen in a mixture of oxygen and nitrogen that will just support\nflaming combustion. This method is at present limited to the use of physically self-\nsupporting test specimens.\nIS 10810 (Part 59): 1984\n\nThe standard describes method for determination of the amount of halogen acid gas\nother than hydrofluoric acid evolved during the combustion of compounds based on\nhalogenated polymers and compounds containing halogenated additives taken from\ncable insulation and outer sheath.\nIS 10810 (Part 60): 1984\n\nThe standard covers method to test the thermal stability of PVC insulation or sheath\nof electrical cables.\nIS 10810 (Part 61): 1984\n\nThe Standard covers method to assess the ability of electric cable to resist ignition\nand to prevent fire from spreading.\nIS 10810 (Part 62): 1984\n\nThe standard covers the method for testing of a bunch of cables mounted vertically\nto determine their relative ability to resist flame propagation. This standard\nrecommends three test categories, these being assessed by the amount of\ncombustible non-metallic) material contained in one meter of bunched cables being\ntested.\nIS 10810 (Part 63): 1984\n\nThe standard gives the test method for the measurement of smoke emitted when\nelectric cables are burnt under defined conditions.\nIS 10810 (Part 64): 1984",
+      "character_count": 1747,
+      "standard_numbers": [
+        "IS 10810 (Part 57):1984",
+        "IS 10810 (Part 58):1984",
+        "IS 10810 (Part 59):1984",
+        "IS 10810 (Part 60):1984",
+        "IS 10810 (Part 61):1984",
+        "IS 10810 (Part 62):1984",
+        "IS 10810 (Part 63):1984",
+        "IS 10810 (Part 64):1984"
+      ],
+      "evidence": {
+        "source_pdf": "compendium_2025-06-02-05-09-22.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "compendium_2025-06-02-05-09-22_pNone_c2",
+      "document_type": "standard",
+      "source_pdf": "compendium_2025-06-02-05-09-22.pdf",
+      "document_title": "COMPENDIUM",
+      "page_number": null,
+      "chunk_index": 30,
+      "text": "The standard covers test method is applicable for testing the temperature index of\ninsulation or sheath of electric cables and is limited to physically self-supporting test\nspecimens.",
+      "character_count": 183,
+      "standard_numbers": [
+        "IS 10810 (Part 57):1984",
+        "IS 10810 (Part 58):1984",
+        "IS 10810 (Part 59):1984",
+        "IS 10810 (Part 60):1984",
+        "IS 10810 (Part 61):1984",
+        "IS 10810 (Part 62):1984",
+        "IS 10810 (Part 63):1984",
+        "IS 10810 (Part 64):1984"
+      ],
+      "evidence": {
+        "source_pdf": "compendium_2025-06-02-05-09-22.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "compendium_2025-06-02-05-09-22_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "compendium_2025-06-02-05-09-22.pdf",
+      "document_title": "COMPENDIUM",
+      "page_number": null,
+      "chunk_index": 31,
+      "text": "17\n\nCode of Practice Standards\nIS 10462 (Part 1): 1983\n\nThis standard covers the fictitious calculation method used to determine the\ndimensions of protective coverings for cables insulated with elastomeric materials\n(including cross-linked polyethylene) and thermoplastic materials.\nIS 1255: 1983\n\nThis standard provides recommendations and broad guidelines for the selection,\ntransportation, laying, jointing, termination, testing, commissioning, maintenance\nand fault localization of power cables rated up to and including 33 kV. This standard\ndoes not cover cable installation for special applications like mines, quarries and oil\nfields where other statutory regulations apply.\nIS 16269: 2018\n\nThis standard provides recommendations on short-circuit temperature limits, the\nmethod for calculating short-circuit current, and the cross-sectional area\nrequirements of cable components to safely carry short-circuit currents. It applies to\nelectric cables with rated voltages ranging from 1.1 kV up to 220 kV.\nIS 3961 (Part 2): 2017\n\nThis standard provides recommended current ratings for PVC insulated and PVC\nsheathed heavy duty cables covered by IS 1554 (Part 1), either laid in ground, in\nducts or in air.\nIS 3961 (Part 3): 1968\n\nThis standard provides the recommended current ratings for rubber insulated cables\nwith both copper and aluminium conductors. It applies to cables with voltage ratings\nof 250/440 volts and 650/1100 volts.\nIS 3961 (Part 5): 1968\n\nThis standard covers the recommended current ratings for both copper and\naluminium conductor PVC insulated cables, as well as copper conductor flexible\ncords. It applies to cables and cords covered under IS 694.\nIS 3961 (Part 6): 2016",
+      "character_count": 1697,
+      "standard_numbers": [
+        "IS 10462 (Part 1):1983",
+        "IS 1255:1983",
+        "IS 16269:2018",
+        "IS 3961 (Part 2):2017",
+        "IS 3961 (Part 3):1968",
+        "IS 3961 (Part 5):1968",
+        "IS 3961 (Part 6):2016"
+      ],
+      "evidence": {
+        "source_pdf": "compendium_2025-06-02-05-09-22.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "compendium_2025-06-02-05-09-22_pNone_c2",
+      "document_type": "standard",
+      "source_pdf": "compendium_2025-06-02-05-09-22.pdf",
+      "document_title": "COMPENDIUM",
+      "page_number": null,
+      "chunk_index": 32,
+      "text": "This standard provides recommended current ratings for crosslinked polyethylene\ninsulated PVC sheathed cables covered by IS 7098 (Part 1), either laid in ground, in\nducts or in air.\nIS 3961 (Part 7): 2017\n\nThis standard provides recommended current ratings for crosslinked polyethylene\ninsulated PVC sheathed cables covered by IS 7098 (Part 2), either laid in ground, in\nducts or in air.",
+      "character_count": 387,
+      "standard_numbers": [
+        "IS 3961 (Part 7):2017"
+      ],
+      "evidence": {
+        "source_pdf": "compendium_2025-06-02-05-09-22.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "compendium_2025-06-02-05-09-22_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "compendium_2025-06-02-05-09-22.pdf",
+      "document_title": "COMPENDIUM",
+      "page_number": null,
+      "chunk_index": 33,
+      "text": "18\n\nIS 5819: 2024\n\nThis standard covers the recommended short-circuit ratings of high voltage heavy\nduty PVC insulated cables conforming to IS 1554 (Part 2).",
+      "character_count": 157,
+      "standard_numbers": [
+        "IS 5819:2024"
+      ],
+      "evidence": {
+        "source_pdf": "compendium_2025-06-02-05-09-22.pdf",
+        "page_number": null
+      }
+    }
+  ]
+}

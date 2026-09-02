@@ -1,0 +1,5722 @@
+[
+  {
+    "standard_number": "IS 269",
+    "standard_title": "ORDINARY PORTLAND CEMENT (OPC) (",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 2,
+    "end_page": 2
+  },
+  {
+    "standard_number": "IS 1489",
+    "standard_title": "PORTLAND POZZOLANA CEMENT (PPC) FLY ASH BASED",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 2,
+    "end_page": 2
+  },
+  {
+    "standard_number": "IS 455",
+    "standard_title": "PORTLAND SLAG CEMENT (",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 2,
+    "end_page": 2
+  },
+  {
+    "standard_number": "IS 8042",
+    "standard_title": "WHITE PORTLAND CEMENT (",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 2,
+    "end_page": 2
+  },
+  {
+    "standard_number": "IS 16415",
+    "standard_title": "COMPOSITE CEMENT (",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 2,
+    "end_page": 2
+  },
+  {
+    "standard_number": "IS 3466",
+    "standard_title": "MASONRY CEMENT (",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 2,
+    "end_page": 2
+  },
+  {
+    "standard_number": "IS 6452",
+    "standard_title": "(",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 2,
+    "end_page": 2
+  },
+  {
+    "standard_number": "IS 6909",
+    "standard_title": "SUPERSULPHATED CEMENT (",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 2,
+    "end_page": 2
+  },
+  {
+    "standard_number": "IS 8041",
+    "standard_title": "RAPID HARDENING PORTLAND CEMENT (",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 2,
+    "end_page": 2
+  },
+  {
+    "standard_number": "IS 8043",
+    "standard_title": "HYDROPHOBIC CEMENT (",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 2,
+    "end_page": 2
+  },
+  {
+    "standard_number": "IS 8229",
+    "standard_title": "OIL WELL CEMENT (",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 2,
+    "end_page": 2
+  },
+  {
+    "standard_number": "IS 12330",
+    "standard_title": "SULPHATE RESISTING CEMENT (",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 2,
+    "end_page": 2
+  },
+  {
+    "standard_number": "IS 12600",
+    "standard_title": "LOW HEAT PORTLAND CEMENT (",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 2,
+    "end_page": 2
+  },
+  {
+    "standard_number": "IS 16993",
+    "standard_title": "MICROFINE ORDINARY PORTLAND CEMENT OPC (",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 2,
+    "end_page": 2
+  },
+  {
+    "standard_number": "IS 18189",
+    "standard_title": "(",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 2,
+    "end_page": 4
+  },
+  {
+    "standard_number": "IS 4031",
+    "standard_title": "The physical properties of cement are determined by the test methods given in",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 5,
+    "end_page": 5
+  },
+  {
+    "standard_number": "IS 4032",
+    "standard_title": "1 to Part 15) whereas chemical properties of tested based on",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 5,
+    "end_page": 5
+  },
+  {
+    "standard_number": "IS 4031 (PART 1):1996",
+    "standard_title": "1",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 5,
+    "end_page": 5
+  },
+  {
+    "standard_number": "IS 4031 (PART 2):1999",
+    "standard_title": "2",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 5,
+    "end_page": 5
+  },
+  {
+    "standard_number": "IS 4031 (PART 3):1988",
+    "standard_title": "3",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 5,
+    "end_page": 5
+  },
+  {
+    "standard_number": "IS 4031 (PART 4):1988",
+    "standard_title": "4",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 5,
+    "end_page": 5
+  },
+  {
+    "standard_number": "IS 4031 (PART 5):1988",
+    "standard_title": "5",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 6,
+    "end_page": 6
+  },
+  {
+    "standard_number": "IS 4031 (PART 6):1988",
+    "standard_title": "6",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 6,
+    "end_page": 6
+  },
+  {
+    "standard_number": "IS 4031 (PART 7):1988",
+    "standard_title": "7",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 6,
+    "end_page": 6
+  },
+  {
+    "standard_number": "IS 4031 (PART 8):1988",
+    "standard_title": "8",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 6,
+    "end_page": 6
+  },
+  {
+    "standard_number": "IS 4031 (PART 9):1988",
+    "standard_title": "9",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 6,
+    "end_page": 6
+  },
+  {
+    "standard_number": "IS 4031 (PART 10):1988",
+    "standard_title": "10",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 6,
+    "end_page": 6
+  },
+  {
+    "standard_number": "IS 4031 (PART 11):1988",
+    "standard_title": "11",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 6,
+    "end_page": 6
+  },
+  {
+    "standard_number": "IS 4031 (PART 12):1988",
+    "standard_title": "12",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 6,
+    "end_page": 6
+  },
+  {
+    "standard_number": "IS 4031 (PART 13):1988",
+    "standard_title": "13",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 6,
+    "end_page": 6
+  },
+  {
+    "standard_number": "IS 4031 (PART 14):1989",
+    "standard_title": "14",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 6,
+    "end_page": 6
+  },
+  {
+    "standard_number": "IS 4031 (PART 15):1991",
+    "standard_title": "15",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 6,
+    "end_page": 6
+  },
+  {
+    "standard_number": "IS 4032:1985",
+    "standard_title": "16",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 6,
+    "end_page": 6
+  },
+  {
+    "standard_number": "IS 12423:1988",
+    "standard_title": "1)",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 6,
+    "end_page": 6
+  },
+  {
+    "standard_number": "IS 12803:1989",
+    "standard_title": "2)",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 6,
+    "end_page": 6
+  },
+  {
+    "standard_number": "IS 12813:1989",
+    "standard_title": "3)",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 6,
+    "end_page": 6
+  },
+  {
+    "standard_number": "IS 269:2015",
+    "standard_title": "1)",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 7,
+    "end_page": 7
+  },
+  {
+    "standard_number": "IS 455:2015",
+    "standard_title": "2)",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 7,
+    "end_page": 7
+  },
+  {
+    "standard_number": "IS 1489 (PART 1):2015",
+    "standard_title": "3)",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 7,
+    "end_page": 7
+  },
+  {
+    "standard_number": "IS 1489 (PART 2):2015",
+    "standard_title": "4)",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 7,
+    "end_page": 7
+  },
+  {
+    "standard_number": "IS 3466:1988",
+    "standard_title": "5)",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 7,
+    "end_page": 7
+  },
+  {
+    "standard_number": "IS 6452:1989",
+    "standard_title": "6)",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 7,
+    "end_page": 7
+  },
+  {
+    "standard_number": "IS 6909:1990",
+    "standard_title": "7)",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 7,
+    "end_page": 7
+  },
+  {
+    "standard_number": "IS 8041:1990",
+    "standard_title": "8)",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 7,
+    "end_page": 7
+  },
+  {
+    "standard_number": "IS 8042:2015",
+    "standard_title": "9)",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 7,
+    "end_page": 7
+  },
+  {
+    "standard_number": "IS 8043:1991",
+    "standard_title": "10)",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 7,
+    "end_page": 7
+  },
+  {
+    "standard_number": "IS 8229:1986",
+    "standard_title": "11)",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 7,
+    "end_page": 7
+  },
+  {
+    "standard_number": "IS 12330:1988",
+    "standard_title": "12)",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 7,
+    "end_page": 7
+  },
+  {
+    "standard_number": "IS 12600:1989",
+    "standard_title": "13)",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 7,
+    "end_page": 7
+  },
+  {
+    "standard_number": "IS 16415:2015",
+    "standard_title": "14)",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 7,
+    "end_page": 7
+  },
+  {
+    "standard_number": "IS 16993:2018",
+    "standard_title": "15)",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 7,
+    "end_page": 7
+  },
+  {
+    "standard_number": "IS 18189:2023",
+    "standard_title": "16)",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 7,
+    "end_page": 7
+  },
+  {
+    "standard_number": "IS 269",
+    "standard_title": "ORDINARY PORTLAND CEMENT (OPC)",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 8,
+    "end_page": 8
+  },
+  {
+    "standard_number": "IS 3812",
+    "standard_title": "Conforming to",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 8,
+    "end_page": 8
+  },
+  {
+    "standard_number": "IS 12089",
+    "standard_title": "Conforming to",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 8,
+    "end_page": 8
+  },
+  {
+    "standard_number": "IS 15388",
+    "standard_title": "Conforming to",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 8,
+    "end_page": 8
+  },
+  {
+    "standard_number": "IS 1760",
+    "standard_title": "accordance with",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 8,
+    "end_page": 8
+  },
+  {
+    "standard_number": "IS 1727",
+    "standard_title": "percent when tested as per",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 8,
+    "end_page": 8
+  },
+  {
+    "standard_number": "IS 16354",
+    "standard_title": "Conforming to",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 8,
+    "end_page": 8
+  },
+  {
+    "standard_number": "IS 4032",
+    "standard_title": "b) When tested as per",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 8,
+    "end_page": 8
+  },
+  {
+    "standard_number": "IS 4032",
+    "standard_title": "b) When tested as per",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 9,
+    "end_page": 9
+  },
+  {
+    "standard_number": "IS 1344",
+    "standard_title": "Conforming to",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 9,
+    "end_page": 9
+  },
+  {
+    "standard_number": "IS 16714",
+    "standard_title": "Conforming to",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 9,
+    "end_page": 9
+  },
+  {
+    "standard_number": "IS 4031",
+    "standard_title": "(Part 2)",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 9,
+    "end_page": 9
+  },
+  {
+    "standard_number": "IS 4031",
+    "standard_title": "(Part 8)",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 10,
+    "end_page": 10
+  },
+  {
+    "standard_number": "IS 4032",
+    "standard_title": "Chemical Requirements: When tested as per",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 10,
+    "end_page": 11
+  },
+  {
+    "standard_number": "IS 1489",
+    "standard_title": "PORTLAND POZZOLANA CEMENT (PPC) FLY ASH BASED",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 12,
+    "end_page": 12
+  },
+  {
+    "standard_number": "IS 3812",
+    "standard_title": "conforming to",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 12,
+    "end_page": 12
+  },
+  {
+    "standard_number": "IS 269",
+    "standard_title": "Portland cement conforming to",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 12,
+    "end_page": 12
+  },
+  {
+    "standard_number": "IS 4031",
+    "standard_title": "(Part 2)",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 12,
+    "end_page": 12
+  },
+  {
+    "standard_number": "IS 4031",
+    "standard_title": "(Part 8)",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 13,
+    "end_page": 13
+  },
+  {
+    "standard_number": "IS 4032",
+    "standard_title": "Chemical Requirements – When tested as per",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 13,
+    "end_page": 14
+  },
+  {
+    "standard_number": "IS 1489",
+    "standard_title": "PORTLAND POZZOLANA CEMENT CALCINED CLAY BASED",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 15,
+    "end_page": 15
+  },
+  {
+    "standard_number": "IS 1344",
+    "standard_title": "which shall be either calcined clay pozzolana conforming to",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 15,
+    "end_page": 15
+  },
+  {
+    "standard_number": "IS 16353",
+    "standard_title": "cement clinker conforming to",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 15,
+    "end_page": 15
+  },
+  {
+    "standard_number": "IS 4031",
+    "standard_title": "(Part 2)",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 15,
+    "end_page": 15
+  },
+  {
+    "standard_number": "IS 4031",
+    "standard_title": "(Part 6)",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 16,
+    "end_page": 16
+  },
+  {
+    "standard_number": "IS 4032",
+    "standard_title": "Chemical Requirements – When tested as per",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 16,
+    "end_page": 17
+  },
+  {
+    "standard_number": "IS 455",
+    "standard_title": "PORTLAND SLAG CEMENT (",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 18,
+    "end_page": 18
+  },
+  {
+    "standard_number": "IS 12089",
+    "standard_title": "(Part 1), ground granulated blast furnace slag for blending with Portland cement",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 18,
+    "end_page": 18
+  },
+  {
+    "standard_number": "IS 16714",
+    "standard_title": "conforming to",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 18,
+    "end_page": 18
+  },
+  {
+    "standard_number": "IS 269",
+    "standard_title": "cement conforming to",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 18,
+    "end_page": 18
+  },
+  {
+    "standard_number": "IS 4031",
+    "standard_title": "(Part 2)",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 18,
+    "end_page": 18
+  },
+  {
+    "standard_number": "IS 4031",
+    "standard_title": "(Part 6)",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 19,
+    "end_page": 19
+  },
+  {
+    "standard_number": "IS 4032",
+    "standard_title": "Chemical Requirements – When tested as per",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 19,
+    "end_page": 20
+  },
+  {
+    "standard_number": "IS 8042",
+    "standard_title": "WHITE PORTLAND CEMENT (",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 21,
+    "end_page": 21
+  },
+  {
+    "standard_number": "IS 1760",
+    "standard_title": "tested as per",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 21,
+    "end_page": 21
+  },
+  {
+    "standard_number": "IS 4031",
+    "standard_title": "(Part 2)",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 21,
+    "end_page": 21
+  },
+  {
+    "standard_number": "IS 4031",
+    "standard_title": "further tests in respect of each failure shall be made as described in",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 22,
+    "end_page": 22
+  },
+  {
+    "standard_number": "IS 4032",
+    "standard_title": "Chemical Requirements – When tested as per",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 22,
+    "end_page": 22
+  },
+  {
+    "standard_number": "IS 16415",
+    "standard_title": "COMPOSITE CEMENT (",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 23,
+    "end_page": 23
+  },
+  {
+    "standard_number": "IS 3812",
+    "standard_title": "(Part 1) (The use of coarser fly ash as per the note under Table 2 of IS 3812 (Part 1)",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 23,
+    "end_page": 23
+  },
+  {
+    "standard_number": "IS 12089",
+    "standard_title": "granulated slag conforming to",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 23,
+    "end_page": 23
+  },
+  {
+    "standard_number": "IS 269",
+    "standard_title": "ordinary Portland cement conforming to",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 23,
+    "end_page": 23
+  },
+  {
+    "standard_number": "IS 4031",
+    "standard_title": "(Part 2)",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 24,
+    "end_page": 24
+  },
+  {
+    "standard_number": "IS 4032",
+    "standard_title": "Chemical Requirements – When tested as per",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 24,
+    "end_page": 25
+  },
+  {
+    "standard_number": "IS 3466",
+    "standard_title": "MASONRY CEMENT (",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 26,
+    "end_page": 26
+  },
+  {
+    "standard_number": "IS 4031",
+    "standard_title": "specified in",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 26,
+    "end_page": 26
+  },
+  {
+    "standard_number": "IS 650",
+    "standard_title": "*Standard sand shall conform to",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 26,
+    "end_page": 26
+  },
+  {
+    "standard_number": "IS 4032",
+    "standard_title": "water soluble alkali when determined in accordance with the method given in",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 27,
+    "end_page": 27
+  },
+  {
+    "standard_number": "IS 6452",
+    "standard_title": "HIGH ALUMINA CEMENT FOR STRUCTURAL USE (",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 28,
+    "end_page": 28
+  },
+  {
+    "standard_number": "IS 4032",
+    "standard_title": "method specified in",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 28,
+    "end_page": 28
+  },
+  {
+    "standard_number": "IS 4031",
+    "standard_title": "air permeability method described in",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 28,
+    "end_page": 28
+  },
+  {
+    "standard_number": "IS 650",
+    "standard_title": "to",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 28,
+    "end_page": 28
+  },
+  {
+    "standard_number": "IS 6909",
+    "standard_title": "SUPERSULPHATED CEMENT (",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 29,
+    "end_page": 29
+  },
+  {
+    "standard_number": "IS 4031",
+    "standard_title": "(Part",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 29,
+    "end_page": 29
+  },
+  {
+    "standard_number": "IS 650",
+    "standard_title": "standard sand (as per",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 29,
+    "end_page": 29
+  },
+  {
+    "standard_number": "IS 4031",
+    "standard_title": "mortar in accordance with the method described in",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 30,
+    "end_page": 30
+  },
+  {
+    "standard_number": "IS 4032",
+    "standard_title": "Chemical Requirements – When tested as per",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 30,
+    "end_page": 30
+  },
+  {
+    "standard_number": "IS 12089",
+    "standard_title": "2 Granulated slag conforming to",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 30,
+    "end_page": 30
+  },
+  {
+    "standard_number": "IS 8041",
+    "standard_title": "RAPID HARDENING PORTLAND CEMENT (",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 31,
+    "end_page": 31
+  },
+  {
+    "standard_number": "IS 4031",
+    "standard_title": "method as described in",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 31,
+    "end_page": 31
+  },
+  {
+    "standard_number": "IS 650",
+    "standard_title": "(conforming to",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 31,
+    "end_page": 31
+  },
+  {
+    "standard_number": "IS 4032",
+    "standard_title": "Chemical Requirements – When tested as per",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 32,
+    "end_page": 32
+  },
+  {
+    "standard_number": "IS 12423",
+    "standard_title": "determination of chloride content in cement is given in",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 32,
+    "end_page": 32
+  },
+  {
+    "standard_number": "IS 456",
+    "standard_title": "shall be as per",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 32,
+    "end_page": 32
+  },
+  {
+    "standard_number": "IS 8043",
+    "standard_title": "HYDROPHOBIC CEMENT (",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 33,
+    "end_page": 33
+  },
+  {
+    "standard_number": "IS 4031",
+    "standard_title": "method as described in",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 33,
+    "end_page": 33
+  },
+  {
+    "standard_number": "IS 269",
+    "standard_title": "2) The physical requirements, such as soundness and setting time shall be as laid down in",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 33,
+    "end_page": 33
+  },
+  {
+    "standard_number": "IS 650",
+    "standard_title": "to",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 33,
+    "end_page": 33
+  },
+  {
+    "standard_number": "IS 8229",
+    "standard_title": "OIL WELL CEMENT (",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 34,
+    "end_page": 34
+  },
+  {
+    "standard_number": "IS 12330",
+    "standard_title": "SULPHATE RESISTING CEMENT (",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 35,
+    "end_page": 35
+  },
+  {
+    "standard_number": "IS 4031",
+    "standard_title": "method as described in",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 35,
+    "end_page": 35
+  },
+  {
+    "standard_number": "IS 650",
+    "standard_title": "(conforming to",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 35,
+    "end_page": 35
+  },
+  {
+    "standard_number": "IS 4031",
+    "standard_title": "and prepared, stored and tested in the manner described in",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 36,
+    "end_page": 36
+  },
+  {
+    "standard_number": "IS 4032",
+    "standard_title": "Chemical Requirements – When tested as per",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 36,
+    "end_page": 37
+  },
+  {
+    "standard_number": "IS 12600",
+    "standard_title": "LOW HEAT PORTLAND CEMENT (",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 38,
+    "end_page": 38
+  },
+  {
+    "standard_number": "IS 4031",
+    "standard_title": "method as described in",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 38,
+    "end_page": 38
+  },
+  {
+    "standard_number": "IS 650",
+    "standard_title": "(conforming to",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 38,
+    "end_page": 38
+  },
+  {
+    "standard_number": "IS 4031",
+    "standard_title": "7) Heat of hydration – When tested by the method described in",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 39,
+    "end_page": 39
+  },
+  {
+    "standard_number": "IS 4032:1985",
+    "standard_title": "When tested in accordance with the methods given in",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 39,
+    "end_page": 39
+  },
+  {
+    "standard_number": "IS 456",
+    "standard_title": "shall be as per",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 39,
+    "end_page": 40
+  },
+  {
+    "standard_number": "IS 16993",
+    "standard_title": "MICROFINE ORDINARY PORTLAND CEMENT OPC (",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 41,
+    "end_page": 41
+  },
+  {
+    "standard_number": "IS 16353",
+    "standard_title": "to",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 41,
+    "end_page": 41
+  },
+  {
+    "standard_number": "IS 269",
+    "standard_title": "ordinary Portland cement conforming to",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 41,
+    "end_page": 41
+  },
+  {
+    "standard_number": "IS 11578",
+    "standard_title": "BET Method (Nitrogen Adsorption)",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 41,
+    "end_page": 41
+  },
+  {
+    "standard_number": "IS 4031",
+    "standard_title": "(Part 6)",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 41,
+    "end_page": 41
+  },
+  {
+    "standard_number": "IS 9103",
+    "standard_title": "compaction, required quantity of superplasticizers conforming to",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 41,
+    "end_page": 41
+  },
+  {
+    "standard_number": "IS 4032",
+    "standard_title": "Chemical Requirements – When tested as per",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 42,
+    "end_page": 43
+  },
+  {
+    "standard_number": "IS 18189",
+    "standard_title": "PORTLAND LIMESTONE CALCINED CLAY CEMENT (",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 44,
+    "end_page": 44
+  },
+  {
+    "standard_number": "IS 1760",
+    "standard_title": "MgO content determined as per",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 44,
+    "end_page": 44
+  },
+  {
+    "standard_number": "IS 16353",
+    "standard_title": "The Portland cement clinker used in the manufacture of the cement shall conform to",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 44,
+    "end_page": 44
+  },
+  {
+    "standard_number": "IS 269",
+    "standard_title": "43 Grade OPC as specified in",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 44,
+    "end_page": 44
+  },
+  {
+    "standard_number": "IS 4031",
+    "standard_title": "m2/kg, when measured according to",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 45,
+    "end_page": 45
+  },
+  {
+    "standard_number": "IS 4032",
+    "standard_title": "Chemical Requirements – When tested as per",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 45,
+    "end_page": 45
+  },
+  {
+    "standard_number": "IS 4032",
+    "standard_title": "Loss on ignition (as per",
+    "department": "Unknown",
+    "source_pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "start_page": 46,
+    "end_page": 47
+  },
+  {
+    "standard_number": "IS 23485",
+    "standard_title": "Medical Software & Quality Systems – Safety, cybersecurity",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Assistive-Products.pdf",
+    "start_page": 4,
+    "end_page": 5
+  },
+  {
+    "standard_number": "IS 18650:2024",
+    "standard_title": "As per the Indian Standard",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Assistive-Products.pdf",
+    "start_page": 6,
+    "end_page": 10
+  },
+  {
+    "standard_number": "IS 7454:2024",
+    "standard_title": "Title",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Assistive-Products.pdf",
+    "start_page": 11,
+    "end_page": 11
+  },
+  {
+    "standard_number": "IS 8086:2024",
+    "standard_title": "Rehabilitation Equipment - Wheelchairs, Folding, Adult Size",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Assistive-Products.pdf",
+    "start_page": 11,
+    "end_page": 11
+  },
+  {
+    "standard_number": "IS 8088:2019",
+    "standard_title": "Rehabilitation Equipment - Wheelchairs, Folding, Junior Size",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Assistive-Products.pdf",
+    "start_page": 11,
+    "end_page": 11
+  },
+  {
+    "standard_number": "IS 17154:2024",
+    "standard_title": "Tricycle, hand propelled",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Assistive-Products.pdf",
+    "start_page": 11,
+    "end_page": 11
+  },
+  {
+    "standard_number": "IS 17155:2019",
+    "standard_title": "Battery Operated Motorized Tricycle",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Assistive-Products.pdf",
+    "start_page": 11,
+    "end_page": 13
+  },
+  {
+    "standard_number": "IS 18653 (PART 1):2024",
+    "standard_title": "Assistive products for walking manipulated by both arms",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Assistive-Products.pdf",
+    "start_page": 14,
+    "end_page": 14
+  },
+  {
+    "standard_number": "IS 18653 (PART 2):2024",
+    "standard_title": "Assistive products for walking manipulated by both arms",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Assistive-Products.pdf",
+    "start_page": 14,
+    "end_page": 14
+  },
+  {
+    "standard_number": "IS 18653 (PART 3):2024",
+    "standard_title": "Walking aids manipulated by both arms",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Assistive-Products.pdf",
+    "start_page": 14,
+    "end_page": 14
+  },
+  {
+    "standard_number": "IS 5143:2024",
+    "standard_title": "Requirements and test methods Part 3: Walking tables",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Assistive-Products.pdf",
+    "start_page": 14,
+    "end_page": 15
+  },
+  {
+    "standard_number": "IS 11279:2024",
+    "standard_title": "Title",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Assistive-Products.pdf",
+    "start_page": 16,
+    "end_page": 16
+  },
+  {
+    "standard_number": "IS 11647:1986",
+    "standard_title": "Braille Slate — Specification",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Assistive-Products.pdf",
+    "start_page": 16,
+    "end_page": 16
+  },
+  {
+    "standard_number": "IS 12152:1987",
+    "standard_title": "Specification for braille paper",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Assistive-Products.pdf",
+    "start_page": 16,
+    "end_page": 16
+  },
+  {
+    "standard_number": "IS 12184:1987",
+    "standard_title": "Specification for pocket frame, braille writing",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Assistive-Products.pdf",
+    "start_page": 16,
+    "end_page": 16
+  },
+  {
+    "standard_number": "IS 12439:1988",
+    "standard_title": "Specification for stylus for braille writing",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Assistive-Products.pdf",
+    "start_page": 16,
+    "end_page": 16
+  },
+  {
+    "standard_number": "IS 13822:1993",
+    "standard_title": "Specification for signature guide for visually impaired",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Assistive-Products.pdf",
+    "start_page": 16,
+    "end_page": 16
+  },
+  {
+    "standard_number": "IS 13837:1993",
+    "standard_title": "Braille duplicating sheet specification",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Assistive-Products.pdf",
+    "start_page": 16,
+    "end_page": 16
+  },
+  {
+    "standard_number": "IS 14429:1997",
+    "standard_title": "Braille duplicating machine specification",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Assistive-Products.pdf",
+    "start_page": 16,
+    "end_page": 16
+  },
+  {
+    "standard_number": "IS 11646 (PART 1):2003",
+    "standard_title": "Braille shorthand machine - Specification",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Assistive-Products.pdf",
+    "start_page": 16,
+    "end_page": 17
+  },
+  {
+    "standard_number": "IS/ISO 22523:2006",
+    "standard_title": "The above definitions are as per",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Assistive-Products.pdf",
+    "start_page": 18,
+    "end_page": 18
+  },
+  {
+    "standard_number": "IS 17034:2018",
+    "standard_title": "standard",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Assistive-Products.pdf",
+    "start_page": 19,
+    "end_page": 19
+  },
+  {
+    "standard_number": "IS 17034:2018",
+    "standard_title": "Title",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Assistive-Products.pdf",
+    "start_page": 20,
+    "end_page": 20
+  },
+  {
+    "standard_number": "IS 12664 (PART 1):2003",
+    "standard_title": "Artificial limbs - Sach foot for lower extremity",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Assistive-Products.pdf",
+    "start_page": 20,
+    "end_page": 20
+  },
+  {
+    "standard_number": "IS/ISO 22523:2006",
+    "standard_title": "Revision)",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Assistive-Products.pdf",
+    "start_page": 20,
+    "end_page": 20
+  },
+  {
+    "standard_number": "IS 15376",
+    "standard_title": "(Part 1)",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Assistive-Products.pdf",
+    "start_page": 21,
+    "end_page": 21
+  },
+  {
+    "standard_number": "IS/ISO 16021",
+    "standard_title": "Ostomy collection bags: Part 2 Requirements and test methods",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Assistive-Products.pdf",
+    "start_page": 21,
+    "end_page": 21
+  },
+  {
+    "standard_number": "IS/ISO 8669",
+    "standard_title": "2",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Assistive-Products.pdf",
+    "start_page": 21,
+    "end_page": 21
+  },
+  {
+    "standard_number": "IS 18831:2024",
+    "standard_title": "The requirements for APPH are given in",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Assistive-Products.pdf",
+    "start_page": 22,
+    "end_page": 22
+  },
+  {
+    "standard_number": "IS 18660:2024",
+    "standard_title": "/ISO 19029: 2016 Accessible design- Auditory guiding signals in",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Assistive-Products.pdf",
+    "start_page": 23,
+    "end_page": 23
+  },
+  {
+    "standard_number": "IS 7454:2024",
+    "standard_title": "Wheelchairs and Tricycles",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Assistive-Products.pdf",
+    "start_page": 24,
+    "end_page": 24
+  },
+  {
+    "standard_number": "IS 8086:2024",
+    "standard_title": "Specification (Second Revision)",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Assistive-Products.pdf",
+    "start_page": 24,
+    "end_page": 24
+  },
+  {
+    "standard_number": "IS 8088:2019",
+    "standard_title": "Specification (Second Revision)",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Assistive-Products.pdf",
+    "start_page": 24,
+    "end_page": 24
+  },
+  {
+    "standard_number": "IS 17154:2024",
+    "standard_title": "Tricycle, hand propelled - specification (First Revision)",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Assistive-Products.pdf",
+    "start_page": 24,
+    "end_page": 24
+  },
+  {
+    "standard_number": "IS 17155:2019",
+    "standard_title": "Revision)",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Assistive-Products.pdf",
+    "start_page": 24,
+    "end_page": 24
+  },
+  {
+    "standard_number": "IS 11279:2024",
+    "standard_title": "Aids for visually impaired",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Assistive-Products.pdf",
+    "start_page": 24,
+    "end_page": 24
+  },
+  {
+    "standard_number": "IS 11646",
+    "standard_title": "(Part 1)",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Assistive-Products.pdf",
+    "start_page": 24,
+    "end_page": 24
+  },
+  {
+    "standard_number": "IS 11647:1986",
+    "standard_title": "Specification for cane for visually handicapped: Part 2 folding type",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Assistive-Products.pdf",
+    "start_page": 24,
+    "end_page": 24
+  },
+  {
+    "standard_number": "IS 12152:1987",
+    "standard_title": "Specification for braille paper",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Assistive-Products.pdf",
+    "start_page": 24,
+    "end_page": 24
+  },
+  {
+    "standard_number": "IS 12184:1987",
+    "standard_title": "Specification for pocket frame, braille writing",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Assistive-Products.pdf",
+    "start_page": 24,
+    "end_page": 24
+  },
+  {
+    "standard_number": "IS 12439:1988",
+    "standard_title": "Specification for stylus for braille writing",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Assistive-Products.pdf",
+    "start_page": 24,
+    "end_page": 24
+  },
+  {
+    "standard_number": "IS 13822:1993",
+    "standard_title": "Specification for signature guide for visually impaired",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Assistive-Products.pdf",
+    "start_page": 24,
+    "end_page": 24
+  },
+  {
+    "standard_number": "IS 13837:1993",
+    "standard_title": "Braille duplicating sheet specification",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Assistive-Products.pdf",
+    "start_page": 24,
+    "end_page": 24
+  },
+  {
+    "standard_number": "IS 14429:1997",
+    "standard_title": "Braille duplicating machine specification",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Assistive-Products.pdf",
+    "start_page": 24,
+    "end_page": 24
+  },
+  {
+    "standard_number": "IS 13017:1991",
+    "standard_title": "Aids for walking",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Assistive-Products.pdf",
+    "start_page": 24,
+    "end_page": 24
+  },
+  {
+    "standard_number": "IS 18653",
+    "standard_title": "(Part 1)",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Assistive-Products.pdf",
+    "start_page": 24,
+    "end_page": 24
+  },
+  {
+    "standard_number": "IS 5143:2024",
+    "standard_title": "methods Part 3: Walking tables",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Assistive-Products.pdf",
+    "start_page": 24,
+    "end_page": 24
+  },
+  {
+    "standard_number": "IS 17034:2018",
+    "standard_title": "Artificial limbs (Prosthesis and Orthosis)",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Assistive-Products.pdf",
+    "start_page": 24,
+    "end_page": 24
+  },
+  {
+    "standard_number": "IS 12664",
+    "standard_title": "(Part 1)",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Assistive-Products.pdf",
+    "start_page": 24,
+    "end_page": 24
+  },
+  {
+    "standard_number": "IS/ISO 22523",
+    "standard_title": "design and dimensions (First Revision)",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Assistive-Products.pdf",
+    "start_page": 24,
+    "end_page": 24
+  },
+  {
+    "standard_number": "IS 15376",
+    "standard_title": "(Part 1)",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Assistive-Products.pdf",
+    "start_page": 25,
+    "end_page": 25
+  },
+  {
+    "standard_number": "IS/ISO 16021",
+    "standard_title": "2000Urine-Absorbing Aids — Basic Principles for Evaluation",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Assistive-Products.pdf",
+    "start_page": 25,
+    "end_page": 25
+  },
+  {
+    "standard_number": "IS/ISO 8669",
+    "standard_title": "2",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Assistive-Products.pdf",
+    "start_page": 25,
+    "end_page": 25
+  },
+  {
+    "standard_number": "IS 18660:2024",
+    "standard_title": "/ISO",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Assistive-Products.pdf",
+    "start_page": 25,
+    "end_page": 25
+  },
+  {
+    "standard_number": "IS 18831:2024",
+    "standard_title": "/ISO",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Assistive-Products.pdf",
+    "start_page": 25,
+    "end_page": 25
+  },
+  {
+    "standard_number": "IS/ISO 21856",
+    "standard_title": "2022Assistive products General requirements and test methods",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Assistive-Products.pdf",
+    "start_page": 25,
+    "end_page": 26
+  },
+  {
+    "standard_number": "IS 18721:2024",
+    "standard_title": "Unknown Standard",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 18,
+    "end_page": 18
+  },
+  {
+    "standard_number": "IS 3810",
+    "standard_title": "Title",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 19,
+    "end_page": 19
+  },
+  {
+    "standard_number": "IS 17654:2021",
+    "standard_title": "/",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 19,
+    "end_page": 19
+  },
+  {
+    "standard_number": "IS 18721:2024",
+    "standard_title": "value",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 19,
+    "end_page": 19
+  },
+  {
+    "standard_number": "IS 18721:2024",
+    "standard_title": "3.38 Calorific Value/Heating Value — Energy",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 20,
+    "end_page": 20
+  },
+  {
+    "standard_number": "IS 17654",
+    "standard_title": "complete combustion (see",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 21,
+    "end_page": 21
+  },
+  {
+    "standard_number": "IS 3810",
+    "standard_title": "see",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 21,
+    "end_page": 21
+  },
+  {
+    "standard_number": "IS 18721:2024",
+    "standard_title": "grown and harvested specifically for their fuel value",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 21,
+    "end_page": 21
+  },
+  {
+    "standard_number": "IS 18721:2024",
+    "standard_title": "quality specified",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 22,
+    "end_page": 22
+  },
+  {
+    "standard_number": "IS 3810",
+    "standard_title": "moisture see",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 23,
+    "end_page": 23
+  },
+  {
+    "standard_number": "IS 18721:2024",
+    "standard_title": "biomass blends and mixtures",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 23,
+    "end_page": 23
+  },
+  {
+    "standard_number": "IS 18721:2024",
+    "standard_title": "in which the sampling is actually being carried out",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 24,
+    "end_page": 24
+  },
+  {
+    "standard_number": "IS 18721:2024",
+    "standard_title": "dry fuel",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 25,
+    "end_page": 25
+  },
+  {
+    "standard_number": "IS 18721:2024",
+    "standard_title": "and residues, and used wood",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 26,
+    "end_page": 26
+  },
+  {
+    "standard_number": "IS 18640:2024",
+    "standard_title": "Unknown Standard",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 27,
+    "end_page": 27
+  },
+  {
+    "standard_number": "IS 460",
+    "standard_title": "(Part 1)",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 28,
+    "end_page": 28
+  },
+  {
+    "standard_number": "IS 17655",
+    "standard_title": "cloth test sieves",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 28,
+    "end_page": 28
+  },
+  {
+    "standard_number": "IS 18640:2024",
+    "standard_title": "https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 28,
+    "end_page": 28
+  },
+  {
+    "standard_number": "IS 18640:2024",
+    "standard_title": "FIG. 2 EXAMPLE OF A ROTARY SAMPLE DIVIDER",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 29,
+    "end_page": 29
+  },
+  {
+    "standard_number": "IS 18640:2024",
+    "standard_title": "the pre-grinding with cutting type mills",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 30,
+    "end_page": 30
+  },
+  {
+    "standard_number": "IS 18640:2024",
+    "standard_title": "5.2.3 Axe",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 31,
+    "end_page": 31
+  },
+  {
+    "standard_number": "IS 460",
+    "standard_title": "see",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 31,
+    "end_page": 31
+  },
+  {
+    "standard_number": "IS 18640:2024",
+    "standard_title": "required mass is obtained (see Fig. 1 for riffle box)",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 32,
+    "end_page": 32
+  },
+  {
+    "standard_number": "IS 18640:2024",
+    "standard_title": "NOTE — List of optional sub-sample extractions cannot be exhaustive",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 33,
+    "end_page": 33
+  },
+  {
+    "standard_number": "IS 18640:2024",
+    "standard_title": "to handle, pre-drying should be carried out first",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 34,
+    "end_page": 34
+  },
+  {
+    "standard_number": "IS 18640:2024",
+    "standard_title": "with the temperature and humidity in the laboratory",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 35,
+    "end_page": 35
+  },
+  {
+    "standard_number": "IS 18640:2024",
+    "standard_title": "w h enever possible",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 36,
+    "end_page": 36
+  },
+  {
+    "standard_number": "IS 18640:2024",
+    "standard_title": "number or code of the lot or sub-lot number",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 37,
+    "end_page": 37
+  },
+  {
+    "standard_number": "IS 18724:2024",
+    "standard_title": "Unknown Standard",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 38,
+    "end_page": 38
+  },
+  {
+    "standard_number": "IS 18721",
+    "standard_title": "in",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 39,
+    "end_page": 39
+  },
+  {
+    "standard_number": "IS 18724:2024",
+    "standard_title": "raw material shall be clearly reported",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 39,
+    "end_page": 39
+  },
+  {
+    "standard_number": "IS 18640",
+    "standard_title": "as per ISO 18135 or ISO 21945 and",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 40,
+    "end_page": 40
+  },
+  {
+    "standard_number": "IS 17643",
+    "standard_title": "To be reported",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 40,
+    "end_page": 40
+  },
+  {
+    "standard_number": "IS 17655",
+    "standard_title": "(Part 1)/",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 40,
+    "end_page": 40
+  },
+  {
+    "standard_number": "IS 18724:2024",
+    "standard_title": "Unknown Standard",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 40,
+    "end_page": 40
+  },
+  {
+    "standard_number": "IS 17653",
+    "standard_title": "≤ 15",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 41,
+    "end_page": 41
+  },
+  {
+    "standard_number": "IS 18557",
+    "standard_title": "(Part 1)",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 41,
+    "end_page": 41
+  },
+  {
+    "standard_number": "IS 17656",
+    "standard_title": "≤ 5",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 41,
+    "end_page": 41
+  },
+  {
+    "standard_number": "IS 17654",
+    "standard_title": "B2: ≥ 3 000",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 41,
+    "end_page": 41
+  },
+  {
+    "standard_number": "IS 17642",
+    "standard_title": "To be reported",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 41,
+    "end_page": 41
+  },
+  {
+    "standard_number": "IS 17832",
+    "standard_title": "To be reported",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 41,
+    "end_page": 41
+  },
+  {
+    "standard_number": "IS 17833",
+    "standard_title": "To be reported",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 41,
+    "end_page": 41
+  },
+  {
+    "standard_number": "IS 18724:2024",
+    "standard_title": "ISO 16968",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 41,
+    "end_page": 41
+  },
+  {
+    "standard_number": "IS 18724:2024",
+    "standard_title": "(6)",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 42,
+    "end_page": 42
+  },
+  {
+    "standard_number": "IS 17655 (PART 1):2021",
+    "standard_title": "/",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 43,
+    "end_page": 43
+  },
+  {
+    "standard_number": "IS 17655",
+    "standard_title": "(Part 2)",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 43,
+    "end_page": 43
+  },
+  {
+    "standard_number": "IS 18557",
+    "standard_title": "(Part 1)",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 43,
+    "end_page": 43
+  },
+  {
+    "standard_number": "IS 18640:2024",
+    "standard_title": "Part 1 Pellets",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 43,
+    "end_page": 43
+  },
+  {
+    "standard_number": "IS 18721:2024",
+    "standard_title": "preparation",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 43,
+    "end_page": 43
+  },
+  {
+    "standard_number": "IS 18724:2024",
+    "standard_title": "ISO 18134-1: 2015",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 43,
+    "end_page": 43
+  },
+  {
+    "standard_number": "IS 18724:2024",
+    "standard_title": "sieving it through 2 mm and 3 mm mesh size sieve",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 44,
+    "end_page": 44
+  },
+  {
+    "standard_number": "IS 18725:2024",
+    "standard_title": "Unknown Standard",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 45,
+    "end_page": 45
+  },
+  {
+    "standard_number": "IS 18721",
+    "standard_title": "given in",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 46,
+    "end_page": 46
+  },
+  {
+    "standard_number": "IS 18725:2024",
+    "standard_title": "chemical or physical properties are available",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 46,
+    "end_page": 46
+  },
+  {
+    "standard_number": "IS 17655",
+    "standard_title": "≤ 15",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 47,
+    "end_page": 47
+  },
+  {
+    "standard_number": "IS 18725:2024",
+    "standard_title": "—",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 47,
+    "end_page": 47
+  },
+  {
+    "standard_number": "IS 17653",
+    "standard_title": "≤ 20",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 48,
+    "end_page": 48
+  },
+  {
+    "standard_number": "IS 17654",
+    "standard_title": "≥ 3 500",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 48,
+    "end_page": 48
+  },
+  {
+    "standard_number": "IS 17832",
+    "standard_title": "To be reported",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 48,
+    "end_page": 48
+  },
+  {
+    "standard_number": "IS 17833",
+    "standard_title": "To be reported",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 48,
+    "end_page": 48
+  },
+  {
+    "standard_number": "IS 18725:2024",
+    "standard_title": "ISO 16968",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 48,
+    "end_page": 48
+  },
+  {
+    "standard_number": "IS 18640",
+    "standard_title": "as per ISO 18135 or ISO 21945 and",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 49,
+    "end_page": 49
+  },
+  {
+    "standard_number": "IS 18725:2024",
+    "standard_title": "test referred in col (6) and col (7) of Table 1",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 49,
+    "end_page": 49
+  },
+  {
+    "standard_number": "IS 17655 (PART 1):2021",
+    "standard_title": "/",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 50,
+    "end_page": 50
+  },
+  {
+    "standard_number": "IS 17655",
+    "standard_title": "(Part 2)",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 50,
+    "end_page": 50
+  },
+  {
+    "standard_number": "IS 18640:2024",
+    "standard_title": "Title",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 50,
+    "end_page": 50
+  },
+  {
+    "standard_number": "IS 18721:2024",
+    "standard_title": "preparation",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 50,
+    "end_page": 50
+  },
+  {
+    "standard_number": "IS 18725:2024",
+    "standard_title": "applications",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 50,
+    "end_page": 50
+  },
+  {
+    "standard_number": "IS 17642:2021",
+    "standard_title": "/",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 51,
+    "end_page": 51
+  },
+  {
+    "standard_number": "IS 17642:2021",
+    "standard_title": "ISO 17828: 2015",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 52,
+    "end_page": 52
+  },
+  {
+    "standard_number": "IS 17642:2021",
+    "standard_title": "ISO 17828: 2015",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 53,
+    "end_page": 53
+  },
+  {
+    "standard_number": "IS 17642:2021",
+    "standard_title": "ISO 17828: 2015",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 54,
+    "end_page": 54
+  },
+  {
+    "standard_number": "IS 17642:2021",
+    "standard_title": "ISO 17828: 2015",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 55,
+    "end_page": 55
+  },
+  {
+    "standard_number": "IS 17642:2021",
+    "standard_title": "ISO 17828: 2015",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 56,
+    "end_page": 56
+  },
+  {
+    "standard_number": "IS 17642:2021",
+    "standard_title": "ISO 17828: 2015",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 57,
+    "end_page": 57
+  },
+  {
+    "standard_number": "IS 17642:2021",
+    "standard_title": "ISO 17828: 2015",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 58,
+    "end_page": 58
+  },
+  {
+    "standard_number": "IS 17643:2021",
+    "standard_title": "/",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 59,
+    "end_page": 59
+  },
+  {
+    "standard_number": "IS 17643:2021",
+    "standard_title": "ISO 17829: 2015",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 60,
+    "end_page": 60
+  },
+  {
+    "standard_number": "IS 17643:2021",
+    "standard_title": "ISO 17829: 2015",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 61,
+    "end_page": 61
+  },
+  {
+    "standard_number": "IS 17643:2021",
+    "standard_title": "ISO 17829: 2015",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 62,
+    "end_page": 62
+  },
+  {
+    "standard_number": "IS 17643:2021",
+    "standard_title": "ISO 17829: 2015",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 63,
+    "end_page": 63
+  },
+  {
+    "standard_number": "IS 17653:2021",
+    "standard_title": "/",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 64,
+    "end_page": 64
+  },
+  {
+    "standard_number": "IS 17653:2021",
+    "standard_title": "ISO 18122: 2015",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 65,
+    "end_page": 65
+  },
+  {
+    "standard_number": "IS 17653:2021",
+    "standard_title": "ISO 18122: 2015",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 66,
+    "end_page": 66
+  },
+  {
+    "standard_number": "IS 17653:2021",
+    "standard_title": "ISO 18122: 2015",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 67,
+    "end_page": 67
+  },
+  {
+    "standard_number": "IS 17653:2021",
+    "standard_title": "ISO 18122: 2015",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 68,
+    "end_page": 68
+  },
+  {
+    "standard_number": "IS 17653:2021",
+    "standard_title": "ISO 18122: 2015",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 69,
+    "end_page": 69
+  },
+  {
+    "standard_number": "IS 17654:2021",
+    "standard_title": "/",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 70,
+    "end_page": 70
+  },
+  {
+    "standard_number": "IS 17654:2021",
+    "standard_title": "ISO 18125: 2017",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 71,
+    "end_page": 71
+  },
+  {
+    "standard_number": "IS 17654:2021",
+    "standard_title": "ISO 18125: 2017",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 72,
+    "end_page": 72
+  },
+  {
+    "standard_number": "IS 17654:2021",
+    "standard_title": "ISO 18125: 2017",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 73,
+    "end_page": 73
+  },
+  {
+    "standard_number": "IS 17654:2021",
+    "standard_title": "ISO 18125: 2017",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 74,
+    "end_page": 74
+  },
+  {
+    "standard_number": "IS 17654:2021",
+    "standard_title": "ISO 18125: 2017",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 75,
+    "end_page": 75
+  },
+  {
+    "standard_number": "IS 17654:2021",
+    "standard_title": "ISO 18125: 2017",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 76,
+    "end_page": 76
+  },
+  {
+    "standard_number": "IS 17654:2021",
+    "standard_title": "ISO 18125: 2017",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 77,
+    "end_page": 77
+  },
+  {
+    "standard_number": "IS 17654:2021",
+    "standard_title": "ISO 18125: 2017",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 78,
+    "end_page": 78
+  },
+  {
+    "standard_number": "IS 17654:2021",
+    "standard_title": "ISO 18125: 2017",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 79,
+    "end_page": 79
+  },
+  {
+    "standard_number": "IS 17654:2021",
+    "standard_title": "ISO 18125: 2017",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 80,
+    "end_page": 80
+  },
+  {
+    "standard_number": "IS 17654:2021",
+    "standard_title": "ISO 18125: 2017",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 81,
+    "end_page": 81
+  },
+  {
+    "standard_number": "IS 17654:2021",
+    "standard_title": "ISO 18125: 2017",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 82,
+    "end_page": 82
+  },
+  {
+    "standard_number": "IS 17654:2021",
+    "standard_title": "ISO 18125: 2017",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 83,
+    "end_page": 83
+  },
+  {
+    "standard_number": "IS 17654:2021",
+    "standard_title": "ISO 18125: 2017",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 84,
+    "end_page": 84
+  },
+  {
+    "standard_number": "IS 17654:2021",
+    "standard_title": "ISO 18125: 2017",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 85,
+    "end_page": 85
+  },
+  {
+    "standard_number": "IS 17654:2021",
+    "standard_title": "ISO 18125: 2017",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 86,
+    "end_page": 86
+  },
+  {
+    "standard_number": "IS 17654:2021",
+    "standard_title": "ISO 18125: 2017",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 87,
+    "end_page": 87
+  },
+  {
+    "standard_number": "IS 17654:2021",
+    "standard_title": "ISO 18125: 2017",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 88,
+    "end_page": 88
+  },
+  {
+    "standard_number": "IS 17654:2021",
+    "standard_title": "ISO 18125: 2017",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 89,
+    "end_page": 89
+  },
+  {
+    "standard_number": "IS 17654:2021",
+    "standard_title": "ISO 18125: 2017",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 90,
+    "end_page": 90
+  },
+  {
+    "standard_number": "IS 17654:2021",
+    "standard_title": "ISO 18125: 2017",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 91,
+    "end_page": 91
+  },
+  {
+    "standard_number": "IS 302",
+    "standard_title": "dioxide and oxygen, the correction",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 91,
+    "end_page": 91
+  },
+  {
+    "standard_number": "IS 17654:2021",
+    "standard_title": "ISO 18125: 2017",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 92,
+    "end_page": 92
+  },
+  {
+    "standard_number": "IS 17654:2021",
+    "standard_title": "ISO 18125: 2017",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 93,
+    "end_page": 93
+  },
+  {
+    "standard_number": "IS 17654:2021",
+    "standard_title": "ISO 18125: 2017",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 94,
+    "end_page": 94
+  },
+  {
+    "standard_number": "IS 400",
+    "standard_title": "limit",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 94,
+    "end_page": 94
+  },
+  {
+    "standard_number": "IS 17654:2021",
+    "standard_title": "ISO 18125: 2017",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 95,
+    "end_page": 95
+  },
+  {
+    "standard_number": "IS 17654:2021",
+    "standard_title": "ISO 18125: 2017",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 96,
+    "end_page": 96
+  },
+  {
+    "standard_number": "IS 17654:2021",
+    "standard_title": "ISO 18125: 2017",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 97,
+    "end_page": 97
+  },
+  {
+    "standard_number": "IS 17654:2021",
+    "standard_title": "ISO 18125: 2017",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 98,
+    "end_page": 98
+  },
+  {
+    "standard_number": "IS 17654:2021",
+    "standard_title": "ISO 18125: 2017",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 99,
+    "end_page": 99
+  },
+  {
+    "standard_number": "IS 17654:2021",
+    "standard_title": "ISO 18125: 2017",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 100,
+    "end_page": 100
+  },
+  {
+    "standard_number": "IS 17654:2021",
+    "standard_title": "ISO 18125: 2017",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 101,
+    "end_page": 101
+  },
+  {
+    "standard_number": "IS 17654:2021",
+    "standard_title": "ISO 18125: 2017",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 102,
+    "end_page": 102
+  },
+  {
+    "standard_number": "IS 17654:2021",
+    "standard_title": "ISO 18125: 2017",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 103,
+    "end_page": 103
+  },
+  {
+    "standard_number": "IS 17654:2021",
+    "standard_title": "ISO 18125: 2017",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 104,
+    "end_page": 104
+  },
+  {
+    "standard_number": "IS 17654:2021",
+    "standard_title": "ISO 18125: 2017",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 105,
+    "end_page": 105
+  },
+  {
+    "standard_number": "IS 17654:2021",
+    "standard_title": "ISO 18125: 2017",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 106,
+    "end_page": 106
+  },
+  {
+    "standard_number": "IS 17654:2021",
+    "standard_title": "ISO 18125: 2017",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 107,
+    "end_page": 107
+  },
+  {
+    "standard_number": "IS 17654:2021",
+    "standard_title": "ISO 18125: 2017",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 108,
+    "end_page": 108
+  },
+  {
+    "standard_number": "IS 17654:2021",
+    "standard_title": "ISO 18125: 2017",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 109,
+    "end_page": 109
+  },
+  {
+    "standard_number": "IS 17654:2021",
+    "standard_title": "ISO 18125: 2017",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 110,
+    "end_page": 110
+  },
+  {
+    "standard_number": "IS 17654:2021",
+    "standard_title": "ISO 18125: 2017",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 111,
+    "end_page": 111
+  },
+  {
+    "standard_number": "IS 17654:2021",
+    "standard_title": "ISO 18125: 2017",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 112,
+    "end_page": 112
+  },
+  {
+    "standard_number": "IS 17654:2021",
+    "standard_title": "ISO 18125: 2017",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 113,
+    "end_page": 113
+  },
+  {
+    "standard_number": "IS 17654:2021",
+    "standard_title": "ISO 18125: 2017",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 114,
+    "end_page": 114
+  },
+  {
+    "standard_number": "IS 17654:2021",
+    "standard_title": "ISO 18125: 2017",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 115,
+    "end_page": 115
+  },
+  {
+    "standard_number": "IS 17654:2021",
+    "standard_title": "ISO 18125: 2017",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 116,
+    "end_page": 116
+  },
+  {
+    "standard_number": "IS 17654:2021",
+    "standard_title": "ISO 18125: 2017",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 117,
+    "end_page": 117
+  },
+  {
+    "standard_number": "IS 17654:2021",
+    "standard_title": "ISO 18125: 2017",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 118,
+    "end_page": 118
+  },
+  {
+    "standard_number": "IS 17654:2021",
+    "standard_title": "ISO 18125: 2017",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 119,
+    "end_page": 119
+  },
+  {
+    "standard_number": "IS 17654:2021",
+    "standard_title": "ISO 18125: 2017",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 120,
+    "end_page": 120
+  },
+  {
+    "standard_number": "IS 17654:2021",
+    "standard_title": "ISO 18125: 2017",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 121,
+    "end_page": 121
+  },
+  {
+    "standard_number": "IS 17654:2021",
+    "standard_title": "ISO 18125: 2017",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 122,
+    "end_page": 122
+  },
+  {
+    "standard_number": "IS 17655 (PART 1):2021",
+    "standard_title": "/",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 123,
+    "end_page": 123
+  },
+  {
+    "standard_number": "IS 17655",
+    "standard_title": "This part of",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 123,
+    "end_page": 123
+  },
+  {
+    "standard_number": "IS 17655 (PART 1):2021",
+    "standard_title": "ISO 18134-1: 2015",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 124,
+    "end_page": 124
+  },
+  {
+    "standard_number": "IS 17655 (PART 1):2021",
+    "standard_title": "ISO 18134-1: 2015",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 125,
+    "end_page": 125
+  },
+  {
+    "standard_number": "IS 17655 (PART 1):2021",
+    "standard_title": "ISO 18134-1: 2015",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 126,
+    "end_page": 126
+  },
+  {
+    "standard_number": "IS 17655 (PART 1):2021",
+    "standard_title": "ISO 18134-1: 2015",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 127,
+    "end_page": 127
+  },
+  {
+    "standard_number": "IS 17655 (PART 2):2021",
+    "standard_title": "/",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 128,
+    "end_page": 128
+  },
+  {
+    "standard_number": "IS 17655",
+    "standard_title": "This part of",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 128,
+    "end_page": 128
+  },
+  {
+    "standard_number": "IS 17655 (PART 2):2021",
+    "standard_title": "ISO 18134-2: 2017",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 129,
+    "end_page": 129
+  },
+  {
+    "standard_number": "IS 17655 (PART 2):2021",
+    "standard_title": "ISO 18134-2: 2017",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 130,
+    "end_page": 130
+  },
+  {
+    "standard_number": "IS 17655 (PART 2):2021",
+    "standard_title": "ISO 18134-2: 2017",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 131,
+    "end_page": 131
+  },
+  {
+    "standard_number": "IS 17655 (PART 2):2021",
+    "standard_title": "ISO 18134-2: 2017",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 132,
+    "end_page": 132
+  },
+  {
+    "standard_number": "IS 17655 (PART 3):2021",
+    "standard_title": "/",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 133,
+    "end_page": 133
+  },
+  {
+    "standard_number": "IS 17655",
+    "standard_title": "This part of",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 133,
+    "end_page": 133
+  },
+  {
+    "standard_number": "IS 17655 (PART 3):2021",
+    "standard_title": "ISO 18134-3: 2015",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 134,
+    "end_page": 134
+  },
+  {
+    "standard_number": "IS 17655 (PART 3):2021",
+    "standard_title": "ISO 18134-3: 2015",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 135,
+    "end_page": 135
+  },
+  {
+    "standard_number": "IS 17655 (PART 3):2021",
+    "standard_title": "ISO 18134-3: 2015",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 136,
+    "end_page": 136
+  },
+  {
+    "standard_number": "IS 17655 (PART 3):2021",
+    "standard_title": "ISO 18134-3: 2015",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 137,
+    "end_page": 137
+  },
+  {
+    "standard_number": "IS 17844:2022",
+    "standard_title": "/",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 138,
+    "end_page": 138
+  },
+  {
+    "standard_number": "IS 17844:2022",
+    "standard_title": "ISO 18123: 2015",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 139,
+    "end_page": 139
+  },
+  {
+    "standard_number": "IS 17844:2022",
+    "standard_title": "ISO 18123: 2015",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 140,
+    "end_page": 140
+  },
+  {
+    "standard_number": "IS 17844:2022",
+    "standard_title": "ISO 18123: 2015",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 141,
+    "end_page": 141
+  },
+  {
+    "standard_number": "IS 17844:2022",
+    "standard_title": "ISO 18123: 2015",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 142,
+    "end_page": 142
+  },
+  {
+    "standard_number": "IS 17844:2022",
+    "standard_title": "ISO 18123: 2015",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 143,
+    "end_page": 143
+  },
+  {
+    "standard_number": "IS 17844:2022",
+    "standard_title": "ISO 18123: 2015",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 144,
+    "end_page": 144
+  },
+  {
+    "standard_number": "IS 17844:2022",
+    "standard_title": "ISO 18123: 2015",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 145,
+    "end_page": 145
+  },
+  {
+    "standard_number": "IS 17656:2021",
+    "standard_title": "/",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 146,
+    "end_page": 146
+  },
+  {
+    "standard_number": "IS 17656:2021",
+    "standard_title": "ISO 18846: 2016",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 147,
+    "end_page": 147
+  },
+  {
+    "standard_number": "IS 17656:2021",
+    "standard_title": "ISO 18846: 2016",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 148,
+    "end_page": 148
+  },
+  {
+    "standard_number": "IS 17656:2021",
+    "standard_title": "ISO 18846: 2016",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 149,
+    "end_page": 149
+  },
+  {
+    "standard_number": "IS 18557 (PART 1):2024",
+    "standard_title": "/",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 150,
+    "end_page": 150
+  },
+  {
+    "standard_number": "IS 18557",
+    "standard_title": "This part of",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 150,
+    "end_page": 150
+  },
+  {
+    "standard_number": "IS 18557 (PART 1):2024",
+    "standard_title": "\b",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 151,
+    "end_page": 151
+  },
+  {
+    "standard_number": "IS 18557 (PART 1):2024",
+    "standard_title": "2\b",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 152,
+    "end_page": 152
+  },
+  {
+    "standard_number": "IS 400",
+    "standard_title": "(see ISO 3310-2). The recommended diameter of sieve",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 153,
+    "end_page": 153
+  },
+  {
+    "standard_number": "IS 18557 (PART 1):2024",
+    "standard_title": "test portions. The pellets durability shall be calculated in accordance with Clause 8",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 153,
+    "end_page": 153
+  },
+  {
+    "standard_number": "IS 18557 (PART 1):2024",
+    "standard_title": "4\b",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 154,
+    "end_page": 154
+  },
+  {
+    "standard_number": "IS 18557 (PART 1):2024",
+    "standard_title": "any operation not included in this part of ISO 17831, or regarded as optional",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 155,
+    "end_page": 155
+  },
+  {
+    "standard_number": "IS 18557 (PART 1):2024",
+    "standard_title": "6\b",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 156,
+    "end_page": 156
+  },
+  {
+    "standard_number": "IS 18557 (PART 2):2024",
+    "standard_title": "/",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 157,
+    "end_page": 157
+  },
+  {
+    "standard_number": "IS 18557",
+    "standard_title": "This part of",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 157,
+    "end_page": 157
+  },
+  {
+    "standard_number": "IS 18557 (PART 2):2024",
+    "standard_title": "PART 2 BRIQUETTS",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 158,
+    "end_page": 158
+  },
+  {
+    "standard_number": "IS 18557 (PART 2):2024",
+    "standard_title": "2\b",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 159,
+    "end_page": 159
+  },
+  {
+    "standard_number": "IS 18557 (PART 2):2024",
+    "standard_title": "While the test is being conducted, the test sample shall be at room temperature",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 160,
+    "end_page": 160
+  },
+  {
+    "standard_number": "IS 18557 (PART 2):2024",
+    "standard_title": "4\b",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 161,
+    "end_page": 161
+  },
+  {
+    "standard_number": "IS 18557 (PART 2):2024",
+    "standard_title": "any deviation not included in this International Standard, or regarded as optional",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 162,
+    "end_page": 162
+  },
+  {
+    "standard_number": "IS 17832:2022",
+    "standard_title": "/",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 163,
+    "end_page": 163
+  },
+  {
+    "standard_number": "IS 17832:2022",
+    "standard_title": "ISO 16948: 2015",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 164,
+    "end_page": 164
+  },
+  {
+    "standard_number": "IS 17832:2022",
+    "standard_title": "ISO 16948: 2015",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 165,
+    "end_page": 165
+  },
+  {
+    "standard_number": "IS 17832:2022",
+    "standard_title": "ISO 16948: 2015",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 166,
+    "end_page": 166
+  },
+  {
+    "standard_number": "IS 17832:2022",
+    "standard_title": "ISO 16948: 2015",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 167,
+    "end_page": 167
+  },
+  {
+    "standard_number": "IS 17832:2022",
+    "standard_title": "ISO 16948: 2015",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 168,
+    "end_page": 168
+  },
+  {
+    "standard_number": "IS 17832:2022",
+    "standard_title": "ISO 16948: 2015",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 169,
+    "end_page": 169
+  },
+  {
+    "standard_number": "IS 17832:2022",
+    "standard_title": "ISO 16948: 2015",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 170,
+    "end_page": 170
+  },
+  {
+    "standard_number": "IS 17832:2022",
+    "standard_title": "ISO 16948: 2015",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 171,
+    "end_page": 171
+  },
+  {
+    "standard_number": "IS 17833:2022",
+    "standard_title": "/",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 172,
+    "end_page": 172
+  },
+  {
+    "standard_number": "IS 17833:2022",
+    "standard_title": "ISO 16994: 2016",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 173,
+    "end_page": 173
+  },
+  {
+    "standard_number": "IS 17833:2022",
+    "standard_title": "ISO 16994: 2016",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 174,
+    "end_page": 174
+  },
+  {
+    "standard_number": "IS 17833:2022",
+    "standard_title": "ISO 16994: 2016",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 175,
+    "end_page": 175
+  },
+  {
+    "standard_number": "IS 17833:2022",
+    "standard_title": "ISO 16994: 2016",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 176,
+    "end_page": 176
+  },
+  {
+    "standard_number": "IS 17833:2022",
+    "standard_title": "ISO 16994: 2016",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 177,
+    "end_page": 177
+  },
+  {
+    "standard_number": "IS 17833:2022",
+    "standard_title": "ISO 16994: 2016",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 178,
+    "end_page": 178
+  },
+  {
+    "standard_number": "IS 17833:2022",
+    "standard_title": "ISO 16994: 2016",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 179,
+    "end_page": 179
+  },
+  {
+    "standard_number": "IS 17833:2022",
+    "standard_title": "ISO 16994: 2016",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 180,
+    "end_page": 180
+  },
+  {
+    "standard_number": "IS 17833:2022",
+    "standard_title": "ISO 16994: 2016",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 181,
+    "end_page": 181
+  },
+  {
+    "standard_number": "IS 17833:2022",
+    "standard_title": "ISO 16994: 2016",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 182,
+    "end_page": 182
+  },
+  {
+    "standard_number": "IS 17834:2022",
+    "standard_title": "/",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 183,
+    "end_page": 183
+  },
+  {
+    "standard_number": "IS 17834:2022",
+    "standard_title": "ISO 16995: 2015",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 184,
+    "end_page": 184
+  },
+  {
+    "standard_number": "IS 17834:2022",
+    "standard_title": "ISO 16995: 2015",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 185,
+    "end_page": 185
+  },
+  {
+    "standard_number": "IS 17834:2022",
+    "standard_title": "ISO 16995: 2015",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 186,
+    "end_page": 186
+  },
+  {
+    "standard_number": "IS 17834:2022",
+    "standard_title": "ISO 16995: 2015",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 187,
+    "end_page": 187
+  },
+  {
+    "standard_number": "IS 17834:2022",
+    "standard_title": "ISO 16995: 2015",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 188,
+    "end_page": 188
+  },
+  {
+    "standard_number": "IS 17834:2022",
+    "standard_title": "ISO 16995: 2015",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "start_page": 189,
+    "end_page": 199
+  },
+  {
+    "standard_number": "IS/ISO 14001:2015",
+    "standard_title": "Environmental management systems — Requirements",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-standards-on-Environmental-Management-V3-1.pdf",
+    "start_page": 17,
+    "end_page": 17
+  },
+  {
+    "standard_number": "IS 16652:2024",
+    "standard_title": "Implementation of Environmental Management Systems in",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-standards-on-Environmental-Management-V3-1.pdf",
+    "start_page": 17,
+    "end_page": 17
+  },
+  {
+    "standard_number": "IS/ISO 14004:2016",
+    "standard_title": "Environmental management systems — General",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-standards-on-Environmental-Management-V3-1.pdf",
+    "start_page": 17,
+    "end_page": 17
+  },
+  {
+    "standard_number": "IS/ISO 14005:2019",
+    "standard_title": "Environmental management systems — Guidelines for",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-standards-on-Environmental-Management-V3-1.pdf",
+    "start_page": 17,
+    "end_page": 17
+  },
+  {
+    "standard_number": "IS/ISO 14006:2020",
+    "standard_title": "Environmental management systems — Guidelines for",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-standards-on-Environmental-Management-V3-1.pdf",
+    "start_page": 17,
+    "end_page": 17
+  },
+  {
+    "standard_number": "IS/ISO 14009:2020",
+    "standard_title": "Environmental management systems — Guidelines for",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-standards-on-Environmental-Management-V3-1.pdf",
+    "start_page": 17,
+    "end_page": 17
+  },
+  {
+    "standard_number": "IS/ISO 14002",
+    "standard_title": "1: 2019 Environmental management systems — Guidelines",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-standards-on-Environmental-Management-V3-1.pdf",
+    "start_page": 17,
+    "end_page": 17
+  },
+  {
+    "standard_number": "IS/ISO 14015:2022",
+    "standard_title": "Environmental management — Environmental",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-standards-on-Environmental-Management-V3-1.pdf",
+    "start_page": 17,
+    "end_page": 17
+  },
+  {
+    "standard_number": "IS/ISO 14001:2015",
+    "standard_title": "Environmental management systems — Requirements",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-standards-on-Environmental-Management-V3-1.pdf",
+    "start_page": 18,
+    "end_page": 19
+  },
+  {
+    "standard_number": "IS 16652:2024",
+    "standard_title": "Implementation of Environmental Management Systems in",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-standards-on-Environmental-Management-V3-1.pdf",
+    "start_page": 20,
+    "end_page": 20
+  },
+  {
+    "standard_number": "IS/ISO 14004:2016",
+    "standard_title": "– Environmental Management Systems — General",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-standards-on-Environmental-Management-V3-1.pdf",
+    "start_page": 21,
+    "end_page": 21
+  },
+  {
+    "standard_number": "IS/ISO 14005:2019",
+    "standard_title": "– Environmental Management Systems — Guidelines for",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-standards-on-Environmental-Management-V3-1.pdf",
+    "start_page": 21,
+    "end_page": 21
+  },
+  {
+    "standard_number": "IS/ISO 14006:2020",
+    "standard_title": "– Environmental Management Systems — Guidelines for",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-standards-on-Environmental-Management-V3-1.pdf",
+    "start_page": 22,
+    "end_page": 22
+  },
+  {
+    "standard_number": "IS/ISO 14009:2020",
+    "standard_title": "– Environmental Management Systems — Guidelines for",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-standards-on-Environmental-Management-V3-1.pdf",
+    "start_page": 23,
+    "end_page": 23
+  },
+  {
+    "standard_number": "IS/ISO 14002",
+    "standard_title": "1:2019 – Environmental Management Systems — Guidelines",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-standards-on-Environmental-Management-V3-1.pdf",
+    "start_page": 23,
+    "end_page": 23
+  },
+  {
+    "standard_number": "IS/ISO 14040",
+    "standard_title": "outlines the principles and framework of LCA, while IS/ISO 14044",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-standards-on-Environmental-Management-V3-1.pdf",
+    "start_page": 24,
+    "end_page": 24
+  },
+  {
+    "standard_number": "IS/ISO 14047",
+    "standard_title": "as",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-standards-on-Environmental-Management-V3-1.pdf",
+    "start_page": 24,
+    "end_page": 24
+  },
+  {
+    "standard_number": "IS/ISO 14040:2006",
+    "standard_title": "Environmental management — Life cycle assessment",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-standards-on-Environmental-Management-V3-1.pdf",
+    "start_page": 24,
+    "end_page": 24
+  },
+  {
+    "standard_number": "IS/ISO 14044:2021",
+    "standard_title": "Environmental management — Life cycle assessment —",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-standards-on-Environmental-Management-V3-1.pdf",
+    "start_page": 24,
+    "end_page": 24
+  },
+  {
+    "standard_number": "IS/ISO 14047:2012",
+    "standard_title": "Environmental management — Life cycle assessment —",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-standards-on-Environmental-Management-V3-1.pdf",
+    "start_page": 24,
+    "end_page": 24
+  },
+  {
+    "standard_number": "IS/ISO 14049:2012",
+    "standard_title": "Environmental management — Life cycle assessment —",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-standards-on-Environmental-Management-V3-1.pdf",
+    "start_page": 24,
+    "end_page": 24
+  },
+  {
+    "standard_number": "IS/ISO 14040:2006",
+    "standard_title": "conducting Life Cycle Assessments (LCA)",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-standards-on-Environmental-Management-V3-1.pdf",
+    "start_page": 25,
+    "end_page": 25
+  },
+  {
+    "standard_number": "IS/ISO 14044:2006",
+    "standard_title": "– Environmental Management — Life Cycle Assessment",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-standards-on-Environmental-Management-V3-1.pdf",
+    "start_page": 26,
+    "end_page": 26
+  },
+  {
+    "standard_number": "IS/ISO 14047:2012",
+    "standard_title": "– Environmental Management — Life Cycle Assessment",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-standards-on-Environmental-Management-V3-1.pdf",
+    "start_page": 26,
+    "end_page": 26
+  },
+  {
+    "standard_number": "IS/ISO 14049:2012",
+    "standard_title": "– Environmental Management — Life Cycle Assessment",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-standards-on-Environmental-Management-V3-1.pdf",
+    "start_page": 27,
+    "end_page": 27
+  },
+  {
+    "standard_number": "IS/ISO 14064",
+    "standard_title": "under the",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-standards-on-Environmental-Management-V3-1.pdf",
+    "start_page": 28,
+    "end_page": 28
+  },
+  {
+    "standard_number": "IS/ISO 14065:2020",
+    "standard_title": "Greenhouse gases — Requirements for GHG validation",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-standards-on-Environmental-Management-V3-1.pdf",
+    "start_page": 28,
+    "end_page": 28
+  },
+  {
+    "standard_number": "IS/ISO 14066:2011",
+    "standard_title": "Greenhouse gases — Competence requirements for",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-standards-on-Environmental-Management-V3-1.pdf",
+    "start_page": 28,
+    "end_page": 28
+  },
+  {
+    "standard_number": "IS/ISO 14064",
+    "standard_title": "1:2018 Greenhouse gases — Specification with guidance at",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-standards-on-Environmental-Management-V3-1.pdf",
+    "start_page": 29,
+    "end_page": 29
+  },
+  {
+    "standard_number": "IS/ISO 14064",
+    "standard_title": "3:2019 Greenhouse gases — Specification with guidance for",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-standards-on-Environmental-Management-V3-1.pdf",
+    "start_page": 30,
+    "end_page": 30
+  },
+  {
+    "standard_number": "IS/ISO 14065:2020",
+    "standard_title": "Greenhouse gases — Requirements for GHG validation",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-standards-on-Environmental-Management-V3-1.pdf",
+    "start_page": 30,
+    "end_page": 31
+  },
+  {
+    "standard_number": "IS/ISO 14066:2011",
+    "standard_title": "Greenhouse gases — Competence requirements",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-standards-on-Environmental-Management-V3-1.pdf",
+    "start_page": 32,
+    "end_page": 32
+  },
+  {
+    "standard_number": "IS/ISO 14020:2000",
+    "standard_title": "Environmental labels and declarations - General",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-standards-on-Environmental-Management-V3-1.pdf",
+    "start_page": 33,
+    "end_page": 33
+  },
+  {
+    "standard_number": "IS/ISO 14024:2018",
+    "standard_title": "Environmental labels and declarations – Type I",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-standards-on-Environmental-Management-V3-1.pdf",
+    "start_page": 33,
+    "end_page": 33
+  },
+  {
+    "standard_number": "IS/ISO 14025:2006",
+    "standard_title": "Environmental labels and declarations - Type 3",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-standards-on-Environmental-Management-V3-1.pdf",
+    "start_page": 33,
+    "end_page": 33
+  },
+  {
+    "standard_number": "IS 16555:2017",
+    "standard_title": "Environmental labels and declarations - Self-Declared",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-standards-on-Environmental-Management-V3-1.pdf",
+    "start_page": 33,
+    "end_page": 34
+  },
+  {
+    "standard_number": "IS/ISO 14020:2000",
+    "standard_title": "Environmental labels and declarations - General",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-standards-on-Environmental-Management-V3-1.pdf",
+    "start_page": 35,
+    "end_page": 35
+  },
+  {
+    "standard_number": "IS/ISO 14024:2018",
+    "standard_title": "Environmental labels and declarations – Type I",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-standards-on-Environmental-Management-V3-1.pdf",
+    "start_page": 35,
+    "end_page": 35
+  },
+  {
+    "standard_number": "IS/ISO 14025:2006",
+    "standard_title": "Environmental labels and declarations - Type 3",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-standards-on-Environmental-Management-V3-1.pdf",
+    "start_page": 36,
+    "end_page": 36
+  },
+  {
+    "standard_number": "IS 16555:2017",
+    "standard_title": "Environmental labels and declarations - Self-Declared",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-standards-on-Environmental-Management-V3-1.pdf",
+    "start_page": 36,
+    "end_page": 36
+  },
+  {
+    "standard_number": "IS/ISO 14090:2019",
+    "standard_title": "– Adaptation to Climate Change – Principles, Requirements",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-standards-on-Environmental-Management-V3-1.pdf",
+    "start_page": 37,
+    "end_page": 37
+  },
+  {
+    "standard_number": "IS/ISO 14001",
+    "standard_title": "Additionally, BIS has incorporated amendments to",
+    "department": "Unknown",
+    "source_pdf": "Compendium-of-standards-on-Environmental-Management-V3-1.pdf",
+    "start_page": 37,
+    "end_page": 39
+  },
+  {
+    "standard_number": "IS 10386",
+    "standard_title": "The",
+    "department": "Unknown",
+    "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+    "start_page": 4,
+    "end_page": 5
+  },
+  {
+    "standard_number": "IS 10386",
+    "standard_title": "Standard",
+    "department": "Unknown",
+    "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+    "start_page": 6,
+    "end_page": 6
+  },
+  {
+    "standard_number": "IS 10386",
+    "standard_title": "(Parts 1 to 11) – Safety Code for River Valley Projects",
+    "department": "Unknown",
+    "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+    "start_page": 7,
+    "end_page": 7
+  },
+  {
+    "standard_number": "IS 4410",
+    "standard_title": "(All Parts) – Glossary of Terms Relating to Water",
+    "department": "Unknown",
+    "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+    "start_page": 7,
+    "end_page": 7
+  },
+  {
+    "standard_number": "IS/ISO 45001",
+    "standard_title": "– Occupational Health and Safety Management",
+    "department": "Unknown",
+    "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+    "start_page": 7,
+    "end_page": 7
+  },
+  {
+    "standard_number": "IS 10386 (PART 1):2013",
+    "standard_title": "(Recommendation of",
+    "department": "Unknown",
+    "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+    "start_page": 8,
+    "end_page": 8
+  },
+  {
+    "standard_number": "IS/ISO 45001",
+    "standard_title": "provides a framework",
+    "department": "Unknown",
+    "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+    "start_page": 9,
+    "end_page": 9
+  },
+  {
+    "standard_number": "IS 15882",
+    "standard_title": "Project Manager. Refer",
+    "department": "Unknown",
+    "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+    "start_page": 9,
+    "end_page": 11
+  },
+  {
+    "standard_number": "IS 10386",
+    "standard_title": "and supervisors. Refer",
+    "department": "Unknown",
+    "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+    "start_page": 12,
+    "end_page": 12
+  },
+  {
+    "standard_number": "IS 15656",
+    "standard_title": "(Recommendation of",
+    "department": "Unknown",
+    "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+    "start_page": 13,
+    "end_page": 14
+  },
+  {
+    "standard_number": "IS 3786",
+    "standard_title": "recommended in accordance with",
+    "department": "Unknown",
+    "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+    "start_page": 15,
+    "end_page": 15
+  },
+  {
+    "standard_number": "IS 10386 (PART 2):2013",
+    "standard_title": "Recommendation of",
+    "department": "Unknown",
+    "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+    "start_page": 16,
+    "end_page": 16
+  },
+  {
+    "standard_number": "IS 3786",
+    "standard_title": "45001 and",
+    "department": "Unknown",
+    "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+    "start_page": 16,
+    "end_page": 16
+  },
+  {
+    "standard_number": "IS 2925",
+    "standard_title": "Refer",
+    "department": "Unknown",
+    "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+    "start_page": 16,
+    "end_page": 16
+  },
+  {
+    "standard_number": "IS 3786",
+    "standard_title": "Refer",
+    "department": "Unknown",
+    "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+    "start_page": 17,
+    "end_page": 18
+  },
+  {
+    "standard_number": "IS 10386",
+    "standard_title": "(Recommendation of",
+    "department": "Unknown",
+    "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+    "start_page": 19,
+    "end_page": 19
+  },
+  {
+    "standard_number": "IS 3764:1992",
+    "standard_title": "2012",
+    "department": "Unknown",
+    "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+    "start_page": 19,
+    "end_page": 19
+  },
+  {
+    "standard_number": "IS 3696",
+    "standard_title": "1 m above the cut and comply with",
+    "department": "Unknown",
+    "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+    "start_page": 20,
+    "end_page": 20
+  },
+  {
+    "standard_number": "IS 4967",
+    "standard_title": "anticipate and mitigate geological surprises",
+    "department": "Unknown",
+    "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+    "start_page": 21,
+    "end_page": 22
+  },
+  {
+    "standard_number": "IS 7293:1974",
+    "standard_title": "Recommendation of",
+    "department": "Unknown",
+    "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+    "start_page": 23,
+    "end_page": 23
+  },
+  {
+    "standard_number": "IS 13367",
+    "standard_title": "shall comply with",
+    "department": "Unknown",
+    "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+    "start_page": 23,
+    "end_page": 23
+  },
+  {
+    "standard_number": "IS 7969",
+    "standard_title": "h) Use standardized hand signals per",
+    "department": "Unknown",
+    "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+    "start_page": 23,
+    "end_page": 23
+  },
+  {
+    "standard_number": "IS 4082",
+    "standard_title": "Refer to",
+    "department": "Unknown",
+    "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+    "start_page": 23,
+    "end_page": 28
+  },
+  {
+    "standard_number": "IS 3716",
+    "standard_title": "a) Maintain clearances as per",
+    "department": "Unknown",
+    "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+    "start_page": 29,
+    "end_page": 31
+  },
+  {
+    "standard_number": "IS 10386 (PART 6):2020",
+    "standard_title": "(Recommendation of",
+    "department": "Unknown",
+    "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+    "start_page": 32,
+    "end_page": 32
+  },
+  {
+    "standard_number": "IS 3696",
+    "standard_title": "boarded, adequately wide, and conform to",
+    "department": "Unknown",
+    "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+    "start_page": 32,
+    "end_page": 32
+  },
+  {
+    "standard_number": "IS 1084",
+    "standard_title": "/1410",
+    "department": "Unknown",
+    "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+    "start_page": 32,
+    "end_page": 34
+  },
+  {
+    "standard_number": "IS 10386 (PART 5):2014",
+    "standard_title": "(Recommendation of",
+    "department": "Unknown",
+    "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+    "start_page": 35,
+    "end_page": 36
+  },
+  {
+    "standard_number": "IS 10386 (PART 7):2020",
+    "standard_title": "(Recommendation of",
+    "department": "Unknown",
+    "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+    "start_page": 37,
+    "end_page": 38
+  },
+  {
+    "standard_number": "IS 1642",
+    "standard_title": "complying with the requirements of",
+    "department": "Unknown",
+    "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+    "start_page": 39,
+    "end_page": 39
+  },
+  {
+    "standard_number": "IS 1646",
+    "standard_title": "a) All electrical systems shall follow",
+    "department": "Unknown",
+    "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+    "start_page": 40,
+    "end_page": 40
+  },
+  {
+    "standard_number": "IS 12459",
+    "standard_title": "a) Follow",
+    "department": "Unknown",
+    "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+    "start_page": 41,
+    "end_page": 41
+  },
+  {
+    "standard_number": "IS 1641",
+    "standard_title": "of size, as per",
+    "department": "Unknown",
+    "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+    "start_page": 42,
+    "end_page": 42
+  },
+  {
+    "standard_number": "IS 2175",
+    "standard_title": "velocity water spray (10 lpm), divided into zones with detectors per",
+    "department": "Unknown",
+    "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+    "start_page": 43,
+    "end_page": 43
+  },
+  {
+    "standard_number": "IS 11006",
+    "standard_title": "d) Ensure oil spill containment and flame arrestors per",
+    "department": "Unknown",
+    "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+    "start_page": 43,
+    "end_page": 43
+  },
+  {
+    "standard_number": "IS 15752",
+    "standard_title": "j) Provide ISI insulating mats (",
+    "department": "Unknown",
+    "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+    "start_page": 44,
+    "end_page": 44
+  },
+  {
+    "standard_number": "IS 12459",
+    "standard_title": "b) Install compartmentation using fire barriers (",
+    "department": "Unknown",
+    "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+    "start_page": 44,
+    "end_page": 44
+  },
+  {
+    "standard_number": "IS 9668",
+    "standard_title": "a) Water supply should conform to",
+    "department": "Unknown",
+    "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+    "start_page": 45,
+    "end_page": 45
+  },
+  {
+    "standard_number": "IS 13039",
+    "standard_title": "hydrants), and",
+    "department": "Unknown",
+    "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+    "start_page": 45,
+    "end_page": 45
+  },
+  {
+    "standard_number": "IS 2189",
+    "standard_title": "a) Manual alarm system as per",
+    "department": "Unknown",
+    "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+    "start_page": 45,
+    "end_page": 45
+  },
+  {
+    "standard_number": "IS 2190",
+    "standard_title": ") mandatory",
+    "department": "Unknown",
+    "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+    "start_page": 46,
+    "end_page": 46
+  },
+  {
+    "standard_number": "IS 944",
+    "standard_title": "conforming to",
+    "department": "Unknown",
+    "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+    "start_page": 47,
+    "end_page": 47
+  },
+  {
+    "standard_number": "IS 12717",
+    "standard_title": "to",
+    "department": "Unknown",
+    "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+    "start_page": 47,
+    "end_page": 47
+  },
+  {
+    "standard_number": "IS 636",
+    "standard_title": "20 m length each (15 lengths of Type ‘A’ of",
+    "department": "Unknown",
+    "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+    "start_page": 47,
+    "end_page": 47
+  },
+  {
+    "standard_number": "IS 4927",
+    "standard_title": "conforming to",
+    "department": "Unknown",
+    "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+    "start_page": 47,
+    "end_page": 47
+  },
+  {
+    "standard_number": "IS 2871",
+    "standard_title": "b) Universal branch pipes conforming to",
+    "department": "Unknown",
+    "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+    "start_page": 47,
+    "end_page": 47
+  },
+  {
+    "standard_number": "IS 2097",
+    "standard_title": "c) Foam-making branches FB 5X (see",
+    "department": "Unknown",
+    "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+    "start_page": 47,
+    "end_page": 47
+  },
+  {
+    "standard_number": "IS 4989",
+    "standard_title": "e) Mechanical foam compound (see",
+    "department": "Unknown",
+    "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+    "start_page": 47,
+    "end_page": 47
+  },
+  {
+    "standard_number": "IS 941",
+    "standard_title": "g) Blower and exhauster for fire-fighting as per",
+    "department": "Unknown",
+    "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+    "start_page": 48,
+    "end_page": 55
+  },
+  {
+    "standard_number": "IS 10386 (PART 9):1998",
+    "standard_title": "(Recommendation of",
+    "department": "Unknown",
+    "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+    "start_page": 56,
+    "end_page": 58
+  },
+  {
+    "standard_number": "IS 16451:2018",
+    "standard_title": "(Recommendation of",
+    "department": "Unknown",
+    "source_pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+    "start_page": 59,
+    "end_page": 79
+  },
+  {
+    "standard_number": "IS 16102",
+    "standard_title": "1.1.1",
+    "department": "Unknown",
+    "source_pdf": "compendium_2025-06-02-05-23-18.pdf",
+    "start_page": 2,
+    "end_page": 2
+  },
+  {
+    "standard_number": "IS 16103",
+    "standard_title": "1.1.2",
+    "department": "Unknown",
+    "source_pdf": "compendium_2025-06-02-05-23-18.pdf",
+    "start_page": 2,
+    "end_page": 2
+  },
+  {
+    "standard_number": "IS 16614",
+    "standard_title": "1.1.3",
+    "department": "Unknown",
+    "source_pdf": "compendium_2025-06-02-05-23-18.pdf",
+    "start_page": 2,
+    "end_page": 2
+  },
+  {
+    "standard_number": "IS 15885",
+    "standard_title": "1.1.4",
+    "department": "Unknown",
+    "source_pdf": "compendium_2025-06-02-05-23-18.pdf",
+    "start_page": 2,
+    "end_page": 2
+  },
+  {
+    "standard_number": "IS 16105",
+    "standard_title": "1.2.1",
+    "department": "Unknown",
+    "source_pdf": "compendium_2025-06-02-05-23-18.pdf",
+    "start_page": 2,
+    "end_page": 2
+  },
+  {
+    "standard_number": "IS 16106",
+    "standard_title": "1.2.2",
+    "department": "Unknown",
+    "source_pdf": "compendium_2025-06-02-05-23-18.pdf",
+    "start_page": 2,
+    "end_page": 2
+  },
+  {
+    "standard_number": "IS 16108",
+    "standard_title": "1.2.3",
+    "department": "Unknown",
+    "source_pdf": "compendium_2025-06-02-05-23-18.pdf",
+    "start_page": 2,
+    "end_page": 2
+  },
+  {
+    "standard_number": "IS 10322",
+    "standard_title": "2.1.1",
+    "department": "Unknown",
+    "source_pdf": "compendium_2025-06-02-05-23-18.pdf",
+    "start_page": 2,
+    "end_page": 2
+  },
+  {
+    "standard_number": "IS 16107",
+    "standard_title": "2.2.1",
+    "department": "Unknown",
+    "source_pdf": "compendium_2025-06-02-05-23-18.pdf",
+    "start_page": 2,
+    "end_page": 2
+  },
+  {
+    "standard_number": "IS 13383",
+    "standard_title": "2.2.2",
+    "department": "Unknown",
+    "source_pdf": "compendium_2025-06-02-05-23-18.pdf",
+    "start_page": 2,
+    "end_page": 2
+  },
+  {
+    "standard_number": "IS 3646",
+    "standard_title": "3.2",
+    "department": "Unknown",
+    "source_pdf": "compendium_2025-06-02-05-23-18.pdf",
+    "start_page": 2,
+    "end_page": 2
+  },
+  {
+    "standard_number": "IS 1944",
+    "standard_title": "3.3",
+    "department": "Unknown",
+    "source_pdf": "compendium_2025-06-02-05-23-18.pdf",
+    "start_page": 2,
+    "end_page": 3
+  },
+  {
+    "standard_number": "IS 16102",
+    "standard_title": "1.1.1 Self - Ballasted LED Lamps for General Lighting Services",
+    "department": "Unknown",
+    "source_pdf": "compendium_2025-06-02-05-23-18.pdf",
+    "start_page": 4,
+    "end_page": 4
+  },
+  {
+    "standard_number": "IS 16103",
+    "standard_title": "1.1.2 LED Modules for General Lighting",
+    "department": "Unknown",
+    "source_pdf": "compendium_2025-06-02-05-23-18.pdf",
+    "start_page": 4,
+    "end_page": 4
+  },
+  {
+    "standard_number": "IS 16614",
+    "standard_title": "1.1.3 Double- Capped LED Linear Lamps",
+    "department": "Unknown",
+    "source_pdf": "compendium_2025-06-02-05-23-18.pdf",
+    "start_page": 5,
+    "end_page": 5
+  },
+  {
+    "standard_number": "IS 15885",
+    "standard_title": "1.1.4 Particular Requirements for Electronic Controlgear for LED Modules",
+    "department": "Unknown",
+    "source_pdf": "compendium_2025-06-02-05-23-18.pdf",
+    "start_page": 5,
+    "end_page": 5
+  },
+  {
+    "standard_number": "IS 16105",
+    "standard_title": "1.2.1 Lumen Maintenance of Solid State Light (LED) Sources",
+    "department": "Unknown",
+    "source_pdf": "compendium_2025-06-02-05-23-18.pdf",
+    "start_page": 6,
+    "end_page": 6
+  },
+  {
+    "standard_number": "IS 16106",
+    "standard_title": "1.2.2 Electrical and Photometric Measurements of Solid State Lighting (LED) Products",
+    "department": "Unknown",
+    "source_pdf": "compendium_2025-06-02-05-23-18.pdf",
+    "start_page": 6,
+    "end_page": 6
+  },
+  {
+    "standard_number": "IS 16108",
+    "standard_title": "1.2.3 Photobiological Safety of Lamps and Lamp Systems",
+    "department": "Unknown",
+    "source_pdf": "compendium_2025-06-02-05-23-18.pdf",
+    "start_page": 6,
+    "end_page": 6
+  },
+  {
+    "standard_number": "IS 10322",
+    "standard_title": "2.1.1",
+    "department": "Unknown",
+    "source_pdf": "compendium_2025-06-02-05-23-18.pdf",
+    "start_page": 7,
+    "end_page": 7
+  },
+  {
+    "standard_number": "IS 16107",
+    "standard_title": "2.2.1 Performance Requirements for Luminaires",
+    "department": "Unknown",
+    "source_pdf": "compendium_2025-06-02-05-23-18.pdf",
+    "start_page": 8,
+    "end_page": 8
+  },
+  {
+    "standard_number": "IS 13383",
+    "standard_title": "2.2.2 Photometry of luminaires - Method of Measurement",
+    "department": "Unknown",
+    "source_pdf": "compendium_2025-06-02-05-23-18.pdf",
+    "start_page": 8,
+    "end_page": 8
+  },
+  {
+    "standard_number": "IS 13383",
+    "standard_title": "iii) Photometry of Luminaires for Floodlighting",
+    "department": "Unknown",
+    "source_pdf": "compendium_2025-06-02-05-23-18.pdf",
+    "start_page": 9,
+    "end_page": 9
+  },
+  {
+    "standard_number": "IS 3646",
+    "standard_title": "3.2 Code of practice for Interior Illumination",
+    "department": "Unknown",
+    "source_pdf": "compendium_2025-06-02-05-23-18.pdf",
+    "start_page": 10,
+    "end_page": 10
+  },
+  {
+    "standard_number": "IS 1944",
+    "standard_title": "3.3 Code of Practice for Road and Tunnel Lighting",
+    "department": "Unknown",
+    "source_pdf": "compendium_2025-06-02-05-23-18.pdf",
+    "start_page": 11,
+    "end_page": 11
+  },
+  {
+    "standard_number": "IS/ISO 45001:2018",
+    "standard_title": "As per",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 5,
+    "end_page": 21
+  },
+  {
+    "standard_number": "IS 10870:1984",
+    "standard_title": "IS Tittle",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 22,
+    "end_page": 22
+  },
+  {
+    "standard_number": "IS 10871:1984",
+    "standard_title": "Code of safety of Hexane",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 22,
+    "end_page": 22
+  },
+  {
+    "standard_number": "IS 10872:2023",
+    "standard_title": "Code of safety for Hydrzine and Hydrazine hydrate",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 22,
+    "end_page": 22
+  },
+  {
+    "standard_number": "IS 10920:1984",
+    "standard_title": "Malathion code of safety (first revision)",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 22,
+    "end_page": 22
+  },
+  {
+    "standard_number": "IS 11141:1984",
+    "standard_title": "Code of safety for Phosphorus Trichloride",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 22,
+    "end_page": 22
+  },
+  {
+    "standard_number": "IS 12033:1986",
+    "standard_title": "Code of safety for Acrylonitrile",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 22,
+    "end_page": 22
+  },
+  {
+    "standard_number": "IS 12034:1986",
+    "standard_title": "Code of safety for Dinitrotoluene (dnt)",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 22,
+    "end_page": 22
+  },
+  {
+    "standard_number": "IS 12141:1987",
+    "standard_title": "Code of safety for methyl bromide",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 22,
+    "end_page": 22
+  },
+  {
+    "standard_number": "IS 12142:1987",
+    "standard_title": "Code of safety for methyl ethyl ketone",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 22,
+    "end_page": 22
+  },
+  {
+    "standard_number": "IS 12143:1987",
+    "standard_title": "Code of safety for 1,1,1 - trichloro ethane",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 22,
+    "end_page": 22
+  },
+  {
+    "standard_number": "IS 13440:1992",
+    "standard_title": "Code of safety for tetrachloroethane",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 22,
+    "end_page": 22
+  },
+  {
+    "standard_number": "IS 13441:1992",
+    "standard_title": "Methyl chloride - code of safety",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 22,
+    "end_page": 22
+  },
+  {
+    "standard_number": "IS 13442:1992",
+    "standard_title": "Ethyl ether - code of safety",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 22,
+    "end_page": 22
+  },
+  {
+    "standard_number": "IS 13447:1992",
+    "standard_title": "Trichloro ethylene - code of safety",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 22,
+    "end_page": 22
+  },
+  {
+    "standard_number": "IS 13910:1993",
+    "standard_title": "P - nitro aniline - code of safety",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 22,
+    "end_page": 22
+  },
+  {
+    "standard_number": "IS 13911:1993",
+    "standard_title": "Sulphur dioxide - code of safety",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 22,
+    "end_page": 22
+  },
+  {
+    "standard_number": "IS 13914:1993",
+    "standard_title": "Sulphur - code of safety",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 22,
+    "end_page": 22
+  },
+  {
+    "standard_number": "IS 14165:1995",
+    "standard_title": "Perchlorates of ammonium, potassium and sodium - code of safety",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 22,
+    "end_page": 22
+  },
+  {
+    "standard_number": "IS 14200:1994",
+    "standard_title": "Handling Carcinogenic substances - code of safety",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 22,
+    "end_page": 22
+  },
+  {
+    "standard_number": "IS 14518:2023",
+    "standard_title": "Hydrogen peroxide - code of safety",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 22,
+    "end_page": 22
+  },
+  {
+    "standard_number": "IS 14572:2022",
+    "standard_title": "Chloroform code of safety (first revision)",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 23,
+    "end_page": 23
+  },
+  {
+    "standard_number": "IS 14631:1999",
+    "standard_title": "Chloroform code of safety (first revision)",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 23,
+    "end_page": 23
+  },
+  {
+    "standard_number": "IS 14814:2023",
+    "standard_title": "Styrene - code of safety",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 23,
+    "end_page": 23
+  },
+  {
+    "standard_number": "IS 14983:2022",
+    "standard_title": "Acetylene - code of safety (first revision)",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 23,
+    "end_page": 23
+  },
+  {
+    "standard_number": "IS 14984:2001",
+    "standard_title": "Phosphorous (white or yellow) - code of safety (first revision)",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 23,
+    "end_page": 23
+  },
+  {
+    "standard_number": "IS 14985:2001",
+    "standard_title": "1,3 - butadiene - code of safety",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 23,
+    "end_page": 23
+  },
+  {
+    "standard_number": "IS 15200:2024",
+    "standard_title": "Methyl acrylate and ethyl acrylate - code of safety",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 23,
+    "end_page": 23
+  },
+  {
+    "standard_number": "IS 15201:2022",
+    "standard_title": "Hydrogen sulphide code of safety (first revision)",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 23,
+    "end_page": 23
+  },
+  {
+    "standard_number": "IS 15548:2005",
+    "standard_title": "Hydrogen- code of safety (first revision)",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 23,
+    "end_page": 23
+  },
+  {
+    "standard_number": "IS 18099:2022",
+    "standard_title": "Hydrofluorocarbon - code of safety",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 23,
+    "end_page": 23
+  },
+  {
+    "standard_number": "IS 19083:2025",
+    "standard_title": "Sodium hypochlorite - code of safety",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 23,
+    "end_page": 23
+  },
+  {
+    "standard_number": "IS 5184:1969",
+    "standard_title": "Nitrous oxide-code of safety",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 23,
+    "end_page": 23
+  },
+  {
+    "standard_number": "IS 5208:2024",
+    "standard_title": "Code of safety for hydrofluoric acid",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 23,
+    "end_page": 23
+  },
+  {
+    "standard_number": "IS 5302:1969",
+    "standard_title": "Acetic acid - code of safety (first revision)",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 23,
+    "end_page": 23
+  },
+  {
+    "standard_number": "IS 5311:1969",
+    "standard_title": "Code of safety for acetic anhydride",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 23,
+    "end_page": 23
+  },
+  {
+    "standard_number": "IS 5685:1970",
+    "standard_title": "Code of safety for carbon tetrachloride",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 23,
+    "end_page": 23
+  },
+  {
+    "standard_number": "IS 5931",
+    "standard_title": "(part 5)",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 23,
+    "end_page": 23
+  },
+  {
+    "standard_number": "IS 5931",
+    "standard_title": "(part 4)",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 24,
+    "end_page": 24
+  },
+  {
+    "standard_number": "IS 6156:1971",
+    "standard_title": "Code of safety for handling cryogenic liquids",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 24,
+    "end_page": 24
+  },
+  {
+    "standard_number": "IS 6164:2023",
+    "standard_title": "Code of safety for Chlorosulphonic acid",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 24,
+    "end_page": 24
+  },
+  {
+    "standard_number": "IS 6269:1971",
+    "standard_title": "Hydrochloric acid code of safety (first revision)",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 24,
+    "end_page": 24
+  },
+  {
+    "standard_number": "IS 6270:2024",
+    "standard_title": "Code of safety for Ethylene oxide",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 24,
+    "end_page": 24
+  },
+  {
+    "standard_number": "IS 6818:1973",
+    "standard_title": "Phenol code of safety (first revision)",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 24,
+    "end_page": 24
+  },
+  {
+    "standard_number": "IS 6819:1973",
+    "standard_title": "Code of safety for Phosphoric acid",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 24,
+    "end_page": 24
+  },
+  {
+    "standard_number": "IS 6953:1973",
+    "standard_title": "Code of safety for Calcium carbide",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 24,
+    "end_page": 24
+  },
+  {
+    "standard_number": "IS 6954:1973",
+    "standard_title": "Code of safety for Bromine",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 24,
+    "end_page": 24
+  },
+  {
+    "standard_number": "IS 7415:1974",
+    "standard_title": "Code of safety for Caustic Potash",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 24,
+    "end_page": 24
+  },
+  {
+    "standard_number": "IS 7420:1974",
+    "standard_title": "Code of safety for Aniline",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 24,
+    "end_page": 24
+  },
+  {
+    "standard_number": "IS 7444:1974",
+    "standard_title": "Code of safety for Phthalic Anhydride",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 24,
+    "end_page": 24
+  },
+  {
+    "standard_number": "IS 7445:2022",
+    "standard_title": "Code of safety for Methanol",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 24,
+    "end_page": 24
+  },
+  {
+    "standard_number": "IS 7812:1975",
+    "standard_title": "Acetone code of safety (first revision)",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 24,
+    "end_page": 24
+  },
+  {
+    "standard_number": "IS 8185:1976",
+    "standard_title": "Code of safety for mercury",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 24,
+    "end_page": 24
+  },
+  {
+    "standard_number": "IS 8388:1977",
+    "standard_title": "Code of safety for phosgene",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 24,
+    "end_page": 24
+  },
+  {
+    "standard_number": "IS 9052:1978",
+    "standard_title": "Code of safety for nitrobenzene",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 24,
+    "end_page": 24
+  },
+  {
+    "standard_number": "IS 9053:1978",
+    "standard_title": "Code of safety for aluminium chloride, anhydrous",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 24,
+    "end_page": 24
+  },
+  {
+    "standard_number": "IS 9277:1979",
+    "standard_title": "Code of safety for m - dinitrobenzene",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 24,
+    "end_page": 24
+  },
+  {
+    "standard_number": "IS 9278:1979",
+    "standard_title": "Code of safety for monochlorobenzene",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 24,
+    "end_page": 24
+  },
+  {
+    "standard_number": "IS 9279:2023",
+    "standard_title": "Code of safety for zinc phosphide",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 24,
+    "end_page": 24
+  },
+  {
+    "standard_number": "IS 9744:1981",
+    "standard_title": "Aluminium phosphide - code of safety ( first revision )",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 24,
+    "end_page": 24
+  },
+  {
+    "standard_number": "IS 9785:1981",
+    "standard_title": "Code of safety for thionyl chloride",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 24,
+    "end_page": 24
+  },
+  {
+    "standard_number": "IS 9786:1981",
+    "standard_title": "Code of safety for aluminium alkyls",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 24,
+    "end_page": 24
+  },
+  {
+    "standard_number": "IS 9787:1981",
+    "standard_title": "Code of safety for vinyl chloride (vcm)",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 24,
+    "end_page": 31
+  },
+  {
+    "standard_number": "IS 4209:2013",
+    "standard_title": "IS Tittle",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 32,
+    "end_page": 32
+  },
+  {
+    "standard_number": "IS 12035:1986",
+    "standard_title": "Chemical laboratories - Code of safety (Second Revision)",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 32,
+    "end_page": 32
+  },
+  {
+    "standard_number": "IS 4906:2017",
+    "standard_title": "Code of Safety in Microbiological Laboratories",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 32,
+    "end_page": 34
+  },
+  {
+    "standard_number": "IS 2925:1984",
+    "standard_title": "Standards (BIS)",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 35,
+    "end_page": 35
+  },
+  {
+    "standard_number": "IS 2925",
+    "standard_title": "Industrial Safety Helmets (",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 35,
+    "end_page": 35
+  },
+  {
+    "standard_number": "IS 8521",
+    "standard_title": "Electrical Safety Helmets (",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 35,
+    "end_page": 35
+  },
+  {
+    "standard_number": "IS 2745",
+    "standard_title": "Firefighter Helmets (",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 35,
+    "end_page": 35
+  },
+  {
+    "standard_number": "IS 5983",
+    "standard_title": "regulations, including BIS (Bureau of Indian Standards)",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 36,
+    "end_page": 36
+  },
+  {
+    "standard_number": "IS 8521",
+    "standard_title": "Face Shields (",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 36,
+    "end_page": 36
+  },
+  {
+    "standard_number": "IS 1179",
+    "standard_title": "Welding Shields With Appropriate Filter Lenses (",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 36,
+    "end_page": 36
+  },
+  {
+    "standard_number": "IS 6229",
+    "standard_title": "to hearing loss and long-term health issues. As per",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 37,
+    "end_page": 37
+  },
+  {
+    "standard_number": "IS 9167",
+    "standard_title": "Earplugs (",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 37,
+    "end_page": 37
+  },
+  {
+    "standard_number": "IS 15298:2016",
+    "standard_title": "(",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 38,
+    "end_page": 38
+  },
+  {
+    "standard_number": "IS 15298",
+    "standard_title": "(PART 1-4)",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 38,
+    "end_page": 38
+  },
+  {
+    "standard_number": "IS 4770:1991",
+    "standard_title": "Standards such as",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 39,
+    "end_page": 39
+  },
+  {
+    "standard_number": "IS 15331:2003",
+    "standard_title": "Chemical-Resistant Gloves (",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 39,
+    "end_page": 39
+  },
+  {
+    "standard_number": "IS 4770",
+    "standard_title": "Electrical Insulating Gloves (",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 39,
+    "end_page": 39
+  },
+  {
+    "standard_number": "IS 15748:2022",
+    "standard_title": "splashes",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 40,
+    "end_page": 40
+  },
+  {
+    "standard_number": "IS 15744:2021",
+    "standard_title": "conditions and preventing electrostatic discharge, which could ignite volatile chemicals",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 40,
+    "end_page": 40
+  },
+  {
+    "standard_number": "IS 8940:1978",
+    "standard_title": "IS Tittle",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 41,
+    "end_page": 41
+  },
+  {
+    "standard_number": "IS 8521 (PART 2):2022",
+    "standard_title": "equipment for eye and face protection",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 41,
+    "end_page": 41
+  },
+  {
+    "standard_number": "IS 2925:1984",
+    "standard_title": "requirements for mesh protectors (First Revision)",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 41,
+    "end_page": 41
+  },
+  {
+    "standard_number": "IS 8521 (PART 3):2025",
+    "standard_title": "Specification for industrial safety helmets",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 41,
+    "end_page": 41
+  },
+  {
+    "standard_number": "IS 7524 (PART 2):2021",
+    "standard_title": "and Related Techniques",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 41,
+    "end_page": 41
+  },
+  {
+    "standard_number": "IS 7524 (PART 1):2021",
+    "standard_title": "properties (Second Revision)",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 41,
+    "end_page": 41
+  },
+  {
+    "standard_number": "IS 8521 (PART 1):2022",
+    "standard_title": "optical properties (Second Revision)",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 41,
+    "end_page": 41
+  },
+  {
+    "standard_number": "IS 8520:2023",
+    "standard_title": "requirements (First Revision)",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 41,
+    "end_page": 41
+  },
+  {
+    "standard_number": "IS 7524 (PART 4):2021",
+    "standard_title": "maintenance (First Revision)",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 41,
+    "end_page": 41
+  },
+  {
+    "standard_number": "IS 7524 (PART 3):2021",
+    "standard_title": "Eye and face protection - Test methods: Part 4 Headforms",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 41,
+    "end_page": 41
+  },
+  {
+    "standard_number": "IS 10592:2018",
+    "standard_title": "mechanical properties",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 41,
+    "end_page": 41
+  },
+  {
+    "standard_number": "IS 6229:1980",
+    "standard_title": "Combination Units - Specification (First Revision)",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 41,
+    "end_page": 41
+  },
+  {
+    "standard_number": "IS 9167:1979",
+    "standard_title": "Revision)",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 41,
+    "end_page": 41
+  },
+  {
+    "standard_number": "IS 10667:2025",
+    "standard_title": "Specification for ear protectors",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 41,
+    "end_page": 41
+  },
+  {
+    "standard_number": "IS 8519:2024",
+    "standard_title": "Guide for Selection of Occupational Protective Clothing Body",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 42,
+    "end_page": 42
+  },
+  {
+    "standard_number": "IS 6994 (PART 1):2021",
+    "standard_title": "Protection (Selection, Care, and Maintenance) (First Revision)",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 42,
+    "end_page": 42
+  },
+  {
+    "standard_number": "IS 6994 (PART 2):2021",
+    "standard_title": "performance requirements for chemical risks (First revision)",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 42,
+    "end_page": 42
+  },
+  {
+    "standard_number": "IS 6994 (PART 4):2021",
+    "standard_title": "resistance to penetration",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 42,
+    "end_page": 42
+  },
+  {
+    "standard_number": "IS 6994 (PART 5):2021",
+    "standard_title": "resistance to degradation by chemicals",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 42,
+    "end_page": 42
+  },
+  {
+    "standard_number": "IS 6994 (PART 6):2021",
+    "standard_title": "performance requirements for micro-organisms risks",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 42,
+    "end_page": 42
+  },
+  {
+    "standard_number": "IS 6994 (PART 7):2021",
+    "standard_title": "mechanical risks",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 42,
+    "end_page": 42
+  },
+  {
+    "standard_number": "IS 15748:2022",
+    "standard_title": "General requirements and test methods",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 42,
+    "end_page": 42
+  },
+  {
+    "standard_number": "IS 16890:2024",
+    "standard_title": "Minimum performance requirements (first revision)",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 42,
+    "end_page": 42
+  },
+  {
+    "standard_number": "IS 16874:2018",
+    "standard_title": "(First revision)",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 42,
+    "end_page": 42
+  },
+  {
+    "standard_number": "IS 15809:2017",
+    "standard_title": "Textiles - Protective gloves for firefighters - Specification",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 42,
+    "end_page": 42
+  },
+  {
+    "standard_number": "IS 18849:2024",
+    "standard_title": "High visibility warning clothes – Specification (first revision)",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 42,
+    "end_page": 42
+  },
+  {
+    "standard_number": "IS 16655:2017",
+    "standard_title": "Textiles - Workwear for cement workers - Specification",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 42,
+    "end_page": 42
+  },
+  {
+    "standard_number": "IS 15298 (PART 1):2024",
+    "standard_title": "processes",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 42,
+    "end_page": 42
+  },
+  {
+    "standard_number": "IS 15298 (PART 2):2024",
+    "standard_title": "(third revision)",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 42,
+    "end_page": 42
+  },
+  {
+    "standard_number": "IS 15298 (PART 3):2024",
+    "standard_title": "Personal protective equipment part 3 protective footwear",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 43,
+    "end_page": 43
+  },
+  {
+    "standard_number": "IS 15298 (PART 4):2024",
+    "standard_title": "(third revision)",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 43,
+    "end_page": 43
+  },
+  {
+    "standard_number": "IS 15298 (PART 5):2004",
+    "standard_title": "(third revision)",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 43,
+    "end_page": 43
+  },
+  {
+    "standard_number": "IS 15298 (PART 6):2004",
+    "standard_title": "methods",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 43,
+    "end_page": 43
+  },
+  {
+    "standard_number": "IS 15298 (PART 7):2004",
+    "standard_title": "footwear",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 43,
+    "end_page": 43
+  },
+  {
+    "standard_number": "IS 15298 (PART 8):2004",
+    "standard_title": "protective footwear",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 43,
+    "end_page": 43
+  },
+  {
+    "standard_number": "IS 1989 (PART 2):1986",
+    "standard_title": "occupational footwear",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 43,
+    "end_page": 43
+  },
+  {
+    "standard_number": "IS 11226:1993",
+    "standard_title": "heavy metal industries (Fourth Revision)",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 43,
+    "end_page": 43
+  },
+  {
+    "standard_number": "IS 14544:2022",
+    "standard_title": "specification (First Revision)",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 43,
+    "end_page": 43
+  },
+  {
+    "standard_number": "IS 5557 (PART 1):2024",
+    "standard_title": "polyvinyl chloride pvc sole - specification first revision",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 43,
+    "end_page": 43
+  },
+  {
+    "standard_number": "IS 5557 (PART 2):2018",
+    "standard_title": "Protective (Fifth Revision)",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 43,
+    "end_page": 43
+  },
+  {
+    "standard_number": "IS 12254:2021",
+    "standard_title": "purposes",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 43,
+    "end_page": 46
+  },
+  {
+    "standard_number": "IS 10245",
+    "standard_title": "safety and reliability. These parameters, along with their testing methods, are specified in",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 47,
+    "end_page": 47
+  },
+  {
+    "standard_number": "IS 10245 (PART 3):1999",
+    "standard_title": "Indian Standard",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 48,
+    "end_page": 49
+  },
+  {
+    "standard_number": "IS 14166",
+    "standard_title": "Facepieces must conform to",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 50,
+    "end_page": 50
+  },
+  {
+    "standard_number": "IS 9473",
+    "standard_title": "world conditions. By establishing these rigorous requirements",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 51,
+    "end_page": 51
+  },
+  {
+    "standard_number": "IS 14166:2024",
+    "standard_title": "Compliance with",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 51,
+    "end_page": 51
+  },
+  {
+    "standard_number": "IS 14746:1999",
+    "standard_title": "provide essential respiratory protection in hazardous environments",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 52,
+    "end_page": 52
+  },
+  {
+    "standard_number": "IS 15803:2008",
+    "standard_title": "ensuring that these life-saving devices meet high safety standards. Compliance with",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 53,
+    "end_page": 53
+  },
+  {
+    "standard_number": "IS 10245",
+    "standard_title": "(Part 1)",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 54,
+    "end_page": 54
+  },
+  {
+    "standard_number": "IS 14138",
+    "standard_title": "(Part 1)",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 54,
+    "end_page": 54
+  },
+  {
+    "standard_number": "IS 14166:2024",
+    "standard_title": "Respiratory protective devices full - Face masks - Specification",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 55,
+    "end_page": 55
+  },
+  {
+    "standard_number": "IS 14170:2024",
+    "standard_title": "(First Revision)",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 55,
+    "end_page": 55
+  },
+  {
+    "standard_number": "IS 14746:2025",
+    "standard_title": "specification (first revision)",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 55,
+    "end_page": 55
+  },
+  {
+    "standard_number": "IS 15322:2003",
+    "standard_title": "Specification ( First Revision )",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 55,
+    "end_page": 55
+  },
+  {
+    "standard_number": "IS 15323:2003",
+    "standard_title": "Specification",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 55,
+    "end_page": 55
+  },
+  {
+    "standard_number": "IS 15803:2008",
+    "standard_title": "Equipment - Specification",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 55,
+    "end_page": 55
+  },
+  {
+    "standard_number": "IS 17274",
+    "standard_title": "(Part 1)",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 55,
+    "end_page": 55
+  },
+  {
+    "standard_number": "IS 17274",
+    "standard_title": "(Part 8)",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 56,
+    "end_page": 56
+  },
+  {
+    "standard_number": "IS 19089:2025",
+    "standard_title": "Breathing, Breathing Resistance, Elastance and Duration",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 56,
+    "end_page": 56
+  },
+  {
+    "standard_number": "IS 8347:2024",
+    "standard_title": "incorporating a helmet or hood- specification",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 56,
+    "end_page": 56
+  },
+  {
+    "standard_number": "IS 9473:2002",
+    "standard_title": "nomenclature of components (second revision)",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 56,
+    "end_page": 56
+  },
+  {
+    "standard_number": "IS 9623:2008",
+    "standard_title": "against particles - Specification (First Revision)",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 56,
+    "end_page": 56
+  },
+  {
+    "standard_number": "IS 17893:2023",
+    "standard_title": "permit procedures to fulfil their designated roles effectively",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 57,
+    "end_page": 66
+  },
+  {
+    "standard_number": "IS 17889:2022",
+    "standard_title": "IS Tittle",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 67,
+    "end_page": 67
+  },
+  {
+    "standard_number": "IS 17893:2023",
+    "standard_title": "Material safety data sheets — guidelines",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 67,
+    "end_page": 67
+  },
+  {
+    "standard_number": "IS 15656:2006",
+    "standard_title": "Work permit system — code of practice",
+    "department": "Unknown",
+    "source_pdf": "Final-copy-of-compendium.pdf",
+    "start_page": 67,
+    "end_page": 70
+  },
+  {
+    "standard_number": "IS/ISO 9001",
+    "standard_title": "Quality Management Systems — Requirements",
+    "department": "Unknown",
+    "source_pdf": "Rev-Modified-Compendium-of-QMS-Standards-1.pdf",
+    "start_page": 2,
+    "end_page": 2
+  },
+  {
+    "standard_number": "IS/ISO 9004",
+    "standard_title": "Quality Management — Quality of an Organization —",
+    "department": "Unknown",
+    "source_pdf": "Rev-Modified-Compendium-of-QMS-Standards-1.pdf",
+    "start_page": 2,
+    "end_page": 2
+  },
+  {
+    "standard_number": "IS/ISO 10001",
+    "standard_title": "Quality Management — Customer Satisfaction Guidelines",
+    "department": "Unknown",
+    "source_pdf": "Rev-Modified-Compendium-of-QMS-Standards-1.pdf",
+    "start_page": 2,
+    "end_page": 2
+  },
+  {
+    "standard_number": "IS/ISO 10002",
+    "standard_title": "Quality Management — Customer Satisfaction — Guidelines",
+    "department": "Unknown",
+    "source_pdf": "Rev-Modified-Compendium-of-QMS-Standards-1.pdf",
+    "start_page": 2,
+    "end_page": 2
+  },
+  {
+    "standard_number": "IS/ISO 10003",
+    "standard_title": "Quality Management — Customer Satisfaction — Guidelines",
+    "department": "Unknown",
+    "source_pdf": "Rev-Modified-Compendium-of-QMS-Standards-1.pdf",
+    "start_page": 2,
+    "end_page": 2
+  },
+  {
+    "standard_number": "IS/ISO 10004",
+    "standard_title": "Quality Management — Customer Satisfaction Guidelines",
+    "department": "Unknown",
+    "source_pdf": "Rev-Modified-Compendium-of-QMS-Standards-1.pdf",
+    "start_page": 2,
+    "end_page": 2
+  },
+  {
+    "standard_number": "IS/ISO 10005",
+    "standard_title": "Quality Management — Guidelines for Quality Plans",
+    "department": "Unknown",
+    "source_pdf": "Rev-Modified-Compendium-of-QMS-Standards-1.pdf",
+    "start_page": 2,
+    "end_page": 2
+  },
+  {
+    "standard_number": "IS/ISO 10008",
+    "standard_title": "Quality Management — Customer Satisfaction — Business",
+    "department": "Unknown",
+    "source_pdf": "Rev-Modified-Compendium-of-QMS-Standards-1.pdf",
+    "start_page": 2,
+    "end_page": 2
+  },
+  {
+    "standard_number": "IS/ISO 10010",
+    "standard_title": "Quality management — Guidance to understand, evaluate and",
+    "department": "Unknown",
+    "source_pdf": "Rev-Modified-Compendium-of-QMS-Standards-1.pdf",
+    "start_page": 2,
+    "end_page": 5
+  },
+  {
+    "standard_number": "IS/ISO 9001",
+    "standard_title": "1",
+    "department": "Unknown",
+    "source_pdf": "Rev-Modified-Compendium-of-QMS-Standards-1.pdf",
+    "start_page": 6,
+    "end_page": 6
+  },
+  {
+    "standard_number": "IS/ISO 9004",
+    "standard_title": "2",
+    "department": "Unknown",
+    "source_pdf": "Rev-Modified-Compendium-of-QMS-Standards-1.pdf",
+    "start_page": 6,
+    "end_page": 6
+  },
+  {
+    "standard_number": "IS/ISO 10001:2018",
+    "standard_title": "3",
+    "department": "Unknown",
+    "source_pdf": "Rev-Modified-Compendium-of-QMS-Standards-1.pdf",
+    "start_page": 6,
+    "end_page": 6
+  },
+  {
+    "standard_number": "IS/ISO 10002",
+    "standard_title": "4",
+    "department": "Unknown",
+    "source_pdf": "Rev-Modified-Compendium-of-QMS-Standards-1.pdf",
+    "start_page": 6,
+    "end_page": 6
+  },
+  {
+    "standard_number": "IS/ISO 10003",
+    "standard_title": "5",
+    "department": "Unknown",
+    "source_pdf": "Rev-Modified-Compendium-of-QMS-Standards-1.pdf",
+    "start_page": 6,
+    "end_page": 6
+  },
+  {
+    "standard_number": "IS/ISO 10004",
+    "standard_title": "6",
+    "department": "Unknown",
+    "source_pdf": "Rev-Modified-Compendium-of-QMS-Standards-1.pdf",
+    "start_page": 6,
+    "end_page": 6
+  },
+  {
+    "standard_number": "IS/ISO 10005",
+    "standard_title": "7",
+    "department": "Unknown",
+    "source_pdf": "Rev-Modified-Compendium-of-QMS-Standards-1.pdf",
+    "start_page": 6,
+    "end_page": 6
+  },
+  {
+    "standard_number": "IS/ISO 10008",
+    "standard_title": "8",
+    "department": "Unknown",
+    "source_pdf": "Rev-Modified-Compendium-of-QMS-Standards-1.pdf",
+    "start_page": 6,
+    "end_page": 6
+  },
+  {
+    "standard_number": "IS/ISO 10010",
+    "standard_title": "9",
+    "department": "Unknown",
+    "source_pdf": "Rev-Modified-Compendium-of-QMS-Standards-1.pdf",
+    "start_page": 6,
+    "end_page": 6
+  },
+  {
+    "standard_number": "IS/ISO 9001",
+    "standard_title": "Quality Management Systems — Requirements",
+    "department": "Unknown",
+    "source_pdf": "Rev-Modified-Compendium-of-QMS-Standards-1.pdf",
+    "start_page": 7,
+    "end_page": 7
+  },
+  {
+    "standard_number": "IS/ISO 9004",
+    "standard_title": "Quality Management — Quality of an Organization — Guidance",
+    "department": "Unknown",
+    "source_pdf": "Rev-Modified-Compendium-of-QMS-Standards-1.pdf",
+    "start_page": 8,
+    "end_page": 8
+  },
+  {
+    "standard_number": "IS/ISO 9001",
+    "standard_title": "While",
+    "department": "Unknown",
+    "source_pdf": "Rev-Modified-Compendium-of-QMS-Standards-1.pdf",
+    "start_page": 8,
+    "end_page": 8
+  },
+  {
+    "standard_number": "IS/ISO 10001",
+    "standard_title": "Quality Management — Customer Satisfaction Guidelines for Codes of",
+    "department": "Unknown",
+    "source_pdf": "Rev-Modified-Compendium-of-QMS-Standards-1.pdf",
+    "start_page": 9,
+    "end_page": 9
+  },
+  {
+    "standard_number": "IS/ISO 10002",
+    "standard_title": "Quality Management — Customer Satisfaction - Guidelines for Complaints",
+    "department": "Unknown",
+    "source_pdf": "Rev-Modified-Compendium-of-QMS-Standards-1.pdf",
+    "start_page": 10,
+    "end_page": 10
+  },
+  {
+    "standard_number": "IS/ISO 10003",
+    "standard_title": "Quality Management — Customer Satisfaction — Guidelines for Dispute",
+    "department": "Unknown",
+    "source_pdf": "Rev-Modified-Compendium-of-QMS-Standards-1.pdf",
+    "start_page": 11,
+    "end_page": 11
+  },
+  {
+    "standard_number": "IS/ISO10001",
+    "standard_title": "Since",
+    "department": "Unknown",
+    "source_pdf": "Rev-Modified-Compendium-of-QMS-Standards-1.pdf",
+    "start_page": 11,
+    "end_page": 11
+  },
+  {
+    "standard_number": "IS/ISO 10004",
+    "standard_title": "Quality Management — Customer Satisfaction Guidelines for",
+    "department": "Unknown",
+    "source_pdf": "Rev-Modified-Compendium-of-QMS-Standards-1.pdf",
+    "start_page": 12,
+    "end_page": 12
+  },
+  {
+    "standard_number": "IS/ISO 10005",
+    "standard_title": "Quality Management — Guidelines for Quality Plans",
+    "department": "Unknown",
+    "source_pdf": "Rev-Modified-Compendium-of-QMS-Standards-1.pdf",
+    "start_page": 13,
+    "end_page": 13
+  },
+  {
+    "standard_number": "IS/ISO 10008",
+    "standard_title": "Quality Management — Customer Satisfaction- Business to- Consumer",
+    "department": "Unknown",
+    "source_pdf": "Rev-Modified-Compendium-of-QMS-Standards-1.pdf",
+    "start_page": 14,
+    "end_page": 15
+  },
+  {
+    "standard_number": "IS/ISO 10010",
+    "standard_title": "Quality management — Guidance to understand, evaluate and improve",
+    "department": "Unknown",
+    "source_pdf": "Rev-Modified-Compendium-of-QMS-Standards-1.pdf",
+    "start_page": 16,
+    "end_page": 16
+  },
+  {
+    "standard_number": "IS/ISO 9001",
+    "standard_title": "Technocraft is",
+    "department": "Unknown",
+    "source_pdf": "Rev-Modified-Compendium-of-QMS-Standards-1.pdf",
+    "start_page": 17,
+    "end_page": 17
+  },
+  {
+    "standard_number": "IS/ISO 9001",
+    "standard_title": "maintain",
+    "department": "Unknown",
+    "source_pdf": "Rev-Modified-Compendium-of-QMS-Standards-1.pdf",
+    "start_page": 18,
+    "end_page": 18
+  },
+  {
+    "standard_number": "IS/ISO 9001",
+    "standard_title": " Identify gaps in your processes: Part of the implementation of",
+    "department": "Unknown",
+    "source_pdf": "Rev-Modified-Compendium-of-QMS-Standards-1.pdf",
+    "start_page": 19,
+    "end_page": 21
+  }
+]

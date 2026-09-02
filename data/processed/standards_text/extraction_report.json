@@ -1,0 +1,100 @@
+[
+  {
+    "pdf": "AYUSH-BIS-Final-catalogue.pdf",
+    "status": "success",
+    "pages": 28,
+    "characters": 36883,
+    "output": "data\\processed\\standards_text\\AYUSH-BIS-Final-catalogue.json"
+  },
+  {
+    "pdf": "Book-18-Electronics-and-Information-Technology.pdf",
+    "status": "success",
+    "pages": 20,
+    "characters": 27221,
+    "output": "data\\processed\\standards_text\\Book-18-Electronics-and-Information-Technology.json"
+  },
+  {
+    "pdf": "COMPENDIUM-OF-CEMENT-STANDARDS.pdf",
+    "status": "success",
+    "pages": 47,
+    "characters": 103889,
+    "output": "data\\processed\\standards_text\\COMPENDIUM-OF-CEMENT-STANDARDS.json"
+  },
+  {
+    "pdf": "Compendium-of-Indian-Standards-on-Assistive-Products.pdf",
+    "status": "success",
+    "pages": 26,
+    "characters": 31781,
+    "output": "data\\processed\\standards_text\\Compendium-of-Indian-Standards-on-Assistive-Products.json"
+  },
+  {
+    "pdf": "Compendium-of-Indian-Standards-on-Solid-Biofuels.pdf",
+    "status": "success",
+    "pages": 199,
+    "characters": 389910,
+    "output": "data\\processed\\standards_text\\Compendium-of-Indian-Standards-on-Solid-Biofuels.json"
+  },
+  {
+    "pdf": "Compendium-of-standards-on-Environmental-Management-V3-1.pdf",
+    "status": "success",
+    "pages": 39,
+    "characters": 41018,
+    "output": "data\\processed\\standards_text\\Compendium-of-standards-on-Environmental-Management-V3-1.json"
+  },
+  {
+    "pdf": "Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.pdf",
+    "status": "success",
+    "pages": 79,
+    "characters": 62590,
+    "output": "data\\processed\\standards_text\\Compendium-on-Safety-in-Construction-Operation-and-Maintenence-of-River-Valley-Projects.json"
+  },
+  {
+    "pdf": "compendium_2025-06-02-05-02-38.pdf",
+    "status": "success",
+    "pages": 9,
+    "characters": 14388,
+    "output": "data\\processed\\standards_text\\compendium_2025-06-02-05-02-38.json"
+  },
+  {
+    "pdf": "compendium_2025-06-02-05-07-45.pdf",
+    "status": "success",
+    "pages": 16,
+    "characters": 32898,
+    "output": "data\\processed\\standards_text\\compendium_2025-06-02-05-07-45.json"
+  },
+  {
+    "pdf": "compendium_2025-06-02-05-09-22.pdf",
+    "status": "success",
+    "pages": 20,
+    "characters": 36689,
+    "output": "data\\processed\\standards_text\\compendium_2025-06-02-05-09-22.json"
+  },
+  {
+    "pdf": "compendium_2025-06-02-05-23-18.pdf",
+    "status": "success",
+    "pages": 11,
+    "characters": 19756,
+    "output": "data\\processed\\standards_text\\compendium_2025-06-02-05-23-18.json"
+  },
+  {
+    "pdf": "Final-copy-of-compendium.pdf",
+    "status": "success",
+    "pages": 70,
+    "characters": 98173,
+    "output": "data\\processed\\standards_text\\Final-copy-of-compendium.json"
+  },
+  {
+    "pdf": "LITD_Book-04-For-net.pdf",
+    "status": "success",
+    "pages": 24,
+    "characters": 46649,
+    "output": "data\\processed\\standards_text\\LITD_Book-04-For-net.json"
+  },
+  {
+    "pdf": "Rev-Modified-Compendium-of-QMS-Standards-1.pdf",
+    "status": "success",
+    "pages": 21,
+    "characters": 36445,
+    "output": "data\\processed\\standards_text\\Rev-Modified-Compendium-of-QMS-Standards-1.json"
+  }
+]

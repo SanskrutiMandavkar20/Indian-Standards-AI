@@ -1,0 +1,58 @@
+[
+  {
+    "pdf": "BIS-DGO-No.3ofYear2020.pdf",
+    "status": "success",
+    "certification_type": "BIS Certification / Regulatory Document",
+    "pages": 12,
+    "characters": 33312,
+    "output": "data\\processed\\certification_text\\BIS-DGO-No.3ofYear2020.json"
+  },
+  {
+    "pdf": "BIS-Hallmarking-Regulations-2018-Incorp.-Amdt-1.pdf",
+    "status": "success",
+    "certification_type": "Hallmark",
+    "pages": 92,
+    "characters": 161336,
+    "output": "data\\processed\\certification_text\\BIS-Hallmarking-Regulations-2018-Incorp.-Amdt-1.json"
+  },
+  {
+    "pdf": "BIS_CA_12032019.pdf",
+    "status": "success",
+    "certification_type": "BIS Certification / Regulatory Document",
+    "pages": 412,
+    "characters": 718881,
+    "output": "data\\processed\\certification_text\\BIS_CA_12032019.json"
+  },
+  {
+    "pdf": "Composition-of-Conformity-Assessment-Advisory-Committe.pdf",
+    "status": "success",
+    "certification_type": "Conformity Assessment",
+    "pages": 3,
+    "characters": 4932,
+    "output": "data\\processed\\certification_text\\Composition-of-Conformity-Assessment-Advisory-Committe.json"
+  },
+  {
+    "pdf": "Gazette-Notification-1.pdf",
+    "status": "success",
+    "certification_type": "BIS Regulatory Notification",
+    "pages": 71,
+    "characters": 151765,
+    "output": "data\\processed\\certification_text\\Gazette-Notification-1.json"
+  },
+  {
+    "pdf": "Gazette-Notification-28.04.26.pdf",
+    "status": "success",
+    "certification_type": "BIS Regulatory Notification",
+    "pages": 2,
+    "characters": 3002,
+    "output": "data\\processed\\certification_text\\Gazette-Notification-28.04.26.json"
+  },
+  {
+    "pdf": "GrantofLicence-Guidelines-25Feb2026.pdf",
+    "status": "success",
+    "certification_type": "BIS Licence",
+    "pages": 62,
+    "characters": 158611,
+    "output": "data\\processed\\certification_text\\GrantofLicence-Guidelines-25Feb2026.json"
+  }
+]

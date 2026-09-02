@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "source_pdf": "compendium_2025-06-02-05-07-45.pdf",
+  "document_type": "standard",
+  "document_title": "Prepared By:",
+  "chunk_count": 28,
+  "chunks": [
+    {
+      "chunk_id": "compendium_2025-06-02-05-07-45_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "compendium_2025-06-02-05-07-45.pdf",
+      "document_title": "Prepared By:",
+      "page_number": null,
+      "chunk_index": 1,
+      "text": "Prepared By:\nELECTROTECHNICAL\nDEPARTMENT\nCOMPENDIUM OF\nINDIAN STANDARDS\nON\nELECTRIC MOTORS\nBUREAU OF INDIAN STANDARDS\nNEW DELHI",
+      "character_count": 127,
+      "standard_numbers": [],
+      "evidence": {
+        "source_pdf": "compendium_2025-06-02-05-07-45.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "compendium_2025-06-02-05-07-45_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "compendium_2025-06-02-05-07-45.pdf",
+      "document_title": "Prepared By:",
+      "page_number": null,
+      "chunk_index": 2,
+      "text": "INTRODUCTION\nElectric motors are the workhorses of modern industry, powering a vast array of\nmachines and processes. From the whirring fans in our homes to the colossal pumps in\nwater treatment plants, motors play a vital role in our daily lives. As the demand for\nenergy efficiency and environmental sustainability increases, optimizing motor\nperformance and selecting the right motor for the job becomes crucial.\nThis compendium presents an organized overview of Indian Standards applicable to\nrotating electrical machines, developed by the Bureau of Indian Standards (BIS) and\naligned with corresponding IEC standards to ensure international conformity. These\nstandards encompass a wide spectrum—from fundamental performance and\nconstruction parameters to safety, testing, environmental conditions, and special\napplications.\nUnderstanding these standards empowers engineers, procurement specialists, and\nfacility managers to make informed decisions when selecting and using motors. By\nadhering to these standards, stakeholders can ensure the efficient operation of motors,\nleading to significant energy savings, reduced carbon footprint, and overall cost\noptimization.",
+      "character_count": 1171,
+      "standard_numbers": [],
+      "evidence": {
+        "source_pdf": "compendium_2025-06-02-05-07-45.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "compendium_2025-06-02-05-07-45_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "compendium_2025-06-02-05-07-45.pdf",
+      "document_title": "Prepared By:",
+      "page_number": null,
+      "chunk_index": 3,
+      "text": "TABLE OF CONTENTS\nINTRODUCTION\n1 PRODUCT STANDARDS OF ELECTRIC MOTORS\n1.1 CORE MOTORS PRODUCT STANDARDS\n1. IS/IEC 60034-1 : 2022/ IEC 60034-1:2022 (Identical under single numbering)\n2. IS 12615 : 2018/ IEC 60034-30-1 : 2014 (modified) (under revision)\n3. IS 996:2009 (Under Revision)\n1.2 HAND-HELD MOTOR-OPERATED ELECTRIC TOOLS STANDARDS\n1. IS 4665 (Part 1):2023 / IEC 60745-1:2006 (Identical)\n2. IS 4665 (Part 2/Sec 1):2023 / IEC 60745-2-1 (Identical)\n3. IS 4665 (Part 2/Sec 2):2023 / IEC 60745-2-2 (Identical)\n4. IS 4665 (Part 2/Sec 3):2023 / IEC 60745-2-3 (Identical)\n5. IS 4665 (Part 2/Sec 5):2023 / IEC 60745-2-5 (Identical)\n6. IS 4665 (Part 2/Sec 6):2023 / IEC 60745-2-6 (Identical)\n7. IS 4665 (Part 2/Sec 7):2023 / IEC 60745-2-7 (Identical)\n1.3 AGRICULTURAL MOTOR STANDARDS\n1. IS 9283:2024\n2. IS 7538:1996\n3. IS 14582:2021\n1.4 SPECIFIC APPLICATION MOTORS\n1. IS 14578:1999 (Under Revision)\n2. IS 8151:2024\n3. IS 18073:2023\n1.5 BRUSH STANDARDS\n1. IS 12642:1989 / IEC 60778 (Identical)\n2. IS 13466:1992 (Under Revision)\n3. IS 13525:1992 (Under Revision)\n2 TEST METHOD STANDARDS\n2.1 BASIC TEST METHOD STANDARDS\n1. IS/IEC 60034-2-1 : 2024/IEC 60034-2-1:2024 (Identical under single numbering)\n2. IS/IEC 60034-18-42) : 2017/ IEC 60034-18-42:2017+AMD1:2020 CSV (Identical under\nsingle numbering)\n3. IS/IEC 60034-18-41 : 2014/ (IEC 60034-18-41:2014+AMD1:2019 CSV) (Identical under\nsingle numbering)\n4 IS/IEC 60034-27-4 : 2018/IEC 60034-27-4 : 2018 (Identical under single numbering)\n5. IS 4029:2010 (Under Revision)\n6. IS 9320:2025\n7. IS 7572:1974 (Under Revision)\n8. IS 12075:2024 / IEC 60034-14:2018 (Modified)\n2.2 NOISE MEASUREMENT STANDARDS",
+      "character_count": 1643,
+      "standard_numbers": [
+        "IS 12615:2018",
+        "IS 4665 (Part 1):2023",
+        "IS 4665 (Part 2/Sec 1):2023",
+        "IS 4665 (Part 2/Sec 2):2023",
+        "IS 4665 (Part 2/Sec 3):2023",
+        "IS 4665 (Part 2/Sec 5):2023",
+        "IS 4665 (Part 2/Sec 6):2023",
+        "IS 4665 (Part 2/Sec 7):2023",
+        "IS 9283:2024",
+        "IS 7538:1996",
+        "IS 14582:2021",
+        "IS 14578:1999",
+        "IS 8151:2024",
+        "IS 18073:2023",
+        "IS 12642:1989",
+        "IS 13466:1992",
+        "IS 13525:1992",
+        "IS 4029:2010",
+        "IS 9320:2025",
+        "IS 7572:1974",
+        "IS 12075:2024"
+      ],
+      "evidence": {
+        "source_pdf": "compendium_2025-06-02-05-07-45.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "compendium_2025-06-02-05-07-45_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "compendium_2025-06-02-05-07-45.pdf",
+      "document_title": "Prepared By:",
+      "page_number": null,
+      "chunk_index": 4,
+      "text": "1. IS 13937 (Part 1):1994 / ISO 7574-1 (Identical)\n2. IS 13937 (Part 2):1994 / ISO 7574-2 (Identical)\n3. IS 13937 (Part 3):1994 / ISO 7574-3 (Identical)\n4. IS 13937 (Part 4):1994 / ISO 7574-4 (Identical)\n5. IS 12998:2024 / ISO 1680-1:2013 (Identical)\n11. IS 12065 : 2025/ IEC 60034-9:2021 (modified)\n3 DIMENSIONS AND SYMBOLS STANDARDS\n1. IS 1231:2019\n2. IS 2223:1983 (Under Revision)\n3. IS 2254:1985 (Under Revision)\n4. IS 8223:1999 / IEC 60072-2 (Identical)\n5. IS 15999 (Part 7) : 2024/ IEC 60034-7:2020 (identical)\n6. IS/IEC 60034-8 : 2014/IEC 60034-8 : 2014 (Identical under single numbering)\n7. IS 6362:1995 / IEC 60034-6 (Identical)\n4 GUIDES AND CODE OF PRACTICE STANDARDS\n1. IS/IEC 60034-5 : 2020 / IEC 60034-5:2020 (Identical under single numbering)\n2. IS 900:2019\n3. IS 15429:2004\n4. IS/IEC 60034-23:2019 (under print)\n5. IS/IEC TS 60034-25:2022 (under print)\n6. IS 14195:1994 / IEC 61015 (Identical)\n7. IS 13529:2021 / IEC 60034-26:2006 (Modified)",
+      "character_count": 956,
+      "standard_numbers": [
+        "IS 13937 (Part 1):1994",
+        "IS 13937 (Part 2):1994",
+        "IS 13937 (Part 3):1994",
+        "IS 13937 (Part 4):1994",
+        "IS 12998:2024",
+        "IS 12065:2025",
+        "IS 1231:2019",
+        "IS 2223:1983",
+        "IS 2254:1985",
+        "IS 8223:1999",
+        "IS 15999 (Part 7):2024",
+        "IS 6362:1995",
+        "IS 15429:2004",
+        "IS 14195:1994",
+        "IS 13529:2021"
+      ],
+      "evidence": {
+        "source_pdf": "compendium_2025-06-02-05-07-45.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "compendium_2025-06-02-05-07-45_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "compendium_2025-06-02-05-07-45.pdf",
+      "document_title": "Prepared By:",
+      "page_number": null,
+      "chunk_index": 5,
+      "text": "1 PRODUCT STANDARDS OF ELECTRIC MOTORS\n1.1 CORE MOTORS PRODUCT STANDARDS\n1. IS/IEC 60034-1 : 2022/ IEC 60034-1:2022 (Identical under single\nnumbering)\nTitle: Rotating Electrical Machines – Part 1: Rating and Performance (Excluding Machines for\nTraction Vehicles)\nThis is the core standard that defines the essential performance parameters and rating\nmethods for rotating electrical machines. It covers general-purpose AC and DC machines and\nprescribes limits on temperature rise, output ratings, duty types, efficiency, and other\nperformance metrics. It serves as the foundation for evaluating the design and operational\ncompliance of motors and generators under standardized conditions.\n2. IS 12615 : 2018/ IEC 60034-30-1 : 2014 (modified) (under revision)\nTitle: Line-Operated Three-Phase a.c. Motors – Efficiency Classes and Performance\nSpecification (IE Code)\nThis Indian adaptation introduces energy efficiency classifications (IE2 to IE4) for\nthree-phase induction motors, aligning with global practices. It specifies testing methods, losses,\nand performance benchmarks. This standard is key for implementing energy-efficient motor\nprograms under Indian energy conservation initiatives.\n3. IS 996:2009 (Under Revision)\nTitle: Single Phase a.c. Induction Motors for General Purpose – Specification\nThis standard covers the constructional, performance, and test requirements for single-phase\ninduction motors, commonly used in domestic and light industrial applications. The standard\nincludes duty types, ratings, starting methods, and mechanical design details. It is currently\nunder revision to align with modern usage and energy efficiency norms.\n1.2 HAND-HELD MOTOR-OPERATED ELECTRIC TOOLS\nSTANDARDS\nThis section addresses safety requirements for hand-held electric tools that incorporate\nrot",
+      "character_count": 1800,
+      "standard_numbers": [
+        "IS 12615:2018"
+      ],
+      "evidence": {
+        "source_pdf": "compendium_2025-06-02-05-07-45.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "compendium_2025-06-02-05-07-45_pNone_c2",
+      "document_type": "standard",
+      "source_pdf": "compendium_2025-06-02-05-07-45.pdf",
+      "document_title": "Prepared By:",
+      "page_number": null,
+      "chunk_index": 6,
+      "text": "design details. It is currently\nunder revision to align with modern usage and energy efficiency norms.\n1.2 HAND-HELD MOTOR-OPERATED ELECTRIC TOOLS\nSTANDARDS\nThis section addresses safety requirements for hand-held electric tools that incorporate\nrotating electrical machines (motors). These standards are essential to protect users from\nhazards such as electric shock, mechanical injury, thermal effects, and exposure to vibration\nand noise. The standards follow a modular structure: Part 1 provides general safety\nrequirements, while Part 2 consists of tool-specific requirements for drills, saws, grinders,\nhammers, and spray guns.",
+      "character_count": 633,
+      "standard_numbers": [
+        "IS 12615:2018"
+      ],
+      "evidence": {
+        "source_pdf": "compendium_2025-06-02-05-07-45.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "compendium_2025-06-02-05-07-45_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "compendium_2025-06-02-05-07-45.pdf",
+      "document_title": "Prepared By:",
+      "page_number": null,
+      "chunk_index": 7,
+      "text": "1. IS 4665 (Part 1):2023 / IEC 60745-1:2006 (Identical)\nTitle: Hand-Held Motor-Operated Electric Tools – Safety – Part 1: General Requirements\n(Second Revision)\nThis standard establishes fundamental safety principles applicable to all types of hand-held\nmotor-operated electric tools, including insulation, grounding, protection against access to live\nparts, temperature rise limits, and mechanical robustness. It also specifies general test\nprocedures for electrical, thermal, and mechanical safety, making it the base document for all\ntool-specific standards in the series.\n2. IS 4665 (Part 2/Sec 1):2023 / IEC 60745-2-1 (Identical)\nTitle: Part 2/Sec 1 – Particular Requirements for Drills and Impact Drills\nThis section sets out additional requirements and test methods specifically for electric drills\nand impact drills. It addresses hazards due to chuck loosening, rotational forces (kickback), and\ndrill bit ejection. Enhanced testing protocols ensure user safety during high-torque operation and\nunder locked-rotor conditions.\n3. IS 4665 (Part 2/Sec 2):2023 / IEC 60745-2-2 (Identical)\nTitle: Part 2/Sec 2 – Particular Requirements for Screwdrivers and Impact Wrenches\nThis standard provides safety provisions for tools designed to apply torque, such as\nelectric screwdrivers and impact wrenches. It focuses on torque control mechanisms, durability\nof moving parts, and user safety under repetitive impact conditions.\n4. IS 4665 (Part 2/Sec 3):2023 / IEC 60745-2-3 (Identical)\nTitle: Part 2/Sec 3 – Particular Requirements for Grinders, Polishers, and Disk-Type Sanders\nIt specifies additional mechanical safety and guarding requirements for abrasive tools with\nhigh-speed rotating parts. Topics covered include wheel burst protection, spindle locking,\nthermal protection, and balance testing",
+      "character_count": 1799,
+      "standard_numbers": [
+        "IS 4665 (Part 1):2023",
+        "IS 4665 (Part 2/Sec 1):2023",
+        "IS 4665 (Part 2/Sec 2):2023",
+        "IS 4665 (Part 2/Sec 3):2023"
+      ],
+      "evidence": {
+        "source_pdf": "compendium_2025-06-02-05-07-45.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "compendium_2025-06-02-05-07-45_pNone_c2",
+      "document_type": "standard",
+      "source_pdf": "compendium_2025-06-02-05-07-45.pdf",
+      "document_title": "Prepared By:",
+      "page_number": null,
+      "chunk_index": 8,
+      "text": "ers, and Disk-Type Sanders\nIt specifies additional mechanical safety and guarding requirements for abrasive tools with\nhigh-speed rotating parts. Topics covered include wheel burst protection, spindle locking,\nthermal protection, and balance testing for rotating disks.\n5. IS 4665 (Part 2/Sec 5):2023 / IEC 60745-2-5 (Identical)\nTitle: Part 2/Sec 5 – Particular Requirements for Circular Saws\nThis section includes special safety provisions for hand-held circular saws, focusing on\nblade guarding, anti-kickback design, and stopping time after switch-off. It also includes stability\nand insulation checks for saws operating under load.\n6. IS 4665 (Part 2/Sec 6):2023 / IEC 60745-2-6 (Identical)",
+      "character_count": 694,
+      "standard_numbers": [
+        "IS 4665 (Part 2/Sec 5):2023",
+        "IS 4665 (Part 2/Sec 6):2023"
+      ],
+      "evidence": {
+        "source_pdf": "compendium_2025-06-02-05-07-45.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "compendium_2025-06-02-05-07-45_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "compendium_2025-06-02-05-07-45.pdf",
+      "document_title": "Prepared By:",
+      "page_number": null,
+      "chunk_index": 9,
+      "text": "Title: Part 2/Sec 6 – Particular Requirements for Hammers\nThis part applies to rotary and demolition hammers. It emphasizes vibration safety, bit\nretention, and structural integrity during percussive operation. The standard ensures the\ntools are capable of withstanding repeated impact without user injury.\n7. IS 4665 (Part 2/Sec 7):2023 / IEC 60745-2-7 (Identical)\nTitle: Part 2/Sec 7 – Particular Requirements for Spray Guns for Non-Flammable Liquids\nThis section covers spray guns used in painting or coating applications. It defines\nrequirements for liquid sealing, nozzle protection, and electrical isolation, ensuring safe\nusage especially in industrial settings.\n1.3 AGRICULTURAL MOTOR STANDARDS\nThis section includes Indian Standards developed for rotating electrical machines used in\nagricultural applications, primarily focusing on motors that drive pumps for irrigation and water\nlifting. These motors are specially designed for reliable operation in rural environments, often\nunder fluctuating voltage, dusty conditions, and limited maintenance. The standards ensure\nenergy-efficient, durable, and field-suitable motors for centrifugal and submersible pump sets.\n1. IS 9283:2024\nTitle: Line Operated A.C. Motors for Submersible Pump Sets – Specification (Third Revision)\nThis standard specifies the design, construction, and performance of AC motors used for\nsubmersible pump sets, which are deployed in deep bore wells for irrigation. It covers both\nsingle-phase and three-phase motors, including oil-filled and water-filled types. Key features\ninclude slim body construction, moisture sealing, and higher thrust bearing capacities to\nhandle vertical mounting and hydrostatic pressure. The standard is aligned with modern\nenergy-efficiency norms and ensures operational safety under subm",
+      "character_count": 1800,
+      "standard_numbers": [
+        "IS 4665 (Part 2/Sec 7):2023",
+        "IS 9283:2024"
+      ],
+      "evidence": {
+        "source_pdf": "compendium_2025-06-02-05-07-45.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "compendium_2025-06-02-05-07-45_pNone_c2",
+      "document_type": "standard",
+      "source_pdf": "compendium_2025-06-02-05-07-45.pdf",
+      "document_title": "Prepared By:",
+      "page_number": null,
+      "chunk_index": 10,
+      "text": "eatures\ninclude slim body construction, moisture sealing, and higher thrust bearing capacities to\nhandle vertical mounting and hydrostatic pressure. The standard is aligned with modern\nenergy-efficiency norms and ensures operational safety under submerged conditions.\n2. IS 7538:1996\nTitle: Three-Phase Squirrel Cage Induction Motors for Centrifugal Pumps for Agricultural\nApplication – Specification (First Revision)\nThis standard lays down the requirements for three-phase squirrel cage induction motors\nused in driving centrifugal water pumps in agriculture. It includes specifications for motor rating,\nvoltage range (typically for rural feeder conditions), design for high ambient temperatures, and\noverload capacities. Mechanical features such as foot mounting, terminal box orientation, and\nshaft dimensions are also covered. The focus is on ruggedness, reliability, and simplicity of\ndesign.\n3. IS 14582:2021",
+      "character_count": 916,
+      "standard_numbers": [
+        "IS 7538:1996",
+        "IS 14582:2021"
+      ],
+      "evidence": {
+        "source_pdf": "compendium_2025-06-02-05-07-45.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "compendium_2025-06-02-05-07-45_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "compendium_2025-06-02-05-07-45.pdf",
+      "document_title": "Prepared By:",
+      "page_number": null,
+      "chunk_index": 11,
+      "text": "Title: Single-Phase Small AC Electric Motors for Centrifugal Pumps for Agricultural Applications\nThis standard focuses on small-capacity, single-phase induction motors typically used with\nshallow well or surface-mounted centrifugal pumps. It includes performance requirements such\nas starting torque, voltage tolerance, capacitor specifications, and thermal protection. These\nmotors are crucial in low-load, small-farm setups, and are designed for economical operation\nand easy field serviceability.\n1.4 SPECIFIC APPLICATION MOTORS\n1. IS 14578:1999 (Under Revision)\nTitle: Three-Phase Induction Motors for Use in Nuclear Power Plants – Specification\nThis is a specialized standard specifying design, construction, and testing requirements for\ninduction motors used in nuclear power installations. These motors must meet enhanced safety,\nreliability, and environmental qualification standards. The document ensures suitability under\nseismic, thermal, and radiation stress conditions.\n2. IS 8151:2024\nTitle: Single-Speed Three-Phase Induction Motors for Driving Lifts – Specification (First\nRevision)\nIS 8151:2024 specifies the performance and constructional requirements for single-speed\nthree-phase induction motors used in lift (elevator) applications. These motors are\nspecially designed to deliver high starting torque, smooth acceleration, and consistent\nperformance under frequent start-stop duty cycles common in vertical transport systems. The\nstandard outlines parameters for duty type, thermal classification, starting current, torque\ncharacteristics, and mechanical construction to ensure safety, reliability, and efficient\noperation. It also addresses vibration limits, insulation, and protection classes, ensuring\ncompatibility with elevator gear mechanisms and compliance with safety cod",
+      "character_count": 1800,
+      "standard_numbers": [
+        "IS 14578:1999",
+        "IS 8151:2024"
+      ],
+      "evidence": {
+        "source_pdf": "compendium_2025-06-02-05-07-45.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "compendium_2025-06-02-05-07-45_pNone_c2",
+      "document_type": "standard",
+      "source_pdf": "compendium_2025-06-02-05-07-45.pdf",
+      "document_title": "Prepared By:",
+      "page_number": null,
+      "chunk_index": 12,
+      "text": "teristics, and mechanical construction to ensure safety, reliability, and efficient\noperation. It also addresses vibration limits, insulation, and protection classes, ensuring\ncompatibility with elevator gear mechanisms and compliance with safety codes.\n3. IS 18073:2023\nTitle: Electric Traction Motor – Performance and Functional Requirements\nIS 18073:2023 (published under TED 27 committee) establishes comprehensive performance\nand functional requirements for electric traction motors. The standard encompasses critical\naspects such as safety, environmental suitability, electromagnetic compatibility (EMC), and\ndurability. By aligning with international best practices, IS 18073:2023 aims to ensure the\nreliability, safety, and efficiency of electric traction systems, thereby supporting the advancement\nof electric mobility in India.\n1.5 BRUSH STANDARDS",
+      "character_count": 858,
+      "standard_numbers": [
+        "IS 18073:2023"
+      ],
+      "evidence": {
+        "source_pdf": "compendium_2025-06-02-05-07-45.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "compendium_2025-06-02-05-07-45_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "compendium_2025-06-02-05-07-45.pdf",
+      "document_title": "Prepared By:",
+      "page_number": null,
+      "chunk_index": 13,
+      "text": "This section focuses on standards related to brushes and brush-holders used in rotating\nelectrical machines—mainly in DC motors, slip ring induction motors, and some synchronous\nmachines. These components are critical for reliable current transfer between stationary and\nrotating parts. The standards ensure consistency in design, performance, contact pressure,\nmaterial compatibility, and safe operation of brushes under different loading conditions.\n1. IS 12642:1989 / IEC 60778 (Identical)\nTitle: Brush-Holders for Slip Rings Group R, Type RA – Specification\nThis standard specifies the dimensional and constructional requirements for brush-holders\nof type RA used with slip rings in rotating machines. It ensures compatibility between\nbrush-holders and brushes, and defines mounting arrangements, clearances, and material\nguidelines. This standard is especially relevant for machines where slip ring current\ntransmission is required—such as wound rotor induction motors and synchronous generators.\n2. IS 13466:1992 (Under Revision)\nTitle: Brushes for Electrical Machines – Specification\nIS 13466 provides a comprehensive specification for carbon brushes used in rotating\nmachines. It includes classifications based on brush material (e.g., electrographitic,\nresin-bonded), physical dimensions, electrical characteristics, and performance under\nmechanical and thermal stress. The standard also defines testing methods for brush wear,\ntemperature rise, and contact drop. It is currently under revision to incorporate new materials\nand usage patterns.\n3. IS 13525:1992 (Under Revision)\nTitle: Flexible Conductors for Carbon Brushes – Specification\nThis standard specifies requirements for flexible braided conductors (pigtails) used to\nconnect carbon brushes to current-carrying terminals. It covers",
+      "character_count": 1800,
+      "standard_numbers": [
+        "IS 12642:1989",
+        "IS 13466:1992",
+        "IS 13525:1992"
+      ],
+      "evidence": {
+        "source_pdf": "compendium_2025-06-02-05-07-45.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "compendium_2025-06-02-05-07-45_pNone_c2",
+      "document_type": "standard",
+      "source_pdf": "compendium_2025-06-02-05-07-45.pdf",
+      "document_title": "Prepared By:",
+      "page_number": null,
+      "chunk_index": 14,
+      "text": "s.\n3. IS 13525:1992 (Under Revision)\nTitle: Flexible Conductors for Carbon Brushes – Specification\nThis standard specifies requirements for flexible braided conductors (pigtails) used to\nconnect carbon brushes to current-carrying terminals. It covers aspects such as conductor\nmaterial, strand configuration, current capacity, and resistance to mechanical fatigue. Proper\ndesign ensures uninterrupted power transfer and minimizes vibration-induced failures. This\nstandard supports high-reliability motor applications.\n2 TEST METHOD STANDARDS\n2.1 BASIC TEST METHOD STANDARDS\n1. IS/IEC 60034-2-1 : 2024/IEC 60034-2-1:2024 (Identical under single\nnumbering)\nTitle: Rotating Electrical Machines – Part 2: Determining Losses and Efficiency from Tests –\nSection 1: Standard Methods (Excluding Machines for Traction Vehicles)",
+      "character_count": 818,
+      "standard_numbers": [
+        "IS 13525:1992"
+      ],
+      "evidence": {
+        "source_pdf": "compendium_2025-06-02-05-07-45.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "compendium_2025-06-02-05-07-45_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "compendium_2025-06-02-05-07-45.pdf",
+      "document_title": "Prepared By:",
+      "page_number": null,
+      "chunk_index": 15,
+      "text": "IS/IEC 60034-2-1:2024 specifies standardized methods for determining the total losses and\nefficiency of rotating electrical machines (excluding traction motors) through testing. It defines\ndirect and indirect test methods suitable for a wide range of machine types and sizes. The\nstandard includes:\n● Input-output method (direct efficiency measurement)\n\n● Summation of losses with load test using segregated losses and stray load loss from\nresidual loss at rated load\n\n● Summation of losses with load test using segregated losses and calculated stray load\nlosses\n\n● Summation of losses with load test using segregated losses and fixed stray load loss\n(0.5% of input)\n\n● Calorimetric method (for machines with significant cooling losses)\nThese methods are intended for accuracy classes 0.1 to 1.0, and the standard includes detailed\nprocedures for loss separation (e.g., stator copper, rotor copper, iron, mechanical, and stray\nload losses), corrections for temperature and frequency, and harmonized conditions for\ncomparison of efficiencies. The guidance ensures reliable, reproducible, and comparable\nefficiency data for product evaluation, compliance, and labeling.",
+      "character_count": 1167,
+      "standard_numbers": [],
+      "evidence": {
+        "source_pdf": "compendium_2025-06-02-05-07-45.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "compendium_2025-06-02-05-07-45_pNone_c2",
+      "document_type": "standard",
+      "source_pdf": "compendium_2025-06-02-05-07-45.pdf",
+      "document_title": "Prepared By:",
+      "page_number": null,
+      "chunk_index": 16,
+      "text": "2. IS/IEC 60034-18-42) : 2017/ IEC 60034-18-42:2017+AMD1:2020 CSV\n(Identical under single numbering)\nTitle: Rotating Electrical Machines – Part 18: Partial Discharge Resistant Electrical Insulation\nSystems (Type II) Fed from Voltage Converters – Section 42: Qualification Tests\nThis standard defines qualification tests for Type II insulation systems, which are capable of\nwithstanding partial discharges under repetitive voltage stress typical of PWM converters. These\nsystems are designed for improved lifetime performance in demanding converter-fed machine\napplications. The tests focus on thermal endurance, electrical stress resilience, and long-term\npartial discharge behavior.\n3. IS/IEC 60034-18-41 : 2014/ (IEC 60034-18-41:2014+AMD1:2019 CSV)\n(Identical under single numbering)\nTitle: Rotating Electrical Machines – Part 18: Partial Discharge Free Electrical Insulation\nSystems – Section 41: Type I Systems Fed from Voltage Converters – Qualification and Quality\nControl Tests\nThis specialized standard is concerned with the insulation systems used in rotating machines\nsupplied by modern voltage converters (like variable frequency drives). It lays out tests to qualify",
+      "character_count": 1178,
+      "standard_numbers": [],
+      "evidence": {
+        "source_pdf": "compendium_2025-06-02-05-07-45.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "compendium_2025-06-02-05-07-45_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "compendium_2025-06-02-05-07-45.pdf",
+      "document_title": "Prepared By:",
+      "page_number": null,
+      "chunk_index": 17,
+      "text": "insulation systems that are resistant to partial discharges induced by fast switching waveforms.\nThe focus is on Type I insulation systems and includes both qualification and ongoing quality\ncontrol measures to ensure long-term reliability.\n4 IS/IEC 60034-27-4 : 2018/IEC 60034-27-4 : 2018 (Identical under single\nnumbering)\nTitle: Rotating Electrical Machines – Part 27: Winding Insulation – Section 4: Measurement of\nInsulation Resistance and Polarization Index\nThis standard lays out procedures for measuring the insulation resistance (IR) and\npolarization index (PI) of machine windings, key indicators of insulation health. These tests are\nsimple but powerful diagnostic tools, often used in preventive maintenance. They help assess\ninsulation degradation due to moisture, contamination, or thermal aging.\n5. IS 4029:2010 (Under Revision)\nTitle: Guide for Testing Three-Phase Induction Motors (First Revision)\nThis standard provides detailed guidance on the type, routine, and special tests for\nthree-phase induction motors. It includes insulation resistance, winding resistance, no-load and\nfull-load tests, vibration, noise, and heating tests. The objective is to verify compliance with\nspecifications and operational safety before dispatch or after repair. It is under revision to reflect\nmodern motor designs and testing equipment capabilities.\n6. IS 9320:2025\nTitle: Guide for Testing Direct Current (DC) Machines (First Revision)\nThis updated guide outlines test procedures for DC motors and generators, including\ncommutation, insulation, armature reaction, temperature rise, and efficiency tests. It ensures DC\nmachines meet performance and safety requirements as per application demands in traction,\nindustrial drives, or process automation.\n7. IS 7572:1974 (Under Revision)\nTitle: Guide",
+      "character_count": 1800,
+      "standard_numbers": [
+        "IS 4029:2010",
+        "IS 9320:2025",
+        "IS 7572:1974"
+      ],
+      "evidence": {
+        "source_pdf": "compendium_2025-06-02-05-07-45.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "compendium_2025-06-02-05-07-45_pNone_c2",
+      "document_type": "standard",
+      "source_pdf": "compendium_2025-06-02-05-07-45.pdf",
+      "document_title": "Prepared By:",
+      "page_number": null,
+      "chunk_index": 18,
+      "text": "armature reaction, temperature rise, and efficiency tests. It ensures DC\nmachines meet performance and safety requirements as per application demands in traction,\nindustrial drives, or process automation.\n7. IS 7572:1974 (Under Revision)\nTitle: Guide for Testing Single-Phase AC and Universal Motors\nThis standard specifies procedures for testing small single-phase AC motors and universal\nmotors used in household appliances and tools. The guide includes performance checks,\ndielectric strength, efficiency, and thermal limits. It is under revision to reflect modern motor\ndesigns and testing equipment capabilities.\n8. IS 12075:2024 / IEC 60034-14:2018 (Modified)\nTitle: Mechanical Vibration of Rotating Electrical Machines with Shaft Heights 56 mm and\nHigher – Measurement, Evaluation and Limits of Vibration Severity\nThis standard details how to measure and assess vibration severity in machines with medium",
+      "character_count": 911,
+      "standard_numbers": [
+        "IS 7572:1974",
+        "IS 12075:2024"
+      ],
+      "evidence": {
+        "source_pdf": "compendium_2025-06-02-05-07-45.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "compendium_2025-06-02-05-07-45_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "compendium_2025-06-02-05-07-45.pdf",
+      "document_title": "Prepared By:",
+      "page_number": null,
+      "chunk_index": 19,
+      "text": "and large shaft heights. Acceptable limits are prescribed to prevent mechanical damage,\npremature bearing failure, and structural resonance. It’s widely used during factory acceptance\ntesting and commissioning.\n2.2 NOISE MEASUREMENT STANDARDS\nThis category covers standards for the measurement, declaration, and verification of noise\nemissions from rotating electrical machines and industrial equipment. Accurate noise data is\ncrucial for ensuring compliance with environmental norms, workplace safety, and acoustic\ndesign criteria. These standards use statistical and direct measurement methods to determine\nnoise levels for individual machines or batches.\n1. IS 13937 (Part 1):1994 / ISO 7574-1 (Identical)\nTitle: Statistical Methods for Determining and Verifying Stated Noise Emission Values of\nMachinery and Equipment – Part 1: General Considerations and Definitions\nThis standard lays the foundation for the entire series by defining the terminology, statistical\napproaches, and basic principles involved in declaring and verifying noise emission values. It\nintroduces key concepts like statistical uncertainty, measurement repeatability, and types of\ndeclared values, establishing a consistent framework for all subsequent parts.\n2. IS 13937 (Part 2):1994 / ISO 7574-2 (Identical)\nTitle: Statistical Methods – Part 2: Methods for Stated Values for Individual Machines\nThis part focuses on the noise measurement of individual machines, providing procedures\nto determine and verify the sound power level emitted. It includes confidence intervals and\nverification criteria, especially for machines produced in small numbers or custom applications.\n3. IS 13937 (Part 3):1994 / ISO 7574-3 (Identical)\nTitle: Statistical Methods – Part 3: Simple (Transition) Method for Stated Values for Batches of\nM",
+      "character_count": 1800,
+      "standard_numbers": [
+        "IS 13937 (Part 1):1994",
+        "IS 13937 (Part 2):1994",
+        "IS 13937 (Part 3):1994"
+      ],
+      "evidence": {
+        "source_pdf": "compendium_2025-06-02-05-07-45.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "compendium_2025-06-02-05-07-45_pNone_c2",
+      "document_type": "standard",
+      "source_pdf": "compendium_2025-06-02-05-07-45.pdf",
+      "document_title": "Prepared By:",
+      "page_number": null,
+      "chunk_index": 20,
+      "text": "and\nverification criteria, especially for machines produced in small numbers or custom applications.\n3. IS 13937 (Part 3):1994 / ISO 7574-3 (Identical)\nTitle: Statistical Methods – Part 3: Simple (Transition) Method for Stated Values for Batches of\nMachines\nDesigned for batch-produced machines, this method provides a simplified statistical approach\nfor manufacturers to determine noise emission values. It acts as a transition method between\nbasic and rigorous statistical techniques, suitable for medium production volumes.\n4. IS 13937 (Part 4):1994 / ISO 7574-4 (Identical)\nTitle: Statistical Methods – Part 4: Methods for Stated Values for Batches of Machines\nThis part provides detailed statistical procedures to determine and verify stated noise values\nfor large batches of identical machines. It is especially useful in factory acceptance testing,\nproduct certification, and conformity assessments, ensuring reproducibility and traceability of\nacoustic data.",
+      "character_count": 966,
+      "standard_numbers": [
+        "IS 13937 (Part 3):1994",
+        "IS 13937 (Part 4):1994"
+      ],
+      "evidence": {
+        "source_pdf": "compendium_2025-06-02-05-07-45.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "compendium_2025-06-02-05-07-45_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "compendium_2025-06-02-05-07-45.pdf",
+      "document_title": "Prepared By:",
+      "page_number": null,
+      "chunk_index": 21,
+      "text": "5. IS 12998:2024 / ISO 1680-1:2013 (Identical)\nTitle: Acoustics – Test Code for the Measurement of Airborne Noise Emitted by Rotating\nElectrical Machines\nThis standard defines practical methods for measuring airborne sound power levels emitted\nby rotating electrical machines under standardized operating conditions. It includes\nspecifications for test setups, environmental corrections, background noise adjustment, and\ninstrumentation calibration. It ensures uniformity in reporting and facilitates comparison across\nmanufacturers and models.\n11. IS 12065 : 2025/ IEC 60034-9:2021 (modified)\nTitle: Permissible Limits of Noise Levels for Rotating Electrical Machines\nThis standard defines measurement procedures and permissible noise limits for electrical\nmachines under standard operating conditions. It accounts for sound pressure levels emitted by\nmachines and supports quieter machine design, workplace safety, and noise compliance in\nsensitive applications.\n3 DIMENSIONS AND SYMBOLS STANDARDS\nDimensional standardization ensures interchangeability, uniformity in design, and\ncompatibility of motors with mechanical equipment like pumps, compressors, and gearboxes.\nThe following Indian standards—many aligned with international norms—cover dimensional\naspects such as frame sizes, mounting types, shaft extensions, and flange details.\n1. IS 1231:2019\nTitle: Dimensions and Output Series of Foot-Mounted Induction Motors — Frame Numbers 56\nto 315 L (Fourth Revision)\nThis standard specifies frame sizes, mounting dimensions, and shaft details for\nfoot-mounted squirrel cage induction motors. It covers frame sizes from 56 to 315L, which are\ncommonly used in a wide variety of industrial applications. This helps ensure dimensional\ncompatibility across manufacturers and facilitates equipment re",
+      "character_count": 1800,
+      "standard_numbers": [
+        "IS 12998:2024",
+        "IS 12065:2025",
+        "IS 1231:2019"
+      ],
+      "evidence": {
+        "source_pdf": "compendium_2025-06-02-05-07-45.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "compendium_2025-06-02-05-07-45_pNone_c2",
+      "document_type": "standard",
+      "source_pdf": "compendium_2025-06-02-05-07-45.pdf",
+      "document_title": "Prepared By:",
+      "page_number": null,
+      "chunk_index": 22,
+      "text": "or\nfoot-mounted squirrel cage induction motors. It covers frame sizes from 56 to 315L, which are\ncommonly used in a wide variety of industrial applications. This helps ensure dimensional\ncompatibility across manufacturers and facilitates equipment replacement and maintenance.\n2. IS 2223:1983 (Under Revision)\nTitle: Dimensions of Flange-Mounted AC Induction Motors\nIS 2223 covers the flange mounting dimensions (Type B5 and B14) of AC induction motors.\nThese flange-mounted motors are often used in compact applications like gearboxes or pumps\nwhere alignment and space are critical. Although dated, it has remained an important reference\nuntil its upcoming revision to align with IEC 60072.\n3. IS 2254:1985 (Under Revision)",
+      "character_count": 725,
+      "standard_numbers": [
+        "IS 2223:1983",
+        "IS 2254:1985"
+      ],
+      "evidence": {
+        "source_pdf": "compendium_2025-06-02-05-07-45.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "compendium_2025-06-02-05-07-45_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "compendium_2025-06-02-05-07-45.pdf",
+      "document_title": "Prepared By:",
+      "page_number": null,
+      "chunk_index": 23,
+      "text": "Title: Dimensions of Vertical Shaft Motors for Pumps (Second Revision)\nThis standard defines the dimensional requirements for vertically mounted motors,\nparticularly those used in pump applications. It includes specifications for shaft dimensions,\nbearing arrangements, and flange interfaces to ensure seamless integration with pump units.\nRevision efforts aim to align it more closely with contemporary mechanical and hydraulic pump\ndesigns.\n4. IS 8223:1999 / IEC 60072-2 (Identical)\nTitle: Dimensions and Output Series for Rotating Electrical Machines (First Revision)\nThis standard provides a generalized output and frame size series for rotating machines,\nregardless of specific type. It is harmonized with IEC 60072-2 and ensures standardized motor\nsizes across different machine types (AC/DC, foot/flange mounted). It aids in rational design\npractices and cross-brand compatibility in industrial setups.\n5. IS 15999 (Part 7) : 2024/ IEC 60034-7:2020 (identical)\nTitle: Rotating Electrical Machines – Part 7: Classification of Types of Construction, Mounting\nArrangements, and Terminal Box Position (IM Code)\nThis standard provides a systematic coding system (IM Code) for identifying the mounting\narrangements, structural designs, and terminal box orientations of rotating electrical machines.\nIt enables standardized identification across manufacturers and users, simplifying installation\nand interchangeability across applications. It’s essential for mechanical integration in plant\ndesign.\n6. IS/IEC 60034-8 : 2014/IEC 60034-8 : 2014 (Identical under single\nnumbering)\nTitle: Rotating Electrical Machines – Part 8: Terminal Markings and Direction of Rotation\nThis document standardizes the marking of terminals and ensures clarity on the direction of\nrotation for three-phase and single-phas",
+      "character_count": 1800,
+      "standard_numbers": [
+        "IS 8223:1999",
+        "IS 15999 (Part 7):2024"
+      ],
+      "evidence": {
+        "source_pdf": "compendium_2025-06-02-05-07-45.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "compendium_2025-06-02-05-07-45_pNone_c2",
+      "document_type": "standard",
+      "source_pdf": "compendium_2025-06-02-05-07-45.pdf",
+      "document_title": "Prepared By:",
+      "page_number": null,
+      "chunk_index": 24,
+      "text": "cal under single\nnumbering)\nTitle: Rotating Electrical Machines – Part 8: Terminal Markings and Direction of Rotation\nThis document standardizes the marking of terminals and ensures clarity on the direction of\nrotation for three-phase and single-phase machines. Correct terminal marking is crucial for safe\ninstallation, phase sequencing, and ensuring desired rotational direction. This standard\npromotes consistency across equipment and minimizes wiring errors.\n7. IS 6362:1995 / IEC 60034-6 (Identical)\nTitle: Designation of Methods of Cooling for Rotating Electrical Machines\nThis standard establishes a coded system for identifying cooling methods used in electrical\nmachines, such as IC01 (open air), IC411 (self-ventilated with frame-mounted cooler), etc.\nProper cooling classification ensures safe thermal performance and helps in the selection of\nmachines for different environmental and duty conditions.\n4 GUIDES AND CODE OF PRACTICE STANDARDS",
+      "character_count": 952,
+      "standard_numbers": [
+        "IS 6362:1995"
+      ],
+      "evidence": {
+        "source_pdf": "compendium_2025-06-02-05-07-45.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "compendium_2025-06-02-05-07-45_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "compendium_2025-06-02-05-07-45.pdf",
+      "document_title": "Prepared By:",
+      "page_number": null,
+      "chunk_index": 25,
+      "text": "This category includes testing guides and operational best practices for various types of\nrotating machines. These standards are essential for ensuring correct testing, safe operation,\nreliability, and long service life of electrical motors and generators. They are widely used by\ntesting labs, quality assurance engineers, maintenance personnel, and commissioning teams.\n1. IS/IEC 60034-5 : 2020 / IEC 60034-5:2020 (Identical under single\nnumbering)\nTitle: Rotating Electrical Machines – Part 5: Degrees of Protection Provided by the Integral\nDesign (IP Code) – Classification\nThis standard specifies the enclosure protection levels against the ingress of solid objects and\nwater (IP ratings) as designed into the rotating machine itself. It helps in categorizing machines\nbased on their environmental protection capability, which is critical for specifying machines for\nindustrial, outdoor, or hazardous environments. The IP classification aligns with broader IEC\n60529 coding.\n2. IS 900:2019\nTitle: Code of Practice for Storage, Installation, and Maintenance of Induction Motors (Third\nRevision)\nIS 900 provides structured procedures for the handling, storage, installation, alignment, and\npreventive maintenance of induction motors. It helps users ensure motors retain their\nperformance over time, particularly in industrial environments where factors like humidity,\nvibration, and dust can degrade equipment prematurely.\n3. IS 15429:2004\nTitle: Storage, Installation, and Maintenance of DC Motors – Code of Practice\nSimilar to IS 900 but focused on DC motors, this standard provides guidelines for long-term\nmotor preservation, shaft locking, bearing lubrication, and installation practices specific to DC\nmachinery. It’s particularly relevant in heavy-duty or mission-critical systems like roll",
+      "character_count": 1800,
+      "standard_numbers": [
+        "IS 15429:2004"
+      ],
+      "evidence": {
+        "source_pdf": "compendium_2025-06-02-05-07-45.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "compendium_2025-06-02-05-07-45_pNone_c2",
+      "document_type": "standard",
+      "source_pdf": "compendium_2025-06-02-05-07-45.pdf",
+      "document_title": "Prepared By:",
+      "page_number": null,
+      "chunk_index": 26,
+      "text": "on DC motors, this standard provides guidelines for long-term\nmotor preservation, shaft locking, bearing lubrication, and installation practices specific to DC\nmachinery. It’s particularly relevant in heavy-duty or mission-critical systems like rolling mills or\ndefense systems where downtime is unacceptable.\n4. IS/IEC 60034-23:2019 (under print)\nTitle: Rotating Electrical Machines – Part 23: Repair, Overhaul, and Reclamation\nThis standard provides comprehensive guidelines for the repair, refurbishment, and\noverhaul of rotating electrical machines, including AC and DC types. It emphasizes maintaining\nor restoring original design performance, safety, and reliability during repair. The standard\ncovers aspects such as disassembly, winding replacement, insulation checks, mechanical\ntolerances, and testing post-repair. It also promotes traceability and quality control during\nreclamation, helping reduce life-cycle costs while maintaining machine integrity.\n5. IS/IEC TS 60034-25:2022 (under print)",
+      "character_count": 1004,
+      "standard_numbers": [
+        "IS 15429:2004"
+      ],
+      "evidence": {
+        "source_pdf": "compendium_2025-06-02-05-07-45.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "compendium_2025-06-02-05-07-45_pNone_c1",
+      "document_type": "standard",
+      "source_pdf": "compendium_2025-06-02-05-07-45.pdf",
+      "document_title": "Prepared By:",
+      "page_number": null,
+      "chunk_index": 27,
+      "text": "Title: Rotating Electrical Machines – Part 25: AC Electrical Machines Used in Power Drive\nSystems – Application Guide\nThis technical specification serves as an application guide for AC machines used with\npower electronic converters in Power Drive Systems (PDS). It addresses machine behavior\nunder voltage modulation, insulation stress, harmonic heating, and bearing currents resulting\nfrom converter-fed operation. It also includes recommendations for selecting compatible\nmotor-converter combinations, cooling needs, and derating factors. This guide is essential for\nensuring reliable operation in industrial automation, robotics, and variable-speed drive\napplications.\n6. IS 14195:1994 / IEC 61015 (Identical)\nTitle: Brush-Holders for Electrical Machines – Guide to the Measurement of the Static Thrust\nApplied to Brushes\nThis guide describes methods for measuring the static pressure (or thrust) exerted by\nbrush-holders on brushes. Correct contact pressure is essential for efficient current transfer,\nreduced wear, and preventing arcing or overheating. The standard helps maintain optimum\nbrush life and motor performance by specifying mechanical and measurement techniques to\nverify thrust settings.\n7. IS 13529:2021 / IEC 60034-26:2006 (Modified)\nTitle: Guide on Effects of Unbalanced Voltages on the Performance of Three-Phase Cage\nInduction Motors (First Revision)\nIS 13529:2021 provides a comprehensive guide on the impact of voltage unbalance on the\nperformance, efficiency, and thermal behavior of three-phase squirrel cage induction motors.\nVoltage unbalance, even when minor, can lead to increased losses, reduced torque output,\noverheating, and premature insulation failure. This standard defines acceptable limits of\nunbalance, explains methods to quantify it (e.g., percentage volta",
+      "character_count": 1800,
+      "standard_numbers": [
+        "IS 14195:1994",
+        "IS 13529:2021"
+      ],
+      "evidence": {
+        "source_pdf": "compendium_2025-06-02-05-07-45.pdf",
+        "page_number": null
+      }
+    },
+    {
+      "chunk_id": "compendium_2025-06-02-05-07-45_pNone_c2",
+      "document_type": "standard",
+      "source_pdf": "compendium_2025-06-02-05-07-45.pdf",
+      "document_title": "Prepared By:",
+      "page_number": null,
+      "chunk_index": 28,
+      "text": "ors.\nVoltage unbalance, even when minor, can lead to increased losses, reduced torque output,\noverheating, and premature insulation failure. This standard defines acceptable limits of\nunbalance, explains methods to quantify it (e.g., percentage voltage unbalance), and provides\nderating factors to adjust motor loading under such conditions. It serves as a valuable\nreference for motor users and designers to mitigate risks, ensure motor longevity, and maintain\nenergy-efficient operation in real-world, often imperfect, supply conditions.",
+      "character_count": 539,
+      "standard_numbers": [
+        "IS 14195:1994",
+        "IS 13529:2021"
+      ],
+      "evidence": {
+        "source_pdf": "compendium_2025-06-02-05-07-45.pdf",
+        "page_number": null
+      }
+    }
+  ]
+}
